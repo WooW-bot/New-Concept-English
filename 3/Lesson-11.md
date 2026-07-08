@@ -2,21 +2,61 @@
 
 ## 课文内容 (Text)
 
-Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare. Even really honest people are often made to feel guilty. The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase.
+Customs officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare.
+如今的海关官员相当宽容，但当你走“无申报通道”且确实没有什么需要申报时，他们仍有可能拦住你。
+Even really honest people are often made to feel guilty.
+即使是真正诚实的人也常会被弄得心虚。
+The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase.
+而另一方面，那些老练的职业走私犯却从不会有这种感觉，即使他们的手提箱里藏着五百块金表。
 
-When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler. 'Have you anything to declare?' he asked, looking me in the eye.
+When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.
+最近我从国外回来时，一位特别爱管闲事的年轻海关官员显然把我当成了走私犯。
+'Have you anything to declare?' he asked, looking me in the eye.
+“你有什么要申报的吗？”他盯着我的眼睛问道。
 
-'No,' I answered confidently. 'Would you mind unlocking this suitcase please? ' 'Not at all,' I answered.
+'No,' I answered confidently.
+“没有，”我自信地回答。
+'Would you mind unlocking this suitcase please?'
+“请把这个手提箱打开好吗？”
+'Not at all,' I answered.
+“没问题，”我回答道。
 
-The Officer went through the case with great care. All the things I had packed so carefully were soon in a dreadful mess. I felt sure I would never be able to close the case again.
+The Officer went through the case with great care.
+那位官员非常仔细地检查了箱子。
+All the things I had packed so carefully were soon in a dreadful mess.
+我精心打包的所有东西很快就被弄得乱七八糟。
+I felt sure I would never be able to close the case again.
+我确信自己再也无法把箱子合上了。
 
-Suddenly, I saw the Officer's face light up. He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
+Suddenly, I saw the Officer's face light up.
+突然，我看到那位官员的脸上露出了喜色。
+He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
+他在我的箱底发现了一个小瓶子，便高兴地一把抓起它。
 
-'Perfume, eh?' he asked sarcastically. 'You should have declared that. Perfume is not exempt from import duty.  ' 'But it isn't perfume, I said. 'It's hair gel.  ' Then I added with a smile, 'It's a strange mixture I make myself.
+'Perfume, eh?' he asked sarcastically.
+“香水，嗯？”他讥讽地问道。
+'You should have declared that.'
+“你本该申报的。”
+'Perfume is not exempt from import duty.'
+“香水不在进口关税免税之列。”
+'But it isn't perfume,' I said.
+“但这不是香水，”我说。
+'It's hair gel.'
+“这是发胶。”
+Then I added with a smile, 'It's a strange mixture I make myself.'
+接着我微笑着补充道：“这是我自己配制的一种奇怪的混合物。”
 
-As I expected, he did not believe me. 'Try it!' I said encouragingly. The Officer unscrewed the cap and put the bottle to his nostrils.
+As I expected, he did not believe me.
+不出我所料，他不相信我。
+'Try it!' I said encouragingly.
+“试试看！”我鼓励道。
+The Officer unscrewed the cap and put the bottle to his nostrils.
+那位官员拧开瓶盖，把瓶子凑到鼻孔前。
 
-He was greeted by an unpleasant smell which convinced him that I was telling the truth. A few minutes later, I was able to hurry away with precious chalk marks on my baggage.
+He was greeted by an unpleasant smell which convinced him that I was telling the truth.
+一股难闻的气味扑鼻而来，这使他相信我说的都是实话。
+A few minutes later, I was able to hurry away with precious chalk marks on my baggage.
+几分钟后，我的行李上被画上了宝贵的粉笔标记，我得以匆匆离去。
 
 
 ---

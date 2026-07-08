@@ -2,21 +2,49 @@
 
 ## 课文内容 (Text)
 
-It has been said that everyone lives by selling something. In the light of this statement, teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort.
+It has been said that everyone lives by selling something.
+人们常说，每个人都是靠出卖某种东西来维持生活的。
+In the light of this statement, teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort.
+按照这种说法，教师靠出卖知识为生，哲学家靠出卖智慧为生，而牧师则靠出卖精神慰藉为生。
 
-Though it may be possible to measure the value of material goods in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us. There are times when we would willingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.
+Though it may be possible to measure the value of material goods in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us.
+虽然物质商品的价值可以用金钱来衡量，但人们为我们所提供的服务的真正价值却极难估量。
+There are times when we would willingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.
+有时我们为了挽救生命，宁愿付出自己拥有的一切，但当外科医生确实为我们提供了这种服务时，我们却可能舍不得付给他高额的手术费。
 
-The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop. Everyone has something to sell. Tramps seem to be the only exception to this general rule.
+The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop.
+社会状况就是这样，技能必须像商店里的商品一样，通过付费来获得。
+Everyone has something to sell.
+每个人都有东西可卖。
+Tramps seem to be the only exception to this general rule.
+流浪汉似乎是这一普遍规律中唯一的例外。
 
-Beggars almost sell themselves as human beings to arouse the pity of passers-by. But real tramps are not beggars. They have nothing to sell and require nothing from others.
+Beggars almost sell themselves as human beings to arouse the pity of passers-by.
+乞丐几乎是把自己当作人来出卖，以博取路人的同情。
+But real tramps are not beggars.
+但真正的流浪汉不是乞丐。
+They have nothing to sell and require nothing from others.
+他们没有什么可卖的，也不需要别人的任何东西。
 
-In seeking independence, they do not sacrifice their human dignity. A tramp may ask you for money, but he will never ask you to feel sorry for him. He has deliberately chosen to lead the life he leads and is fully aware of the consequences.
+In seeking independence, they do not sacrifice their human dignity.
+在追求独立的过程中，他们并没有牺牲自己的人格尊严。
+A tramp may ask you for money, but he will never ask you to feel sorry for him.
+流浪汉可能会向你要钱，但他绝不会要求你同情他。
+He has deliberately chosen to lead the life he leads and is fully aware of the consequences.
+他是有意选择了他所过的这种生活，并且完全清楚其后果。
 
-He may never be sure where the next meal is coming from, but he is free from the thousands of anxieties which afflict other people. His few material possessions make it possible for him to move from place to place with ease.
+He may never be sure where the next meal is coming from, but he is free from the thousands of anxieties which afflict other people.
+他可能永远无法确定下一顿饭在哪里，但他却摆脱了困扰其他人的成千上万种烦恼。
+His few material possessions make it possible for him to move from place to place with ease.
+他那少得可怜的物质财富使他能够轻松地从一个地方迁徙到另一个地方。
 
-By having to sleep in the open, he gets far closer to the world of nature than most of us ever do. He may hunt, beg, or steal occasionally to keep himself alive; he may even, in times of real need, do a little work; but he will never sacrifice his freedom.
+By having to sleep in the open, he gets far closer to the world of nature than most of us ever do.
+由于必须露宿野外，他比我们大多数人更接近大自然。
+He may hunt, beg, or steal occasionally to keep himself alive; he may even, in times of real need, do a little work; but he will never sacrifice his freedom.
+为了生存，他偶尔也会打猎、乞讨或偷窃；在真正需要的时候，他甚至会做点零活；但他绝不会牺牲自己的自由。
 
 We often speak of tramps with contempt and put them in the same class as beggars, but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?
+我们常常轻蔑地谈论流浪汉，把他们和乞丐归为一类，但我们中有多少人能诚实地说，自己没有对他们那种简单的生活方式和无忧无虑的生活产生过一丝羡慕呢？
 
 
 ---

@@ -2,21 +2,59 @@
 
 ## 课文内容 (Text)
 
-We often read in novels how a seemingly respectable person or family has some terrible secret which has been concealed from strangers for years. The English language possesses a vivid saying to describe this sort of situation.
+We often read in novels how a seemingly respectable person or family has some terrible secret which has been concealed from strangers for years.
+我们经常在小说里读到，某个看似体面的人或家庭有着某种多年来一直对外人隐瞒的可怕秘密。
+The English language possesses a vivid saying to describe this sort of situation.
+英语中有一个生动的说法来形容这种情况。
 
-The terrible secret is called 'a skeleton in the cupboard'. At some dramatic moment in the story, the terrible secret becomes known and a reputation is ruined. The reader's hair stands on end when he reads in the final pages of the novel that the heroine, a dear old lady who had always been so kind to everybody, had, in her youth, poisoned every one of her five husbands.
+The terrible secret is called 'a skeleton in the cupboard'.
+这个可怕的秘密被称为“壁橱里的骷髅”。
+At some dramatic moment in the story, the terrible secret becomes known and a reputation is ruined.
+在故事的某个戏剧性时刻，这个可怕的秘密被揭开了，名声也就毁了。
+The reader's hair stands on end when he reads in the final pages of the novel that the heroine, a dear old lady who had always been so kind to everybody, had, in her youth, poisoned every one of her five husbands.
+当读者读到小说的最后几页，发现那位对每个人都十分和蔼可亲的可爱老太太，在年轻时竟然毒死了她的五任丈夫，不禁毛骨悚然。
 
-It is all very well for such things to occur in fiction. To varying degrees, we all have secrets which we do not want even our closest friends to learn, but few of us have skeletons in the cupboard.
+It is all very well for such things to occur in fiction.
+这类事情发生在小说里倒也罢了。
+To varying degrees, we all have secrets which we do not want even our closest friends to learn, but few of us have skeletons in the cupboard.
+我们每个人都有程度不同的秘密，甚至不想让最亲密的朋友知道，但我们中很少有人会有“壁橱里的骷髅”（即不可告人的丑事）。
 
-The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact. George studied medicine in his youth. Instead of becoming a doctor, however, he became a successful writer of detective stories.
+The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact.
+我所认识的人中，唯一有“壁橱里的骷髅”的人是乔治·卡尔顿，而且他对此引以为豪。
+George studied medicine in his youth.
+乔治年轻时学过医。
+Instead of becoming a doctor, however, he became a successful writer of detective stories.
+然而，他没有成为一名医生，却成了一位成功的侦探小说作家。
 
-I once spent an uncomfortable weekend which I shall never forget at his house. George showed me to the guestroom which, he said, was rarely used. He told me to unpack my things and then come down to dinner.
+I once spent an uncomfortable weekend which I shall never forget at his house.
+有一次，我在他家度过了一个令我终生难忘的不安的周末。
+George showed me to the guestroom which, he said, was rarely used.
+乔治把我领到客房，他说这间房很少有人住。
+He told me to unpack my things and then come down to dinner.
+他叫我把行李打开，然后下楼去吃晚饭。
 
-After I had stacked my shirts and underclothes in two empty drawers, I decided to hang one of the two suits I had brought with me in the cupboard. I opened the cupboard door and then stood in front of it petrified. A skeleton was dangling before my eyes.
+After I had stacked my shirts and underclothes in two empty drawers, I decided to hang one of the two suits I had brought with me in the cupboard.
+我把衬衫和内衣叠好放进两个空抽屉后，决定把我带来的两套西装中的一套挂进壁橱里。
+I opened the cupboard door and then stood in front of it petrified.
+我打开壁橱门，随即惊呆在门前。
+A skeleton was dangling before my eyes.
+一具骷髅悬挂在我的眼前。
 
-The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me. Dropping my suit, I dashed downstairs to tell George. This was worse than 'a terrible secret'; this was a real skeleton! But George was unsympathetic.
+The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me.
+门突然打开的动作使它微微晃动，给我的感觉是它正要向我扑过来。
+Dropping my suit, I dashed downstairs to tell George.
+我扔下西装，冲下楼去告诉乔治。
+This was worse than 'a terrible secret'; this was a real skeleton!
+这比“可怕的秘密”更糟糕；这是一具真正的骷髅！
+But George was unsympathetic.
+但乔治却并不以为然。
 
-'Oh, that,' he said with a smile as if he were talking about an old friend. 'That's Sebastian. You forget that I was a medical student once upon a time.'
+'Oh, that,' he said with a smile as if he were talking about an old friend.
+“噢，那个呀，”他微笑着说，好像在谈论一位老朋友。
+'That's Sebastian.
+“那是塞巴斯蒂安。
+You forget that I was a medical student once upon a time.'
+你忘了我曾经是个医学院的学生了。”
 
 
 ---

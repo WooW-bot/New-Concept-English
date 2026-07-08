@@ -2,19 +2,48 @@
 
 ## 课文内容 (Text)
 
-'It's only me' What did the man expect to find under the stairs? After her husband had gone to work, Mrs. Richards sent her children to school and went upstairs to her bedroom.
+'It's only me'
+“是我”
+What did the man expect to find under the stairs?
+那个人原以为会在楼梯下发现什么？
+After her husband had gone to work, Mrs. Richards sent her children to school and went upstairs to her bedroom.
+理查兹太太的丈夫上班走后，她把孩子们送去上学，然后上楼回到了自己的卧室。
 
-She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress party with her husband. She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on. Though the costume consisted only of a sheet, it was very effective.
+She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress party with her husband.
+那天上午她兴奋得什么家务活也干不下去，因为晚上她要和丈夫一起去参加一个化装舞会。
+She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on.
+她打算扮成一个鬼，由于前一天晚上她已经做好了行头，所以她急不可待地想试穿一下。
+Though the costume consisted only of a sheet, it was very effective.
+虽然这身行头不过是一条床单，但效果却非常好。
 
-After putting it on, Mrs. Richards went downstairs. She wanted to find out whether it would be comfortable to wear. Just as Mrs. Richards was entering the dining-room, there was a knock on the front door.
+After putting it on, Mrs. Richards went downstairs.
+穿上它之后，理查兹太太下了楼。
+She wanted to find out whether it would be comfortable to wear.
+她想看看穿着它是否舒服。
+Just as Mrs. Richards was entering the dining-room, there was a knock on the front door.
+就在理查兹太太走进餐厅时，前门响起了敲门声。
 
-She knew that it must be the baker. She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table. Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs.
+She knew that it must be the baker.
+她知道那一定是面包师。
+She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table.
+她曾告诉过他，如果哪次她没来开门，就让他直接进来，把面包放在厨房的桌子上。
+Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs.
+为了不吓着那个可怜人，理查兹太太迅速躲进了楼梯下的小储藏室里。
 
-She heard the front door open and heavy footsteps in the hall. Suddenly the door of the storeroom was opened and a man entered. Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre.
+She heard the front door open and heavy footsteps in the hall.
+她听见前门开了，门厅里传来了沉重的脚步声。
+Suddenly the door of the storeroom was opened and a man entered.
+突然，储藏室的门开了，一个男人走了进来。
+Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre.
+理查兹太太意识到这一定是供电局来查电表的人。
 
-She tried to explain the situation, saying 'It's only me', but it was too late. The man let out a cry and jumped back several paces.
+She tried to explain the situation, saying 'It's only me', but it was too late.
+她试图解释当时的情况，说道：“是我”，但已经太晚了。
+The man let out a cry and jumped back several paces.
+那人惊叫一声，向后跳了几步。
 
 When Mrs. Richards walked towards him, he fled, slamming the door behind him.
+当理查兹太太向他走去时，他逃跑了，并随手重重地关上了门。
 
 
 ---

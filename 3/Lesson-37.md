@@ -2,21 +2,61 @@
 
 ## 课文内容 (Text)
 
-We have learnt to expect that trains will be punctual. After years of conditioning, most of us have developed an unshakable faith in railway timetables. Ships may be delayed by storms; flights may be cancelled because of bad weather; but trains must be on time.
+We have learnt to expect that trains will be punctual.
+我们已经习惯于期待火车准点。
+After years of conditioning, most of us have developed an unshakable faith in railway timetables.
+经过多年的习惯养成，我们大多数人对铁路时刻表产生了不可动摇的信任。
+Ships may be delayed by storms; flights may be cancelled because of bad weather; but trains must be on time.
+轮船可能会因风暴而延误，航班可能会因恶劣天气而取消，但火车必须准时。
 
-Only an exceptionally heavy snow fall might temporarily dislocate railway services. It is all too easy to blame the railway authorities when something does go wrong. The truth is that when mistakes occur, they are more likely to be ours than theirs.
+Only an exceptionally heavy snow fall might temporarily dislocate railway services.
+只有一场异常的大雪才可能暂时扰乱铁路运输。
+It is all too easy to blame the railway authorities when something does go wrong.
+当事情真的出了差错时，去责怪铁路当局是再容易不过的事了。
+The truth is that when mistakes occur, they are more likely to be ours than theirs.
+事实是，当错误发生时，更有可能是我们自己的错，而不是他们的。
 
-After consulting my railway timetable, I noted with satisfaction that there was an express train to Westhaven. It went direct from my local station and the journey lasted a mere hour and seventeen minutes. When I boarded the train, I could not help noticing that a great many local people got on as well.
+After consulting my railway timetable, I noted with satisfaction that there was an express train to Westhaven.
+查阅了铁路时刻表后，我满意地发现有一趟去韦斯特黑文的特快列车。
+It went direct from my local station and the journey lasted a mere hour and seventeen minutes.
+它从我当地的车站直达，全程仅需一小时十七分钟。
+When I boarded the train, I could not help noticing that a great many local people got on as well.
+当我登上火车时，我不禁注意到有许多当地人也上了车。
 
-At the time, this did not strike me as odd. I reflected that there must be a great many people besides myself who wished to take advantage of this excellent service. Neither was I surprised when the train stopped at Widley, a tiny station a few miles along the line.
+At the time, this did not strike me as odd.
+当时，我并没有觉得这有什么奇怪。
+I reflected that there must be a great many people besides myself who wished to take advantage of this excellent service.
+我心想，除了我之外，肯定还有许多人想利用这一优质服务。
+Neither was I surprised when the train stopped at Widley, a tiny station a few miles along the line.
+当火车在沿线几英里外的一个小站威德利停靠时，我也没有感到惊讶。
 
-Even a mighty express train can be held up by signals. But when the train dawdled at station after station, I began to wonder. It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.
+Even a mighty express train can be held up by signals.
+即使是强大的特快列车也可能因信号问题而受阻。
+But when the train dawdled at station after station, I began to wonder.
+但当火车在这一站又一站之间慢吞吞地行驶时，我开始纳闷了。
+It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.
+我突然意识到，这趟特快列车并没有以每小时90英里的速度在铁轨上飞驰，而仅仅是以每小时30英里的速度缓慢前行。
 
-One hour and seventeen minutes passed and we had not even covered half the distance. I asked a passenger if this was the Westhaven Express, but he had not even heard of it. I determined to lodge a complaint as soon as we arrived.
+One hour and seventeen minutes passed and we had not even covered half the distance.
+一小时十七分钟过去了，我们甚至连一半的路程都还没走完。
+I asked a passenger if this was the Westhaven Express, but he had not even heard of it.
+我问一位乘客这是否是去韦斯特黑文的特快列车，但他甚至都没听说过。
+I determined to lodge a complaint as soon as we arrived.
+我决定一到达目的地就提出投诉。
 
-Two hours later, I was talking angrily to the station master at Westhaven. When he denied the train's existence, I borrowed his copy of the timetable. There was a note of triumph in my voice when I told him that it was there in black and white.
+Two hours later, I was talking angrily to the station master at Westhaven.
+两小时后，我正在韦斯特黑文车站气愤地与站长交谈。
+When he denied the train's existence, I borrowed his copy of the timetable.
+当他否认有这趟列车时，我借了他的那份时刻表。
+There was a note of triumph in my voice when I told him that it was there in black and white.
+当我告诉他上面黑纸白字写得清清楚楚时，我的声音里带着一丝胜利的意味。
 
-Glancing at it briefly, he told me to look again. A tiny asterisk conducted me to a footnote at the bottom of the page. It said: 'This service has been suspended.'
+Glancing at it briefly, he told me to look again.
+他扫了一眼，让我再看一遍。
+A tiny asterisk conducted me to a footnote at the bottom of the page.
+一个小小的星号引导我看向页面底部的脚注。
+It said: 'This service has been suspended.'
+上面写着：“此项服务已暂停。”
 
 
 ---

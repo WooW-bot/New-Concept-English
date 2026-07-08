@@ -2,21 +2,55 @@
 
 ## 课文内容 (Text)
 
-Small boats loaded with wares sped to the great liner as she was entering the harbour. Before she had anchored, the men from the boats had climbed on board and the decks were soon covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful handmade silverware.
+Small boats loaded with wares sped to the great liner as she was entering the harbour.
+当那艘大型客轮驶进港口时，载满货物的小船飞快地向它靠拢。
+Before she had anchored, the men from the boats had climbed on board and the decks were soon covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful handmade silverware.
+客轮尚未抛锚，船上的人们就已经爬上了甲板，不一会儿，甲板上就铺满了来自波斯的彩色地毯、印度的丝绸、铜制的咖啡壶以及精美的手工银器。
 
-It was difficult not to be tempted. Many of the tourists on board had begun bargaining with the tradesmen, but I decided not to buy anything until I had disembarked.
+It was difficult not to be tempted.
+很难不让人动心。
+Many of the tourists on board had begun bargaining with the tradesmen, but I decided not to buy anything until I had disembarked.
+船上的许多游客已经开始与商贩讨价还价，但我决定等下了船再买东西。
 
-I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring. I had no intention of buying one, but I could not conceal the fact that I was impressed by the size of the diamonds.
+I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.
+我刚下船，就有一个人缠住我，想向我兜售一枚钻戒。
+I had no intention of buying one, but I could not conceal the fact that I was impressed by the size of the diamonds.
+我本无意购买，但无法掩饰我对那些钻石大小的赞叹。
 
-Some of them were as big as marbles. The man went to great lengths to prove that the diamonds were real. As we were walking past a shop, he held a diamond firmly against the window and made a deep impression in the glass.
+Some of them were as big as marbles.
+其中一些钻石竟有弹珠那么大。
+The man went to great lengths to prove that the diamonds were real.
+那个人想方设法证明这些钻石是真的。
+As we were walking past a shop, he held a diamond firmly against the window and made a deep impression in the glass.
+当我们路过一家商店时，他把一颗钻石紧紧地按在橱窗玻璃上，在玻璃上划出了一道深深的痕迹。
 
-It took me over half an hour to get rid of him. The next man to approach me was selling expensive pens and watches. I examined one of the pens closely. It certainly looked genuine.
+It took me over half an hour to get rid of him.
+我花了半个多小时才摆脱他。
+The next man to approach me was selling expensive pens and watches.
+下一个走近我的人在兜售昂贵的钢笔和手表。
+I examined one of the pens closely.
+我仔细端详了其中一支钢笔。
+It certainly looked genuine.
+它看起来确实像是真货。
 
-At the base of the gold cap, the words 'made in the U.S.A.' had been neatly inscribed. The man said that the pen was worth ￡50, but as a special favour, he would let me have it for ￡30. I shook my head and held up five fingers indicating that I was willing to pay ￡5.
+At the base of the gold cap, the words 'made in the U.S.A.' had been neatly inscribed.
+在金色的笔帽底部，整齐地刻着“美国制造”的字样。
+The man said that the pen was worth ￡50, but as a special favour, he would let me have it for ￡30.
+那人说这支笔值50英镑，但作为特别优惠，他愿意以30英镑卖给我。
+I shook my head and held up five fingers indicating that I was willing to pay ￡5.
+我摇了摇头，伸出五个手指，表示我只愿出价5英镑。
 
-Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to 10 pounds. Shrugging my shoulders I began to walk away when, a moment later, he ran after me and thrust the pen into my hands.
+Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to 10 pounds.
+那人手舞足蹈，表现得好像觉得我的出价简直不可理喻，但他最终还是把价格降到了10英镑。
+Shrugging my shoulders I began to walk away when, a moment later, he ran after me and thrust the pen into my hands.
+我耸了耸肩，转身走开，片刻之后，他追了上来，把笔塞进了我的手里。
 
-Though he kept throwing up his arms in despair, he readily accepted the ￡5 I gave him. I felt especially pleased with my wonderful bargain--until I got back to the ship. No matter how hard I tried, it was impossible to fill this beautiful pen with ink and to this day it has never written a single word!
+Though he kept throwing up his arms in despair, he readily accepted the ￡5 I gave him.
+尽管他不停地绝望地挥舞着双臂，但他还是爽快地收下了我给他的5英镑。
+I felt especially pleased with my wonderful bargain--until I got back to the ship.
+我为自己买到了如此便宜的好货而感到格外高兴——直到我回到船上。
+No matter how hard I tried, it was impossible to fill this beautiful pen with ink and to this day it has never written a single word!
+无论我怎么努力，这支漂亮的钢笔就是灌不进墨水，直到今天，它连一个字也没写出来过！
 
 
 ---

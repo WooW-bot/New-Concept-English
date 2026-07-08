@@ -2,27 +2,74 @@
 
 ## 课文内容 (Text)
 
-Cave exploration, or pot-holing, as it has come to be known, is a relatively new sport. Perhaps it is the desire for solitude or the chance of making an unexpected discovery that lures people down to the depths of the earth. It is impossible to give a satisfactory explanation for a pot-holer's motives.
+Cave exploration, or pot-holing, as it has come to be known, is a relatively new sport.
+洞穴探险，或者人们所称的“探洞”，是一项相对较新的运动。
+Perhaps it is the desire for solitude or the chance of making an unexpected discovery that lures people down to the depths of the earth.
+也许正是对孤独的渴望，或是能有意外发现的机会，吸引着人们深入地底。
+It is impossible to give a satisfactory explanation for a pot-holer's motives.
+要对探洞者的动机做出令人满意的解释是不可能的。
 
-For him, caves have the same peculiar fascination which high mountains have for the climber. They arouse instincts which can only be dimly understood. Exploring really deep caves is not a task for the Sunday afternoon rambler.
+For him, caves have the same peculiar fascination which high mountains have for the climber.
+对于探洞者来说，洞穴有着与高山对登山者同样的奇特魅力。
+They arouse instincts which can only be dimly understood.
+它们唤醒了人们只能隐约理解的本能。
+Exploring really deep caves is not a task for the Sunday afternoon rambler.
+探索真正深邃的洞穴并非周日下午散步者所能胜任的工作。
 
-Such undertakings require the precise planning and foresight of military operations. It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave. Precautions of this sort are necessary, for it is impossible to foretell the exact nature of the difficulties which will confront the pot-holer.
+Such undertakings require the precise planning and foresight of military operations.
+这样的行动需要像军事行动那样精确的计划和预见性。
+It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave.
+在进入一个极深的洞穴之前，可能需要长达八天的时间来架设绳梯和建立补给基地。
+Precautions of this sort are necessary, for it is impossible to foretell the exact nature of the difficulties which will confront the pot-holer.
+这类预防措施是必要的，因为探洞者将面临什么样的具体困难是无法预知的。
 
-The deepest known cave in the world is the Gouffre Berger near Grenoble. It extends to a depth of 3, 723 feet. This immense chasm has been formed by an underground stream which has tunnelled a course through a flaw in the rocks.
+The deepest known cave in the world is the Gouffre Berger near Grenoble.
+世界上已知的最深洞穴是格勒诺布尔附近的古弗尔·伯杰洞。
+It extends to a depth of 3, 723 feet.
+它深达3723英尺。
+This immense chasm has been formed by an underground stream which has tunnelled a course through a flaw in the rocks.
+这个巨大的深渊是由一条地下河形成的，它在岩石的裂缝中冲刷出了一条通道。
 
-The entrance to the cave is on a plateau in the Dauphine Alps. As it is only six feet across, it is barely noticeable. The cave might never have been discovered had not the entrance been spotted by the distinguished French pot-holer, Berger.
+The entrance to the cave is on a plateau in the Dauphine Alps.
+洞口位于多芬内阿尔卑斯山脉的一个高原上。
+As it is only six feet across, it is barely noticeable.
+由于它只有六英尺宽，几乎难以察觉。
+The cave might never have been discovered had not the entrance been spotted by the distinguished French pot-holer, Berger.
+如果不是因为杰出的法国探洞者伯杰发现了这个洞口，这个洞穴可能永远也不会被发现。
 
-Since its discovery, it has become a sort of pot-holers' Everest. Though a number of descents have been made, much of it still remains to be explored. A team of pot-holers recently went down the Gouffre Berger.
+Since its discovery, it has become a sort of pot-holers' Everest.
+自被发现以来，它已成为探洞者心目中的“珠穆朗玛峰”。
+Though a number of descents have been made, much of it still remains to be explored.
+尽管人们已经多次下潜探险，但其中大部分区域仍有待探索。
+A team of pot-holers recently went down the Gouffre Berger.
+最近，一支探洞队进入了古弗尔·伯杰洞。
 
-After entering the narrow gap on the plateau, they climbed down the steep sides of the cave until they came to a narrow corridor. They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools.
+After entering the narrow gap on the plateau, they climbed down the steep sides of the cave until they came to a narrow corridor.
+在进入高原上的那个狭窄裂口后，他们沿着陡峭的洞壁向下攀爬，直到来到一条狭窄的通道。
+They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools.
+他们不得不侧身沿此通道前行，有时涉水穿过浅溪，有时游过深潭。
 
-Suddenly they came to a waterfall which dropped into an underground lake at the bottom of the cave. They plunged into the lake, and after loading their gear on an inflatable rubber dinghy, let the current carry them to the other side. To protect themselves from the icy water, they had to wear special rubber suits.
+Suddenly they came to a waterfall which dropped into an underground lake at the bottom of the cave.
+突然，他们来到了一处瀑布前，瀑布倾泻入洞底的一个地下湖中。
+They plunged into the lake, and after loading their gear on an inflatable rubber dinghy, let the current carry them to the other side.
+他们跳进湖里，将装备装上一艘充气橡皮艇，任由水流将他们带到对岸。
+To protect themselves from the icy water, they had to wear special rubber suits.
+为了抵御冰冷刺骨的湖水，他们不得不穿上特制的橡胶防护服。
 
-At the far end of the lake, they came to huge piles of rubble which had been washed up by the water. In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave.
+At the far end of the lake, they came to huge piles of rubble which had been washed up by the water.
+在湖的尽头，他们看到了一大堆被水冲上来的碎石。
+In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave.
+在洞穴的这一部分，他们能听到一种持续不断的轰鸣声，后来发现这是由从洞顶射入水潭的一股小水柱引起的。
 
-Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall. After switching on powerful arc lights, they saw great stalagmites--some of them over forty feet high--rising up like tree-trunks to meet the stalactites suspended from the roof.
+Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall.
+探洞者们挤过岩石间的一道裂缝，进入了一个巨大的洞室，其规模犹如一座大型音乐厅。
+After switching on powerful arc lights, they saw great stalagmites--some of them over forty feet high--rising up like tree-trunks to meet the stalactites suspended from the roof.
+打开强力弧光灯后，他们看到巨大的石笋——有的高达四十多英尺——像树干一样拔地而起，与从洞顶垂下的钟乳石相接。
 
-Round about, piles of limestone glistened in all the colours of the rainbow. In the eerie silence of the cavern, the only sound that could be heard was made by water which dripped continuously from the high dome above them.
+Round about, piles of limestone glistened in all the colours of the rainbow.
+四周，成堆的石灰岩闪烁着彩虹般的光芒。
+In the eerie silence of the cavern, the only sound that could be heard was made by water which dripped continuously from the high dome above them.
+在洞室那阴森的寂静中，唯一能听到的声音就是从上方高处穹顶不断滴落的水声。
 
 
 ---

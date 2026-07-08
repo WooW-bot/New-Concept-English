@@ -2,17 +2,43 @@
 
 ## 课文内容 (Text)
 
-Children always appreciate small gifts of money. Mum or dad, of course, provides a regular supply of pocket money, but uncles and aunts are always a source of extra income. With some children, small sums go a long way.
+Children always appreciate small gifts of money.
+孩子们总是很喜欢收到小额的钱作为礼物。
+Mum or dad, of course, provides a regular supply of pocket money, but uncles and aunts are always a source of extra income.
+当然，爸爸妈妈会定期提供零花钱，但叔叔阿姨们总能成为额外收入的来源。
+With some children, small sums go a long way.
+对一些孩子来说，少量的钱也能派上大用场。
 
-If fifty pence pieces are not exchanged for sweets, they rattle for months inside money boxes. Only very thrifty children manage to fill up a money box. For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.
+If fifty pence pieces are not exchanged for sweets, they rattle for months inside money boxes.
+如果50便士的硬币没有被换成糖果，它们就会在储蓄罐里叮当作响好几个月。
+Only very thrifty children manage to fill up a money box.
+只有非常节俭的孩子才能把储蓄罐装满。
+For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.
+对他们大多数人来说，花50便士买一大块美味的巧克力是再划算不过的了。
 
-My nephew, George, has a money box but it is always empty. Very few of the fifty pence pieces and pound coins I have given him have found their way there. I gave him fifty pence yesterday and advised him to save it.
+My nephew, George, has a money box but it is always empty.
+我的侄子乔治有一个储蓄罐，但它总是空的。
+Very few of the fifty pence pieces and pound coins I have given him have found their way there.
+我给他的那些50便士和1英镑的硬币，很少有能进到储蓄罐里的。
+I gave him fifty pence yesterday and advised him to save it.
+昨天我给了他50便士，并建议他存起来。
 
-Instead, he bought himself fifty pence worth of trouble. On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain. George took off his jacket, rolled up his sleeves and pushed his right arm through the drain cover.
+Instead, he bought himself fifty pence worth of trouble.
+然而，他却用这50便士给自己买了一场麻烦。
+On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain.
+在去糖果店的路上，他把那50便士掉在了地上，硬币在人行道上弹跳了几下，然后掉进了下水道里。
+George took off his jacket, rolled up his sleeves and pushed his right arm through the drain cover.
+乔治脱掉外套，卷起袖子，把右臂伸进了下水道盖里。
 
-He could not find his 50 pence piece anywhere, and what is more, he could not get his arm out. A crowd of people gathered round him and a lady rubbed his arm with soap and butter, but George was firmly stuck. The fire brigade was called and two fire fighters freed George using a special type of grease.
+He could not find his 50 pence piece anywhere, and what is more, he could not get his arm out.
+他到处都找不到那枚50便士的硬币，而且更糟糕的是，他的手臂也拔不出来了。
+A crowd of people gathered round him and a lady rubbed his arm with soap and butter, but George was firmly stuck.
+一群人围了过来，一位女士在他的手臂上涂了肥皂和黄油，但乔治的手臂还是被牢牢地卡住了。
+The fire brigade was called and two fire fighters freed George using a special type of grease.
+消防队被叫来了，两名消防员用一种特殊的润滑剂把乔治解救了出来。
 
 George was not too upset by his experience because the lady who owns the sweet shop heard about his troubles and rewarded him with a large box of chocolates.
+乔治并没有因为这次经历而感到太难过，因为糖果店的老板娘听说了他的麻烦，奖励了他一大盒巧克力。
 
 
 ---

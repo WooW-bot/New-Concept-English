@@ -2,17 +2,47 @@
 
 ## 课文内容 (Text)
 
-Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired. The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.
+Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.
+我们的牧师总是在为这样或那样的事业筹款，但他却从未能筹到足够的钱来修理教堂的时钟。
+The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.
+那座过去日夜报时的大钟多年前就损坏了，从此一直处于静止状态。
 
-One night, however, our vicar woke up with a start:the clock was striking the hours! Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.
+One night, however, our vicar woke up with a start: the clock was striking the hours!
+然而有一天夜里，我们的牧师惊醒了：大钟正在报时！
+Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.
+他看了看表，发现是凌晨一点钟，但钟声敲了十三下才停住。
 
-Armed with a torch, the vicar went up into the clock tower to see what was going on. In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer. 'Whatever are you doing up here Bill?' asked the vicar in surprise.
+Armed with a torch, the vicar went up into the clock tower to see what was going on.
+牧师拿着手电筒，爬上钟楼去查看究竟发生了什么事。
+In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.
+在手电筒的光亮下，他看见了一个人影，一眼就认出那是我们当地的杂货商比尔·威尔金斯。
+'Whatever are you doing up here Bill?' asked the vicar in surprise.
+“比尔，你在这儿干什么呢？”牧师惊讶地问。
 
-'I'm trying to repair the bell, ' answered Bill. 'I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.' 'You certainly did give me a surprise!' said the vicar.
+'I'm trying to repair the bell,' answered Bill.
+“我正在试着修理这口钟，”比尔回答说。
+'I've been coming up here night after night for weeks now.'
+“几个星期以来，我每天晚上都到这儿来。”
+'You see, I was hoping to give you a surprise.'
+“你看，我原想给你一个惊喜。”
+'You certainly did give me a surprise!' said the vicar.
+“你确实给了我一个惊喜！”牧师说。
 
-'You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.' 'That's the trouble, vicar, 'answered Bill. 'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.' 'We'll get used to that, Bill, 'said the vicar.
+'You've probably woken up everyone in the village as well.'
+“你大概也把全村人都吵醒了。”
+'Still, I'm glad the bell is working again.'
+“不过，我很高兴钟又响了。”
+'That's the trouble, vicar,' answered Bill.
+“问题就在这儿，牧师，”比尔回答说。
+'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.'
+“它确实响了，但我恐怕在一点钟的时候它会敲十三下，对此我实在无能为力。”
+'We'll get used to that, Bill,' said the vicar.
+“我们会习惯的，比尔，”牧师说。
 
-'Thirteen is not as good as one, but it's better than nothing. Now let's go downstairs and have a cup of tea.'
+'Thirteen is not as good as one, but it's better than nothing.'
+“十三下虽然不如一下好，但总比不响强。”
+'Now let's go downstairs and have a cup of tea.'
+“现在我们下楼去喝杯茶吧。”
 
 
 ---

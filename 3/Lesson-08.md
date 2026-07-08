@@ -2,19 +2,42 @@
 
 ## 课文内容 (Text)
 
-The Great St.Bernard Pass connects Switzerland to Italy. At 2,473 metres, it is the highest mountain pass in Europe. The famous monastery of St.Bernard, which was founded in the eleventh century, lies about a mile away.
+The Great St. Bernard Pass connects Switzerland to Italy.
+大圣伯纳德山口连接着瑞士和意大利。
+At 2,473 metres, it is the highest mountain pass in Europe.
+它海拔2473米，是欧洲最高的山口。
+The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away.
+著名的大圣伯纳德修道院建于11世纪，位于一英里之外。
 
-For hundreds of years, St.Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.
+For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass.
+几百年来，圣伯纳德犬挽救了许多穿越这一危险山口的旅行者的生命。
+These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.
+这些友好的狗最初是从亚洲引进的，早在罗马时代就被用作看门狗。
 
-Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty.
+如今，由于山中已修筑了隧道，山口不再那么危险了，但每年只要有旅行者遇到困难，这些狗仍会被派往雪地中去营救。
+Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+尽管有了新隧道，仍有一些人冒失地试图徒步穿越山口。
 
-During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars. As there are so many people about, the dogs have to be kept in a special enclosure.
+During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars.
+夏季，修道院非常繁忙，因为成千上万乘车穿越山口的人会来此参观。
+As there are so many people about, the dogs have to be kept in a special enclosure.
+由于周围人太多，这些狗不得不被关在专门的围栏里。
 
-In winter, however, life at the monastery is quite different. The temperature drops to -30 degrees, and very few people attempt to cross the Pass.
+In winter, however, life at the monastery is quite different.
+然而，冬天修道院里的生活却大不相同。
+The temperature drops to -30 degrees, and very few people attempt to cross the Pass.
+气温降至零下30度，很少有人试图穿越山口。
 
-The monks prefer winter to summer for they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure.
+The monks prefer winter to summer for they have more privacy.
+僧侣们更喜欢冬天而不是夏天，因为他们有更多的私人空间。
+The dogs have greater freedom, too, for they are allowed to wander outside their enclosure.
+狗也获得了更大的自由，因为它们被允许在围栏外漫步。
 
-The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of the mountains, always receive a warm welcome at St.Bernard's monastery.
+The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter.
+冬天，修道院唯一的常客是圣诞节和复活节期间前来的滑雪队。
+These young people, who love the peace of the mountains, always receive a warm welcome at St. Bernard's monastery.
+这些热爱山中宁静的年轻人，在大圣伯纳德修道院总是受到热情的欢迎。
 
 
 ---

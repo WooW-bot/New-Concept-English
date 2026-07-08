@@ -2,17 +2,39 @@
 
 ## 课文内容 (Text)
 
-The great ship, Titanic sailed for New York from Southampton on April 10th, 1912. She was carrying 1, 316 passengers and a crew of 891. Even by modern standards, the 46, 000 ton Titanic was a colossal ship.
+The great ship, Titanic sailed for New York from Southampton on April 10th, 1912.
+1912年4月10日，巨轮“泰坦尼克”号从南安普敦启航前往纽约。
+She was carrying 1,316 passengers and a crew of 891.
+船上载有1316名乘客和891名船员。
+Even by modern standards, the 46,000 ton Titanic was a colossal ship.
+即使以现代标准来看，这艘4.6万吨级的“泰坦尼克”号也是一艘庞然大物。
 
-At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen water-tight compartments. Even if two of these were flooded, she would still be able to float. The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
+At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen water-tight compartments.
+然而在当时，它不仅是建造出的最大的一艘船，而且被认为是不沉之船，因为它有16个水密舱。
+Even if two of these were flooded, she would still be able to float.
+即使其中两个进水，它仍能保持漂浮。
+The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
+这艘巨轮的沉没悲剧将永远被人铭记，因为它在处女航中就沉没了，并造成了重大的人员伤亡。
 
-Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned sharply to avoid a direct collision.
+Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout.
+启航4天后，当“泰坦尼克”号航行在北大西洋冰冷的海面上时，一名瞭望员突然发现了一座巨大的冰山。
+After the alarm had been given, the great ship turned sharply to avoid a direct collision.
+警报发出后，巨轮急转弯以避免正面相撞。
 
-The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her. Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened.
+The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her.
+“泰坦尼克”号转弯及时，险之又险地避开了那座高出水面100多英尺、耸立在船侧的巨大冰墙。
+Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened.
+突然，船底传来一阵轻微的颤动声，船长下到舱底去查看究竟发生了什么事。
 
-The noise had been so faint that no one thought that the ship had been damaged. Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people plunged into the icy water.
+The noise had been so faint that no one thought that the ship had been damaged.
+那声音非常微弱，以至于没有人认为船已经受损。
+Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded!
+在舱底，船长惊恐地发现“泰坦尼克”号正在迅速下沉，因为16个水密舱中已有5个进水了！
+The order to abandon ship was given and hundreds of people plunged into the icy water.
+弃船命令下达了，成百上千的人跳进了冰冷的海水中。
 
-As there were not enough life-boats for everybody, 1, 500 lives were lost.
+As there were not enough life-boats for everybody, 1,500 lives were lost.
+由于救生艇不够用，1500人丧生。
 
 
 ---

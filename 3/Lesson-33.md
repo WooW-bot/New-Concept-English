@@ -2,23 +2,64 @@
 
 ## 课文内容 (Text)
 
-We have all experienced days when everything goes wrong. A day may begin well enough, but suddenly everything seems to get out of control. What invariably happens is that a great number of things choose to go wrong at precisely the same moment.
+We have all experienced days when everything goes wrong.
+我们都有过这样的日子，在那样的日子里，一切都不顺心。
+A day may begin well enough, but suddenly everything seems to get out of control.
+一天开始时可能还不错，但突然之间，一切似乎都失控了。
+What invariably happens is that a great number of things choose to go wrong at precisely the same moment.
+总是会发生这样的事：许多事情偏偏在同一时刻一起出了岔子。
 
-It is as if a single unimportant event set up a chain of reactions. Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time. The telephone rings and this marks the prelude to an unforeseen series of catastrophes.
+It is as if a single unimportant event set up a chain of reactions.
+这就好比一件微不足道的小事引发了一连串的连锁反应。
+Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time.
+假设你正在做饭，同时还得照看孩子。
+The telephone rings and this marks the prelude to an unforeseen series of catastrophes.
+电话铃响了，这标志着一系列意想不到的灾难的序幕拉开了。
 
-While you are on the phone, the baby pulls the tablecloth off the table, smashing half your best crockery and cutting himself in the process. You hang up hurriedly and attend to baby, crockery, etc.
+While you are on the phone, the baby pulls the tablecloth off the table, smashing half your best crockery and cutting himself in the process.
+当你接电话时，孩子把桌布从桌子上拽了下来，打碎了你一半最好的餐具，自己也因此受了伤。
+You hang up hurriedly and attend to baby, crockery, etc.
+你匆忙挂断电话，去照看孩子、收拾餐具等等。
 
-Meanwhile, the meal gets burnt. As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner. Things can go wrong on a big scale as a number of people recently discovered in Parramatta, a suburb of Sydney.
+Meanwhile, the meal gets burnt.
+与此同时，饭烧焦了。
+As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.
+如果这还不足以让你掉眼泪的话，你的丈夫又回来了，出人意料地带了三位客人来吃晚饭。
+Things can go wrong on a big scale as a number of people recently discovered in Parramatta, a suburb of Sydney.
+事情也可能在大范围内出错，悉尼郊区帕拉马塔的一些人最近就发现了这一点。
 
-During the rush hour one evening two cars collided and both drivers began to argue. The woman immediately behind the two cars happened to be a learner. She suddenly got into a panic and stopped her car.
+During the rush hour one evening two cars collided and both drivers began to argue.
+一天傍晚的交通高峰期，两辆车相撞了，两位司机开始争吵起来。
+The woman immediately behind the two cars happened to be a learner.
+紧跟在这两辆车后面的一位女士恰好是一位学车者。
+She suddenly got into a panic and stopped her car.
+她突然惊慌失措，把车停了下来。
 
-This made the driver following her brake hard. His wife was sitting beside him holding a large cake. As she was thrown forward, the cake went right through the windscreen and landed on the road.
+This made the driver following her brake hard.
+这使得跟在她后面的司机猛地刹车。
+His wife was sitting beside him holding a large cake.
+他的妻子坐在他旁边，手里拿着一个大蛋糕。
+As she was thrown forward, the cake went right through the windscreen and landed on the road.
+当她向前冲去时，蛋糕直接穿过挡风玻璃，掉在了马路上。
 
-Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden. The lorry was loaded with empty beer bottles and hundreds of them slid off the back of the vehicle and on to the road.
+Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden.
+一位正从旁边驶过的卡车司机看到一个蛋糕在空中飞过，猛地停下了车。
+The lorry was loaded with empty beer bottles and hundreds of them slid off the back of the vehicle and on to the road.
+卡车上装满了空啤酒瓶，几百个瓶子从车后滑落到马路上。
 
-This led to yet another angry argument. Meanwhile, the traffic piled up behind. It took the police nearly an hour to get the traffic on the move again. In the meantime, the lorry driver had to sweep up hundreds of broken bottles.
+This led to yet another angry argument.
+这又引发了另一场激烈的争吵。
+Meanwhile, the traffic piled up behind.
+与此同时，后面的车辆排成了长龙。
+It took the police nearly an hour to get the traffic on the move again.
+警察花了近一个小时才使交通恢复畅通。
+In the meantime, the lorry driver had to sweep up hundreds of broken bottles.
+在此期间，卡车司机不得不清扫几百个破碎的瓶子。
 
-Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake. It was just one of those days!
+Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake.
+只有两只流浪狗从这场混乱中得到了好处，因为它们贪婪地吃掉了剩下的蛋糕。
+It was just one of those days!
+这真是倒霉透顶的一天！
 
 
 ---

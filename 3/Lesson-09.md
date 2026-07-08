@@ -2,19 +2,50 @@
 
 ## 课文内容 (Text)
 
-Cats never fail to fascinate human beings. They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. They never become submissive like dogs and horses.
+Cats never fail to fascinate human beings.
+猫总能引起人们的极大兴趣。
+They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well.
+它们对人既可以友好亲昵，但同时又过着它们自己神秘的生活。
+They never become submissive like dogs and horses.
+它们从不像狗和马那样驯服。
 
-As a result, humans have learned to respect feline independence. Most cats remain suspicious of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives.
+As a result, humans have learned to respect feline independence.
+因此，人类已经学会了尊重猫的独立性。
+Most cats remain suspicious of humans all their lives.
+大多数猫终其一生对人类都保持着怀疑的态度。
+One of the things that fascinates us most about cats is the popular belief that they have nine lives.
+关于猫，最令我们着迷的事情之一就是那种普遍的看法：猫有九条命。
 
-Apparently, there is a good deal of truth in this idea. A cat's ability to survive falls is based on fact. Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months.
+Apparently, there is a good deal of truth in this idea.
+显然，这种说法有相当多的真实成分。
+A cat's ability to survive falls is based on fact.
+猫从高处跌落后的生存能力是有事实根据的。
+Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months.
+最近，纽约动物医疗中心对132只猫进行了为期五个月的研究。
 
-All these cats had one experience in common: they had fallen off high buildings, yet only eight of them died from shock or injuries. Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings.
+All these cats had one experience in common: they had fallen off high buildings, yet only eight of them died from shock or injuries.
+这些猫都有一个共同的经历：它们都曾从高楼上跌落，但其中只有8只因休克或受伤而死亡。
+Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings.
+当然，纽约是进行这种有趣研究的理想场所，因为那里不乏高楼大厦。
 
-There are plenty of high-rise windowsills to fall from! One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth. 'Cats behave like well-trained paratroopers,' a doctor said.
+There are plenty of high-rise windowsills to fall from!
+那里有许多可供跌落的高层窗台！
+One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth.
+有一只叫萨布丽娜的猫从32层楼高处跌落，却仅仅摔断了一颗牙齿。
+'Cats behave like well-trained paratroopers,' a doctor said.
+一位医生说：“猫的表现就像训练有素的伞兵。”
 
-It seems that the further cats fall, the less they are likely to injure themselves. In a long drop, they reach speeds of 60 miles an hour and more. At high speeds, falling cats have time to relax.
+It seems that the further cats fall, the less they are likely to injure themselves.
+似乎猫跌落得越远，受伤的可能性就越小。
+In a long drop, they reach speeds of 60 miles an hour and more.
+在长距离的下落过程中，它们的速度可达每小时60英里甚至更快。
+At high speeds, falling cats have time to relax.
+在高速下落时，猫有时间放松自己。
 
-They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground.
+They stretch out their legs like flying squirrels.
+它们像鼯鼠一样伸展开四肢。
+This increases their air-resistance and reduces the shock of impact when they hit the ground.
+这增加了它们的空气阻力，并减轻了它们落地时受到的冲击力。
 
 
 ---

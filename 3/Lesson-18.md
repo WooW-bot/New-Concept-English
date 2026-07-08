@@ -2,19 +2,48 @@
 
 ## 课文内容 (Text)
 
-Modern sculpture rarely surprises us any more. The idea that modern art can only be seen in museums is mistaken. Even people who take no interest in art cannot have failed to notice examples of modern sculpture on display in public places.
+Modern sculpture rarely surprises us any more.
+现代雕塑已很难再让我们感到惊奇了。
+The idea that modern art can only be seen in museums is mistaken.
+认为现代艺术只能在博物馆里才能看到的想法是错误的。
+Even people who take no interest in art cannot have failed to notice examples of modern sculpture on display in public places.
+即使是对艺术毫无兴趣的人，也不可能没有注意到公共场所陈列的现代雕塑作品。
 
-Strange forms stand in gardens, and outside buildings and shops. We have got quite used to them. Some so-called 'modern' pieces have been on display for nearly eighty years.
+Strange forms stand in gardens, and outside buildings and shops.
+奇形怪状的雕塑矗立在花园里，以及建筑物和商店门外。
+We have got quite used to them.
+我们对它们已经相当习惯了。
+Some so-called 'modern' pieces have been on display for nearly eighty years.
+一些所谓的“现代”作品已经展出近八十年了。
 
-In spite of this, some people--including myself--were surprised by a recent exhibition of modern sculpture. The first thing I saw when I entered the art gallery was a notice which said: 'Do not touch the exhibits, some of them are dangerous!' The objects on display were pieces of moving sculpture.
+In spite of this, some people--including myself--were surprised by a recent exhibition of modern sculpture.
+尽管如此，一些人——包括我在内——还是被最近的一次现代雕塑展惊到了。
+The first thing I saw when I entered the art gallery was a notice which said: 'Do not touch the exhibits, some of them are dangerous!'
+我走进美术馆时看到的第一样东西是一则告示，上面写着：“请勿触摸展品，其中一些具有危险性！”
+The objects on display were pieces of moving sculpture.
+展出的物品是一些动态雕塑。
 
-Oddly shaped forms that are suspended from the ceiling and move in response to a gust of wind are quite familiar to everybody. These objects, however, were different. Lined up against the wall, there were long thin wires attached to metal spheres.
+Oddly shaped forms that are suspended from the ceiling and move in response to a gust of wind are quite familiar to everybody.
+悬挂在天花板上、随风而动的奇形怪状的物体，大家都很熟悉。
+These objects, however, were different.
+然而，这些展品却与众不同。
+Lined up against the wall, there were long thin wires attached to metal spheres.
+靠墙排开的是连着金属球的长细金属丝。
 
-The spheres had been magnetized and attracted or repelled each other all the time. In the centre of the hall, there were a number of tall structures which contained coloured lights.
+The spheres had been magnetized and attracted or repelled each other all the time.
+这些金属球被磁化了，始终在相互吸引或排斥。
+In the centre of the hall, there were a number of tall structures which contained coloured lights.
+大厅中央矗立着一些装有彩色灯光的高大结构。
 
-These lights flickered continuously like traffic lights which have gone mad. Sparks were emitted from small black boxes and red lamps flashed on and off angrily. It was rather like an exhibition of prehistoric electronic equipment.
+These lights flickered continuously like traffic lights which have gone mad.
+这些灯光像发了疯的交通信号灯一样不停地闪烁。
+Sparks were emitted from small black boxes and red lamps flashed on and off angrily.
+小黑盒子里迸发出火花，红灯愤怒地闪烁着。
+It was rather like an exhibition of prehistoric electronic equipment.
+这简直就像是一个史前电子设备展览。
 
 These peculiar forms not only seemed designed to shock people emotionally, but to give them electric shocks as well!
+这些奇特的造型不仅似乎旨在给人们以情感上的震撼，而且还会让人触电！
 
 
 ---

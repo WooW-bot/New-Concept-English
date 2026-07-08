@@ -2,15 +2,36 @@
 
 ## 课文内容 (Text)
 
-Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refused to publish it.
+Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics.
+报刊编辑们常常走极端，为读者提供一些无关紧要的事实和数据。
+Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.
+去年，一位记者受一家知名杂志社委托，写一篇关于非洲某新成立共和国总统府的文章。
+When the article arrived, the editor read the first sentence and then refused to publish it.
+文章寄到后，编辑读了第一句就拒绝发表。
 
-The article began:'Hundreds of steps lead to the high wall which surrounds the president's palace.' The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall. The journalist immediately set out to obtain these important facts, but he took a long time to send them.
+The article began:'Hundreds of steps lead to the high wall which surrounds the president's palace.'
+文章开头写道：“数百级台阶通向环绕总统府的高墙。”
+The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
+编辑立即给记者发了一份传真，指示他查明台阶的确切级数和围墙的高度。
+The journalist immediately set out to obtain these important facts, but he took a long time to send them.
+记者立即动身去获取这些“重要”事实，但他过了很久才把这些数据发回来。
 
-Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired.
+Meanwhile, the editor was getting impatient, for the magazine would soon go to press.
+与此同时，编辑变得不耐烦了，因为杂志很快就要付印了。
+He sent the journalist two more faxes, but received no reply.
+他又给记者发了两份传真，但都没有收到回音。
+He sent yet another fax informing the journalist that if he did not reply soon he would be fired.
+他又发了一份传真，通知记者如果再不回信，他就会被解雇。
 
-When the journalist again failed to reply,  the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well.
+When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written.
+当记者再次没有回音时，编辑只好勉强按文章的原样发表了。
+A week later, the editor at last received a fax from the journalist.
+一周后，编辑终于收到了那位记者发来的传真。
+Not only had the poor man been arrested, but he had been sent to prison as well.
+这位可怜的人不仅被捕了，而且还被关进了监狱。
 
 However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1, 084 steps leading to the 15th foot wall which surrounded the president's palace.
+然而，他最终获准发出一份传真，告知编辑：他在数通往环绕总统府的15英尺高墙的1084级台阶时被捕了。
 
 
 ---

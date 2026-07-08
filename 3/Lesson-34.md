@@ -2,23 +2,58 @@
 
 ## 课文内容 (Text)
 
-Antique shops exert a peculiar fascination on a great many people. The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases to keep them free from dust is usually a forbidding place.
+Antique shops exert a peculiar fascination on a great many people.
+古玩店对许多人有着一种特殊的吸引力。
+The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases to keep them free from dust is usually a forbidding place.
+那种比较昂贵的古玩店，珍品陈列在玻璃柜里，一尘不染，通常让人望而却步。
 
-But no one has to muster up courage to enter a less pretentious antique shop. There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that litter the floors. No one discovers a rarity by chance.
+But no one has to muster up courage to enter a less pretentious antique shop.
+但走进那些不那么讲究的古玩店，却无需鼓起勇气。
+There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that litter the floors.
+人们总怀着一种希望，在那迷宫般发霉、阴暗、杂乱的房间里，在堆满地面的各种破烂货中，能发现一件真正的珍品。
+No one discovers a rarity by chance.
+没有人能随随便便发现珍品。
 
-A truly dedicated bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it. To do this, he must be at least as knowledgeable as the dealer.
+A truly dedicated bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it.
+一个真正执着的淘金者必须有耐心，而且最重要的是，要有慧眼识珠的能力。
+To do this, he must be at least as knowledgeable as the dealer.
+要做到这一点，他必须至少具备和店主相当的知识。
 
-Like a scientist bent on making a discovery, he must cherish the hope that one day he will be amply rewarded. My old friend, Frank Halliday, is just such a person.
+Like a scientist bent on making a discovery, he must cherish the hope that one day he will be amply rewarded.
+就像一心想有所发现的科学家一样，他必须怀揣着终有一天会得到丰厚回报的希望。
+My old friend, Frank Halliday, is just such a person.
+我的老朋友弗兰克·哈利迪正是这样一个人。
 
-He has often described to me how he picked up a masterpiece for a mere ￡50. One Saturday morning, Frank visited an antique shop in my neighbourhood. As he had never been there before, he found a great deal to interest him.
+He has often described to me how he picked up a masterpiece for a mere ￡50.
+他经常向我描述他是如何以仅仅50英镑的价格淘到一件杰作的。
+One Saturday morning, Frank visited an antique shop in my neighbourhood.
+一个星期六的上午，弗兰克逛了我家附近的一家古玩店。
+As he had never been there before, he found a great deal to interest him.
+由于他以前从未去过那里，他发现有很多东西令他感兴趣。
 
-The morning passed rapidly and Frank was about to leave when he noticed a large packing case lying on the floor. The dealer told him that it had just come in, but that he could not be bothered to open it. Frank begged him to do so and the dealer reluctantly prised it open.
+The morning passed rapidly and Frank was about to leave when he noticed a large packing case lying on the floor.
+一上午很快就过去了，正当弗兰克准备离开时，他注意到地板上放着一个大包装箱。
+The dealer told him that it had just come in, but that he could not be bothered to open it.
+店主告诉他，那是刚进的货，但他懒得打开。
+Frank begged him to do so and the dealer reluctantly prised it open.
+弗兰克恳求他打开，店主勉强撬开了箱子。
 
-The contents were disappointing. Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken. Frank gently lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case.
+The contents were disappointing.
+里面的东西令人失望。
+Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken.
+除了有一把看起来很有意思的雕花匕首外，箱子里装满了陶器，而且大多是碎的。
+Frank gently lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case.
+弗兰克轻轻地把陶器从箱子里拿出来，突然发现包装箱底部有一幅微型画。
 
-As its composition and line reminded him of an Italian painting he knew well, he decided to buy it. Glancing at it briefly the dealer told him that it was worth ￡50. Frank could hardly conceal his excitement, for he knew that he had made a real discovery.
+As its composition and line reminded him of an Italian painting he knew well, he decided to buy it.
+由于它的构图和线条使他想起了一幅他非常熟悉的意大利油画，他决定买下它。
+Glancing at it briefly the dealer told him that it was worth ￡50.
+店主匆匆瞥了一眼，告诉他这幅画值50英镑。
+Frank could hardly conceal his excitement, for he knew that he had made a real discovery.
+弗兰克几乎无法掩饰自己的兴奋，因为他知道自己真的发现了一件宝贝。
 
 The tiny painting proved to be an unknown masterpiece by Correggio and was worth hundreds and thousands of pounds.
+这幅小画后来被证实是柯雷乔的一幅不为人知的杰作，价值数十万英镑。
 
 
 ---

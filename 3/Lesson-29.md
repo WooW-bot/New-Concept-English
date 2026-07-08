@@ -2,23 +2,60 @@
 
 ## 课文内容 (Text)
 
-Whether we find a joke funny or not largely depends on where we have been brought up. The sense of humour is mysteriously bound up with national characteristics. A Frenchman, for instance, might find it hard to laugh at a Russian joke.
+Whether we find a joke funny or not largely depends on where we have been brought up.
+我们觉得一个笑话是否好笑，很大程度上取决于我们的成长环境。
+The sense of humour is mysteriously bound up with national characteristics.
+幽默感与民族特性有着某种神秘的联系。
+A Frenchman, for instance, might find it hard to laugh at a Russian joke.
+例如，一个法国人可能觉得很难对一个俄国笑话发笑。
 
-In the same way, a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to tears. Most funny stories are based on comic situations.
+In the same way, a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to tears.
+同样，一个俄国人可能看不出某个能让英国人笑出眼泪的笑话有什么可笑之处。
+Most funny stories are based on comic situations.
+大多数滑稽故事都是以喜剧性的情境为基础的。
 
-In spite of national differences, certain funny situations have a universal appeal. No matter where you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+In spite of national differences, certain funny situations have a universal appeal.
+尽管存在民族差异，某些滑稽的情境却具有普遍的感染力。
+No matter where you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+无论你住在哪里，你都会发现很难不对查理·卓别林的早期电影发笑。
 
-However, a new type of humour, which stems largely from U.S., has recently come into fashion. It is called 'sick humour'. Comedians base their jokes on tragic situations like violent death or serious accidents. Many people find this sort of joke distasteful.
+However, a new type of humour, which stems largely from U.S., has recently come into fashion.
+然而，一种主要源于美国的幽默新形式最近流行起来。
+It is called 'sick humour'.
+它被称为“病态幽默”。
+Comedians base their jokes on tragic situations like violent death or serious accidents.
+喜剧演员们以暴力死亡或严重事故等悲剧性情境作为他们笑话的基础。
+Many people find this sort of joke distasteful.
+许多人觉得这类笑话令人反感。
 
-The following example of 'sick humour' will enable you to judge for yourself. A man who had broken his right leg was taken to hospital a few weeks before Christmas. From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.
+The following example of 'sick humour' will enable you to judge for yourself.
+下面这个“病态幽默”的例子将使你自己做出判断。
+A man who had broken his right leg was taken to hospital a few weeks before Christmas.
+圣诞节前几周，一个摔断了右腿的人被送进了医院。
+From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.
+从他住进医院的那一刻起，他就不断地缠着医生，问他什么时候能出院。
 
-He dreaded having to spend Christmas in hospital. Though the doctor did his best, the patient's recovery was slow. On Christmas day, the man still had his right leg in plaster.
+He dreaded having to spend Christmas in hospital.
+他非常害怕要在医院里过圣诞节。
+Though the doctor did his best, the patient's recovery was slow.
+尽管医生尽了力，但病人的恢复情况很慢。
+On Christmas day, the man still had his right leg in plaster.
+圣诞节那天，那人的右腿上还打着石膏。
 
-He spent a miserable day in bed thinking of all the fun he was missing. The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year celebrations were good.
+He spent a miserable day in bed thinking of all the fun he was missing.
+他在床上度过了痛苦的一天，想着自己错过的所有乐趣。
+The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year celebrations were good.
+然而第二天，医生安慰他说，他很有希望在新年庆祝活动前出院。
 
-The man took heart and sure enough, on New Year's Eve he was able to hobble along to a party. To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him.
+The man took heart and sure enough, on New Year's Eve he was able to hobble along to a party.
+那人振作了起来，果然，在新年前夜他能一瘸一拐地去参加一个聚会了。
+To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him.
+为了补偿他在医院里的不快经历，那人喝得有点过量了。
 
-In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals. He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.
+In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals.
+在此过程中，他玩得非常尽兴，并不断地告诉每个人他是多么讨厌医院。
+He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.
+聚会结束时，他还在嘟囔着关于医院的事情，这时他滑倒在一块冰上，摔断了左腿。
 
 
 ---

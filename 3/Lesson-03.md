@@ -2,17 +2,45 @@
 
 ## 课文内容 (Text)
 
-Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini. The city at one time must have been prosperous, for it enjoyed a high level of civilization.
+Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.
+不久前，考古学家在爱琴海的基亚岛上做了一项有趣的发现。
+An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini.
+一支美国考察队对阿亚·伊里尼海角一座古城里的神庙进行了考察。
+The city at one time must have been prosperous, for it enjoyed a high level of civilization.
+这座城市曾经一定非常繁荣，因为它享有高度的文明。
 
-Houses -- often three storeys high -- were built of stone. They had large rooms with beautifully decorated walls. The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
+Houses -- often three storeys high -- were built of stone.
+房屋通常有三层高，是用石头建造的。
+They had large rooms with beautifully decorated walls.
+它们有宽敞的房间，墙壁装饰得很漂亮。
+The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
+这座城市甚至配备了排水系统，因为在狭窄的街道下发现了许多陶制管道。
 
-The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. In the most sacred room of the temple, clay fragments of fifteen statues were found. Each of these represented a goddess and had, at one time, been painted.
+The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times.
+考古学家考察的那座神庙从公元前15世纪一直到罗马时代都被用作礼拜场所。
+In the most sacred room of the temple, clay fragments of fifteen statues were found.
+在神庙最神圣的房间里，发现了15尊雕像的陶制碎片。
+Each of these represented a goddess and had, at one time, been painted.
+这些雕像每一尊都代表一位女神，而且曾经被涂过颜色。
 
-The body of one statue was found among remains dating from the 15th century B.C. Its missing head happened to be among remains of the fifth century B.C. This head must have been found in Classical times and carefully preserved.
+The body of one statue was found among remains dating from the 15th century B.C.
+其中一尊雕像的躯干是在公元前15世纪的遗迹中被发现的。
+Its missing head happened to be among remains of the fifth century B.C.
+它缺失的头部恰好在公元前5世纪的遗迹中被发现。
+This head must have been found in Classical times and carefully preserved.
+这个头部一定是在古典时代被发现并被小心保存下来的。
 
-It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. She stood three feet high and her hands rested on her hips.
+It was very old and precious even then.
+即使在当时，它也已经非常古老而珍贵了。
+When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman.
+当考古学家将这些碎片拼合起来时，他们惊讶地发现，这位女神竟然是一位看起来非常现代的女性。
+She stood three feet high and her hands rested on her hips.
+她有3英尺高，双手叉腰。
 
-She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
+She was wearing a full-length skirt which swept the ground.
+她穿着一条拖地的长裙。
+Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
+尽管她年代久远，但确实非常优雅，然而到目前为止，考古学家们还未能发现她的身份。
 
 
 ---

@@ -2,19 +2,52 @@
 
 ## 课文内容 (Text)
 
-People become quite illogical when they try to decide what can be eaten and what cannot be eaten. If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy. You would not be able to understand why some people find it repulsive.
+People become quite illogical when they try to decide what can be eaten and what cannot be eaten.
+人们在试图决定什么能吃、什么不能吃时，往往变得很不合逻辑。
+If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy.
+例如，如果你住在地中海地区，你会把章鱼视为美味佳肴。
+You would not be able to understand why some people find it repulsive.
+你将无法理解为什么有些人会觉得它令人作呕。
 
-On the other hand, your stomach would turn at the idea of frying potatoes in animal fat-the normally accepted practice in many northern countries. The sad truth is that most of us have been brought up to eat certain foods and we stick to them all our lives. No creature has received more praise and abuse than the common garden snail.
+On the other hand, your stomach would turn at the idea of frying potatoes in animal fat-the normally accepted practice in many northern countries.
+另一方面，一想到用动物油炸土豆——这在许多北方国家是通常被接受的做法——你就会感到反胃。
+The sad truth is that most of us have been brought up to eat certain foods and we stick to them all our lives.
+可悲的事实是，我们大多数人从小就习惯吃某些特定的食物，并终生坚持这种饮食习惯。
+No creature has received more praise and abuse than the common garden snail.
+没有哪种生物像普通的庭院蜗牛那样，既受到如此多的赞美，又遭到如此多的厌恶。
 
-Cooked in wine, snails are a great luxury in various parts of the world. There are countless people who, ever since their early years, have learned to associate snails with food. My friend, Robert, lives in a country where snails are despised.
+Cooked in wine, snails are a great luxury in various parts of the world.
+用酒烹制的蜗牛在世界各地都被视为一种奢侈的美味。
+There are countless people who, ever since their early years, have learned to associate snails with food.
+有无数人从孩提时代起就已习惯将蜗牛与食物联系在一起。
+My friend, Robert, lives in a country where snails are despised.
+我的朋友罗伯特住在一个鄙视蜗牛的国家。
 
-As his flat is in a large town, he has no garden of his own. For years he has been asking me to collect snails from my garden and take them to him. The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants.
+As his flat is in a large town, he has no garden of his own.
+由于他的公寓位于大城市，他自己没有花园。
+For years he has been asking me to collect snails from my garden and take them to him.
+多年来，他一直请求我从我的花园里收集蜗牛并带给他。
+The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants.
+这个主意从来没让我觉得有多好，但有一天，在一场大雨过后，我碰巧在花园里散步，发现有大量的蜗牛在我的一些名贵植物上“散步”。
 
-Acting on a sudden impulse, I collected several dozen, put them in a paper bag, and took them to Robert. Robert was delighted to see me and equally pleased with my little gift. I left the bag in the hall and Robert and I went into the living room where we talked for a couple of hours.
+Acting on a sudden impulse, I collected several dozen, put them in a paper bag, and took them to Robert.
+我一时冲动，收集了几十只蜗牛，把它们装进纸袋，带给了罗伯特。
+Robert was delighted to see me and equally pleased with my little gift.
+罗伯特见到我很高兴，对我的这份小礼物也同样感到满意。
+I left the bag in the hall and Robert and I went into the living room where we talked for a couple of hours.
+我把纸袋留在门厅，罗伯特和我走进客厅，在那里聊了几个小时。
 
-I had forgotten all about the snails when Robert suddenly said that I must stay to dinner. Snails would, of course, be the main dish. I did not fancy the idea and I reluctantly followed Robert out of the room.
+I had forgotten all about the snails when Robert suddenly said that I must stay to dinner.
+我早已把蜗牛的事忘得一干二净，这时罗伯特突然说我必须留下来吃晚饭。
+Snails would, of course, be the main dish.
+当然，蜗牛将是主菜。
+I did not fancy the idea and I reluctantly followed Robert out of the room.
+我并不喜欢这个主意，但还是勉强跟着罗伯特走出了房间。
 
-To our dismay, we saw that there were snails everywhere: they had escaped from the paper bag and had taken complete possession of the hall! I have never be able to look at a snail since then.
+To our dismay, we saw that there were snails everywhere: they had escaped from the paper bag and had taken complete possession of the hall!
+令我们沮丧的是，我们看到到处都是蜗牛：它们已经从纸袋里逃了出来，完全占领了门厅！
+I have never be able to look at a snail since then.
+从那以后，我再也无法直视蜗牛了。
 
 
 ---

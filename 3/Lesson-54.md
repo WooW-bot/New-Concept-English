@@ -2,27 +2,74 @@
 
 ## 课文内容 (Text)
 
-We have been brought up to fear insects. We regard them as unnecessary creatures that do more harm than good. We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops.
+We have been brought up to fear insects.
+我们从小就被教育要害怕昆虫。
+We regard them as unnecessary creatures that do more harm than good.
+我们把它们视为弊多利少的无用之物。
+We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops.
+我们不断地与它们进行斗争，因为它们污染我们的食物、传播疾病或吞食我们的庄稼。
 
-They sting or bite without provocation; they fly uninvited into our rooms on summer nights, or beat against our lighted windows. We live in dread not only of unpleasant insects like spiders or wasps, but of quite harmless ones like moths. Reading about them increases our understanding without dispelling our fears.
+They sting or bite without provocation; they fly uninvited into our rooms on summer nights, or beat against our lighted windows.
+它们无缘无故地蜇人或咬人；夏夜，它们不请自来地飞进我们的房间，或者撞击我们明亮的窗户。
+We live in dread not only of unpleasant insects like spiders or wasps, but of quite harmless ones like moths.
+我们不仅对蜘蛛或黄蜂这类令人讨厌的昆虫感到恐惧，甚至对像飞蛾那样完全无害的昆虫也感到害怕。
+Reading about them increases our understanding without dispelling our fears.
+阅读有关它们的书籍增加了我们的了解，却并没有消除我们的恐惧。
 
-Knowing that the industrious ant lives in a highly organized society does nothing to prevent us from being filled with revulsion when we find hordes of them crawling over a carefully prepared picnic lunch. No matter how much we like honey, or how much we have read about the uncanny sense of direction which bees possess, we have a horror of being stung.
+Knowing that the industrious ant lives in a highly organized society does nothing to prevent us from being filled with revulsion when we find hordes of them crawling over a carefully prepared picnic lunch.
+尽管知道勤劳的蚂蚁生活在一个高度组织化的社会里，但这并不能阻止我们在发现成群的蚂蚁爬过精心准备的野餐午餐时感到厌恶。
+No matter how much we like honey, or how much we have read about the uncanny sense of direction which bees possess, we have a horror of being stung.
+无论我们多么喜欢蜂蜜，或者读过多少关于蜜蜂所拥有的神奇方向感的文章，我们依然害怕被蜇。
 
-Most of our fears are unreasonable, but they are impossible to erase. At the same time, however, insects are strangely fascinating. We enjoy reading about them, especially when we find that, like the praying mantis, they lead perfectly horrible lives.
+Most of our fears are unreasonable, but they are impossible to erase.
+我们的大多数恐惧都是不合理的，但却无法消除。
+At the same time, however, insects are strangely fascinating.
+然而与此同时，昆虫又有一种奇特的魅力。
+We enjoy reading about them, especially when we find that, like the praying mantis, they lead perfectly horrible lives.
+我们喜欢阅读有关它们的内容，尤其是当我们发现像螳螂那样的昆虫过着极其可怕的生活时。
 
-We enjoy staring at them, entranced as they go about their business, unaware (we hope) of our presence. Who has not stood in awe at the sight of a spider pouncing on a fly, or a column of ants triumphantly bearing home an enormous dead beetle?
+We enjoy staring at them, entranced as they go about their business, unaware (we hope) of our presence.
+我们喜欢盯着它们看，当它们忙于自己的事情而（我们希望）没察觉到我们的存在时，我们会被深深吸引。
+Who has not stood in awe at the sight of a spider pouncing on a fly, or a column of ants triumphantly bearing home an enormous dead beetle?
+谁在看到蜘蛛扑向苍蝇，或者一队蚂蚁凯旋般地搬运着一只巨大的死甲虫回家时，没有感到惊叹呢？
 
-Last summer I spent days in the garden watching thousands of ants crawling up the trunk of my prize peach tree. The tree has grown against a warm wall on a sheltered side of the house. I am especially proud of it, not only because it has survived several severe winters, but because it occasionally produces luscious peaches.
+Last summer I spent days in the garden watching thousands of ants crawling up the trunk of my prize peach tree.
+去年夏天，我在花园里待了好几天，观察成千上万只蚂蚁爬上我那棵心爱的桃树树干。
+The tree has grown against a warm wall on a sheltered side of the house.
+这棵树长在房子背风处的一面暖墙边。
+I am especially proud of it, not only because it has survived several severe winters, but because it occasionally produces luscious peaches.
+我特别为它感到自豪，不仅因为它熬过了几个严冬，还因为它偶尔能结出甘甜多汁的桃子。
 
-During the summer, I noticed that the leaves of the tree were beginning to wither. Clusters of tiny insects called aphides were to be found on the underside of the leaves. They were visited by a large colony of ants which obtained a sort of honey from them.
+During the summer, I noticed that the leaves of the tree were beginning to wither.
+夏天的时候，我注意到树叶开始枯萎。
+Clusters of tiny insects called aphides were to be found on the underside of the leaves.
+在叶子的背面可以发现成群的小昆虫，叫作蚜虫。
+They were visited by a large colony of ants which obtained a sort of honey from them.
+一大群蚂蚁光顾了它们，从它们身上获取一种蜜露。
 
-I immediately embarked on an experiment which even though it failed to get rid of the ants kept me fascinated for twenty-four hours. I bound the base of the tree with sticky tape, making it impossible for the ants to reach the aphides. The tape was so sticky that they did not dare to cross it.
+I immediately embarked on an experiment which even though it failed to get rid of the ants kept me fascinated for twenty-four hours.
+我立即着手进行了一项实验，虽然它没能除掉蚂蚁，却让我着迷了二十四个小时。
+I bound the base of the tree with sticky tape, making it impossible for the ants to reach the aphides.
+我用胶带缠住了树干基部，使蚂蚁无法接触到蚜虫。
+The tape was so sticky that they did not dare to cross it.
+胶带太黏了，它们不敢越过。
 
-For a long time, I watched them scurrying around the base of the tree in bewilderment. I even went out at midnight with a torch and noted with satisfaction (and surprise) that the ants were still swarming around the sticky tape without being able to do anything about it.
+For a long time, I watched them scurrying around the base of the tree in bewilderment.
+很长一段时间里，我看着它们在树干基部周围惊惶地乱跑。
+I even went out at midnight with a torch and noted with satisfaction (and surprise) that the ants were still swarming around the sticky tape without being able to do anything about it.
+我甚至在午夜带着手电筒出去查看，满意（且惊讶）地发现蚂蚁仍然在胶带周围团团转，却对此束手无策。
 
-I got up early next morning hoping to find that the ants had given up in despair. Instead, I saw that they had discovered a new route. They were climbing up the wall of the house and then on to the leaves of the tree.
+I got up early next morning hoping to find that the ants had given up in despair.
+第二天清晨我早早起床，希望能发现蚂蚁已经绝望放弃了。
+Instead, I saw that they had discovered a new route.
+相反，我看到它们已经发现了一条新路线。
+They were climbing up the wall of the house and then on to the leaves of the tree.
+它们正顺着房子的墙壁往上爬，然后爬到了树叶上。
 
-I realized sadly that I had been completely defeated by their ingenuity. The ants had been quick to find an answer to my thoroughly unscientific methods!
+I realized sadly that I had been completely defeated by their ingenuity.
+我悲哀地意识到，我彻底被它们的足智多谋打败了。
+The ants had been quick to find an answer to my thoroughly unscientific methods!
+蚂蚁很快就找到了应对我那完全不科学的方法的对策！
 
 
 ---

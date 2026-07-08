@@ -2,23 +2,64 @@
 
 ## 课文内容 (Text)
 
-For years, villagers believed that Endley farm was haunted. The farm was owned by two brothers, Joe and Bob Cox. They employed a few farmhands, but no one was willing to work there long.
+For years, villagers believed that Endley farm was haunted.
+多年来，村民们一直认为恩德利农场闹鬼。
+The farm was owned by two brothers, Joe and Bob Cox.
+这座农场由乔·考克斯和鲍勃·考克斯两兄弟拥有。
+They employed a few farmhands, but no one was willing to work there long.
+他们雇了一些农场工人，但没有人愿意在那里长久工作。
 
-Every time a worker gave up his job, he told the same story. Farm labourers said that they always woke up to find that work had been done overnight. Hay had been cut and cowsheds had been cleaned.
+Every time a worker gave up his job, he told the same story.
+每当有工人辞职时，他都会讲述同一个故事。
+Farm labourers said that they always woke up to find that work had been done overnight.
+农场工人们说，他们醒来时总是发现活儿已经在夜里干完了。
+Hay had been cut and cowsheds had been cleaned.
+干草被割好了，牛棚也被打扫干净了。
 
-A farm worker, who stayed up all night, claimed to have seen a figure cutting corn in the moonlight. In time, it became an accepted fact that the Cox brothers employed a conscientious ghost that did most of their work for them. No one suspected that there might be someone else on the farm who had never been seen.
+A farm worker, who stayed up all night, claimed to have seen a figure cutting corn in the moonlight.
+一名熬了一整夜的农场工人声称，他看见一个身影在月光下割玉米。
+In time, it became an accepted fact that the Cox brothers employed a conscientious ghost that did most of their work for them.
+久而久之，考克斯兄弟雇佣了一个勤恳的鬼魂为他们干大部分活儿，这成了一个公认的事实。
+No one suspected that there might be someone else on the farm who had never been seen.
+没有人怀疑农场里可能还藏着一个从未露面的人。
 
-This was indeed the case. A short time ago, villagers were astonished to learn that the ghost of Endley had died. Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man.
+This was indeed the case.
+事实确实如此。
+A short time ago, villagers were astonished to learn that the ghost of Endley had died.
+不久前，村民们惊奇地得知恩德利的“鬼魂”去世了。
+Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man.
+大家都去参加了葬礼，因为这个“鬼魂”不是别人，正是埃里克·考克斯，他是考克斯家的老三，本应在年轻时就去世了。
 
-After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years. Eric had been the eldest son of the family, very much older than his two brothers. He had been obliged to join the army during the Second World War.
+After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years.
+葬礼结束后，乔和鲍勃揭开了一个他们保守了五十多年的秘密。
+Eric had been the eldest son of the family, very much older than his two brothers.
+埃里克是家里的长子，比他的两个弟弟大很多。
+He had been obliged to join the army during the Second World War.
+第二次世界大战期间，他被迫参了军。
 
-As he hated army life, he decided to desert his regiment. When he learnt that he would be sent abroad, he returned to the farm and his father hid him until the end of the war.
+As he hated army life, he decided to desert his regiment.
+由于他厌恶军队生活，他决定从部队开小差。
+When he learnt that he would be sent abroad, he returned to the farm and his father hid him until the end of the war.
+当得知自己将被派往国外时，他回到了农场，他的父亲将他藏了起来，直到战争结束。
 
-Fearing the authorities, Eric remained in hiding after the war as well. His father told everybody that Eric had been killed in action. The only other people who knew the secret were Joe and Bob.
+Fearing the authorities, Eric remained in hiding after the war as well.
+由于害怕当局，战后埃里克依然躲藏着。
+His father told everybody that Eric had been killed in action.
+他的父亲告诉所有人埃里克已经在战斗中阵亡了。
+The only other people who knew the secret were Joe and Bob.
+除了他父亲，唯一知道这个秘密的人就是乔和鲍勃。
 
-They did not even tell their wives. When their father died they thought it their duty to keep Eric in hiding. All these years, Eric had lived as a recluse.
+They did not even tell their wives.
+他们甚至连自己的妻子都没有告诉。
+When their father died they thought it their duty to keep Eric in hiding.
+父亲去世后，他们认为继续把埃里克藏起来是他们的责任。
+All these years, Eric had lived as a recluse.
+这些年来，埃里克一直过着隐居的生活。
 
-He used to sleep during the day and work at night, quite unaware of the fact that he had become the ghost of Endley. When he died, however, his brothers found it impossible to keep the secret any longer.
+He used to sleep during the day and work at night, quite unaware of the fact that he had become the ghost of Endley.
+他习惯白天睡觉，晚上干活，完全不知道自己已经成了恩德利的“鬼魂”。
+When he died, however, his brothers found it impossible to keep the secret any longer.
+然而，当他去世时，他的兄弟们发现再也无法保守这个秘密了。
 
 
 ---

@@ -2,19 +2,38 @@
 
 ## 课文内容 (Text)
 
-Pumas are large, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
+Pumas are large, cat-like animals which are found in America.
+美洲狮是一种生活在美洲的体型庞大、像猫一样的动物。
+When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
+当伦敦动物园接到报告说在伦敦以南45英里处发现了一只野生美洲狮时，他们并没有当真。
 
 However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+然而，随着证据不断增加，动物园的专家们感到有必要进行调查，因为那些声称见过美洲狮的人所描述的情况惊人地相似。
 
-The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat'only five yards away from her. It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered.
+The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her.
+对美洲狮的搜寻始于一个小村庄，在那里，一位正在采摘黑莓的妇女看到了一只离她仅5码远的“大猫”。
+It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered.
+当她看到它时，它立即跑开了，专家们证实，除非被逼入绝境，否则美洲狮是不会攻击人类的。
 
-The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
+The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.
+搜寻工作证明很困难，因为人们常常早上在一个地方看到这只美洲狮，而到了晚上，它又出现在20英里外的另一个地方。
+Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
+无论它走到哪里，都会留下一串死鹿和像兔子这样的小动物。
 
-Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of 'cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal was a puma, but where had it come from?
+Paw prints were seen in a number of places and puma fur was found clinging to bushes.
+人们在许多地方发现了爪印，在灌木丛上还发现了粘着的美洲狮皮毛。
+Several people complained of 'cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree.
+几个人抱怨晚上听到了“像猫一样的叫声”，一位去钓鱼的商人还看到那只美洲狮爬在树上。
+The experts were now fully convinced that the animal was a puma, but where had it come from?
+专家们现在完全确信这只动物就是美洲狮，但它究竟是从哪里来的呢？
 
-As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught.
+As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape.
+由于全国没有任何一家动物园报告有美洲狮丢失，这只美洲狮一定是属于某个私人收藏家的，并且不知何故逃了出来。
+The hunt went on for several weeks, but the puma was not caught.
+搜寻工作持续了几个星期，但美洲狮并没有被抓住。
 
 It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.
+想到一只危险的野生动物仍然在宁静的乡村里逍遥法外，真令人不安。
 
 
 ---

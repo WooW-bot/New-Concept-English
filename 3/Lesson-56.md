@@ -2,25 +2,61 @@
 
 ## 课文内容 (Text)
 
-The river which forms the eastern boundary of our farm has always played an important part in our lives. Without it we could not make a living. There is only enough spring water to supply the needs of the house so we have to pump from the river for farm use.
+The river which forms the eastern boundary of our farm has always played an important part in our lives.
+那条构成了我们农场东部边界的河流，在我们生活中一直扮演着重要的角色。
+Without it we could not make a living.
+没有它，我们就无法维持生计。
+There is only enough spring water to supply the needs of the house so we have to pump from the river for farm use.
+泉水仅够供应家庭日常所需，所以我们不得不从河里抽水供农场使用。
 
-We tell the river all our secrets. We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it.
+We tell the river all our secrets.
+我们向这条河倾诉我们所有的秘密。
+We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it.
+我们凭直觉知道，就像养蜂人对待他们的蜜蜂一样，如果我们生活中重大的事件不与它联系在一起，不幸就可能会降临到我们头上。
 
-We have special river birthday parties in the summer. Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse, which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving.
+We have special river birthday parties in the summer.
+夏天，我们会在河边举行特别的生日派对。
+Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse, which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving.
+有时我们向上游去往一处钟爱的回水湾，有时我们在船屋举行派对，那船屋是我们农场的前任主人建在草地上的，紧挨着最深的水潭，适合游泳和跳水。
 
-In a heat wave we choose a midnight birthday party and that is the most exciting of all. We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring, holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn, and throwing a holly wreath into the current in the winter.
+In a heat wave we choose a midnight birthday party and that is the most exciting of all.
+在热浪袭来时，我们会选择在午夜举行生日派对，那是最令人兴奋的。
+We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring, holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn, and throwing a holly wreath into the current in the winter.
+我们在河畔迎接四季的更迭：春天，为家里最小的女孩戴上花冠；仲夏夜，举办夏季庆典；秋天，为丰收感恩；冬天，将冬青花环投入湍急的河水中。
 
-After a long period of rain the river may overflow its banks. This is a rare occurrence as our climate seldom goes to extremes. We are lucky in that only the lower fields, which make up a very small proportion of our farm, are affected by flooding, but other farms are less favourably sited, and flooding can sometimes spell disaster for their owners.
+After a long period of rain the river may overflow its banks.
+经过长期的降雨后，河水可能会漫过河岸。
+This is a rare occurrence as our climate seldom goes to extremes.
+这种情况很少见，因为我们的气候很少出现极端状况。
+We are lucky in that only the lower fields, which make up a very small proportion of our farm, are affected by flooding, but other farms are less favourably sited, and flooding can sometimes spell disaster for their owners.
+我们很幸运，只有地势较低的田地会受到洪水影响，而这些田地在我们农场中所占比例很小，但其他农场的位置没那么好，洪水有时会给他们的主人带来灾难。
 
-One bad winter we watched the river creep up the lower meadows. All the cattle had been moved into stalls and we stood to lose little. We were, however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district.
+One bad winter we watched the river creep up the lower meadows.
+有一个糟糕的冬天，我们眼看着河水漫上了低处的草地。
+All the cattle had been moved into stalls and we stood to lose little.
+所有的牲畜都已转移到了棚圈里，我们几乎没有什么损失。
+We were, however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district.
+然而，我们很担心最近的邻居，他们的农场地势低洼，而且是刚搬到这个地区的新人。
 
-As the floods had put the telephone out of order, we could not find out how they were managing. From an attic window we could get a sweeping view of the river where their land joined ours, and at the most critical juncture we took turns in watching that point.
+As the floods had put the telephone out of order, we could not find out how they were managing.
+由于洪水导致电话中断，我们无法得知他们的情况如何。
+From an attic window we could get a sweeping view of the river where their land joined ours, and at the most critical juncture we took turns in watching that point.
+从阁楼的窗户，我们可以一览无余地看到他们土地与我们土地交界处的河流，在最关键的时刻，我们轮流在那儿监视着那个地点。
 
-The first sign of disaster was a dead sheep floating down. Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted.
+The first sign of disaster was a dead sheep floating down.
+灾难的第一个迹象是一只死羊漂了下来。
+Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted.
+接着是一匹马，它勇敢地游着，但我们担心在它精疲力竭之前，湍急的水流会使它无法在任何地方上岸。
 
-Suddenly a raft appeared, looking rather like Noah's ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage. We realized that they must have become unduly frightened by the rising flood, for their house, which had sound foundations, would have stood stoutly even if it had been almost submerged.
+Suddenly a raft appeared, looking rather like Noah's ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage.
+突然，一只木筏出现了，看起来很像诺亚方舟，载着全家人、几只母鸡、狗、一只猫和一只笼子里的鸟。
+We realized that they must have become unduly frightened by the rising flood, for their house, which had sound foundations, would have stood stoutly even if it had been almost submerged.
+我们意识到他们一定是被上涨的洪水吓坏了，因为他们的房子地基稳固，即使几乎被淹没，也依然会屹立不倒。
 
-The men of our family waded down through our flooded meadows with boat hooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towrds our bank. We still think it a miracle that they were able to do so.
+The men of our family waded down through our flooded meadows with boat hooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towards our bank.
+我们家里的男人们带着船钩，涉水穿过被淹没的草地，希望能钩住木筏的一角，把它从水流中拉向我们的岸边。
+We still think it a miracle that they were able to do so.
+我们至今仍认为他们能做到这一点简直是个奇迹。
 
 
 ---

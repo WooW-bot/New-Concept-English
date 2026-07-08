@@ -2,17 +2,45 @@
 
 ## 课文内容 (Text)
 
-Most of us have formed an unrealistic picture of life on a desert island. We sometimes imagine a desert island to be a sort of paradise where the sun always shines. Life there is simple and good.
+Most of us have formed an unrealistic picture of life on a desert island.
+我们大多数人对荒岛生活都有一种不切实际的想象。
+We sometimes imagine a desert island to be a sort of paradise where the sun always shines.
+我们有时把荒岛想象成一种阳光普照的天堂。
+Life there is simple and good.
+那里的生活简单而美好。
 
-Ripe fruit falls from the trees and you never have to work. The other side of the picture is quite the opposite. Life on a desert island is wretched.
+Ripe fruit falls from the trees and you never have to work.
+成熟的果实从树上掉下来，你根本无需劳作。
+The other side of the picture is quite the opposite.
+这种景象的另一面却截然相反。
+Life on a desert island is wretched.
+荒岛上的生活是悲惨的。
 
-You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes. Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out. Two men who recently spent five days on a coral island wished they had stayed there longer.
+You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes.
+你要么饿死，要么像鲁滨逊那样生活，等待着永远不会来的船。
+Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.
+或许这两种景象都有一定的真实成分，但我们中很少有人有机会去证实。
+Two men who recently spent five days on a coral island wished they had stayed there longer.
+最近有两名男子在珊瑚岛上度过了五天，他们甚至希望在那里待得更久一些。
 
-They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired. During the journey, their boat began to sink. They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island.
+They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.
+他们当时正驾驶着一艘严重受损的船从维尔京群岛前往迈阿密去修理。
+During the journey, their boat began to sink.
+航行途中，他们的船开始下沉。
+They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island.
+他们迅速将食物、火柴和罐装啤酒装上一艘小型橡皮艇，划行了几英里穿过加勒比海，最终抵达了一座小小的珊瑚岛。
 
-There were hardly any trees on the island and there was no water, but this did not prove to be a problem. The men collected rainwater in the rubber dinghy. As they had brought a spear gun with them, they had plenty to eat.
+There were hardly any trees on the island and there was no water, but this did not prove to be a problem.
+岛上几乎没有树，也没有淡水，但这并没有成为问题。
+The men collected rainwater in the rubber dinghy.
+他们用橡皮艇收集雨水。
+As they had brought a spear gun with them, they had plenty to eat.
+由于他们随身带了一把捕鱼枪，所以有充足的食物。
 
-They caught lobster and fish every day, and as one of them put it 'ate like kings'. When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.
+They caught lobster and fish every day, and as one of them put it 'ate like kings'.
+他们每天捕捞龙虾和鱼，正如其中一人所说，他们“吃得像国王一样”。
+When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.
+五天后，当一艘过往的油轮救起他们时，两人都真心为不得不离开而感到遗憾。
 
 
 ---

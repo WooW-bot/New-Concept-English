@@ -2,17 +2,45 @@
 
 ## 课文内容 (Text)
 
-In 1908 Lord Northcliffe offered a prize of ￡1, 000 to the first man who would fly across the English Channel. Over a year passed before the first attempt was made. On July 19th, 1909, in the early morning, Hubert Latham took off from the French coast in his plane the 'Antoinette IV.' He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea.
+In 1908 Lord Northcliffe offered a prize of ￡1, 000 to the first man who would fly across the English Channel.
+1908年，诺思克利夫勋爵悬赏1000英镑，奖给第一个飞越英吉利海峡的人。
+Over a year passed before the first attempt was made.
+一年多以后，才有人进行了首次尝试。
+On July 19th, 1909, in the early morning, Hubert Latham took off from the French coast in his plane the 'Antoinette IV.'
+1909年7月19日清晨，休伯特·莱瑟姆驾驶着他的“安托瓦内特4号”飞机从法国海岸起飞。
+He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea.
+他飞越海峡仅7英里，发动机就出了故障，被迫降落在海上。
 
-The 'Antoinette' floated on the water until Latham was picked up by a ship. Two days later, Louis Bleriot arrived near Calais with a plane called 'No.XI'. Bleriot had been making planes since 1905 and this was his latest model.
+The 'Antoinette' floated on the water until Latham was picked up by a ship.
+“安托瓦内特”号飞机漂浮在水面上，直到莱瑟姆被一艘船救起。
+Two days later, Louis Bleriot arrived near Calais with a plane called 'No.XI'.
+两天后，路易·布莱里奥带着一架名为“11号”的飞机抵达加来附近。
+Bleriot had been making planes since 1905 and this was his latest model.
+布莱里奥从1905年就开始制造飞机了，这是他的最新机型。
 
-A week before, he had completed a successful overland flight during which he covered twenty-six miles. Latham, however, did not give up easily. He, too, arrived near Calais on the same day with a new 'Antoinette'.
+A week before, he had completed a successful overland flight during which he covered twenty-six miles.
+一周前，他刚刚完成了一次成功的陆上飞行，航程达26英里。
+Latham, however, did not give up easily.
+然而，莱瑟姆并没有轻易放弃。
+He, too, arrived near Calais on the same day with a new 'Antoinette'.
+同一天，他也带着一架新的“安托瓦内特”飞机抵达了加来附近。
 
-It looked as if there would be an exciting race across the Channel. Both planes were going to take off on July 25th, but Latham failed to get up early enough. After making a short test flight at 4.15 a.m., Bleriot set off half an hour later.
+It looked as if there would be an exciting race across the Channel.
+看来将要进行一场激动人心的飞越海峡竞赛。
+Both planes were going to take off on July 25th, but Latham failed to get up early enough.
+两架飞机原定于7月25日起飞，但莱瑟姆没能起得足够早。
+After making a short test flight at 4.15 a.m., Bleriot set off half an hour later.
+在凌晨4点15分进行了一次短途试飞后，布莱里奥于半小时后出发了。
 
-His great flight lasted thirty-seven minutes. When he landed near Dover, the first person to greet him was a local policeman. Latham made another attempt a week later and got within half a mile of Dover, but he was unlucky again.
+His great flight lasted thirty-seven minutes.
+他那伟大的飞行持续了37分钟。
+When he landed near Dover, the first person to greet him was a local policeman.
+当他在多佛附近降落时，第一个迎接他的是当地的一名警察。
+Latham made another attempt a week later and got within half a mile of Dover, but he was unlucky again.
+一周后，莱瑟姆又进行了一次尝试，并飞到了距多佛仅半英里的地方，但他再次运气不佳。
 
 His engine failed and he landed on the sea for the second time.
+他的发动机又出了故障，第二次降落在海上。
 
 
 ---

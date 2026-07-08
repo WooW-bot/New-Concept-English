@@ -2,19 +2,44 @@
 
 ## 课文内容 (Text)
 
-The expensive shops in a famous arcade near Piccadilly were just opening. At this time of the morning, the arcade was almost empty. Mr. Taylor, the owner of a jewellery shop was admiring a new window display.
+The expensive shops in a famous arcade near Piccadilly were just opening.
+皮卡迪利大街附近一条著名拱廊里的高档商店刚刚开门。
+At this time of the morning, the arcade was almost empty.
+在清晨的这个时候，拱廊里几乎空无一人。
+Mr. Taylor, the owner of a jewellery shop was admiring a new window display.
+一家珠宝店的老板泰勒先生正在欣赏新布置的橱窗。
 
-Two of his assistants had been working busily since 8 o'clock and had only just finished. Diamond necklaces and rings had been beautifully arranged on a background of black velvet. After gazing at the display for several minutes, Mr. Taylor went back into his shop.
+Two of his assistants had been working busily since 8 o'clock and had only just finished.
+他的两名店员从8点钟起就一直在忙碌，直到刚才才干完。
+Diamond necklaces and rings had been beautifully arranged on a background of black velvet.
+钻石项链和戒指被精美地陈列在黑天鹅绒的衬底上。
+After gazing at the display for several minutes, Mr. Taylor went back into his shop.
+泰勒先生盯着橱窗看了几分钟后，回到了自己的店里。
 
-The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. It came to a stop outside the jeweller's. One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.
+The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.
+寂静突然被打破了，一辆开着前灯、按着喇叭的大汽车咆哮着冲进了拱廊。
+It came to a stop outside the jeweller's.
+车在珠宝店门外停了下来。
+One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.
+一个人留在驾驶座上，另外两个戴着黑色长筒袜面罩的人跳下车，用铁棍砸碎了商店的橱窗。
 
-While this was going on, Mr. Taylor was upstairs. He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade.
+While this was going on, Mr. Taylor was upstairs.
+就在这时，泰勒先生正在楼上。
+He and his staff began throwing furniture out of the window.
+他和他的员工开始把家具从窗户往外扔。
+Chairs and tables went flying into the arcade.
+椅子和桌子飞进了拱廊里。
 
-One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed.
+One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain.
+其中一个窃贼被一尊沉重的雕像砸中了，但他忙着抢劫钻石，根本顾不上疼痛。
+The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed.
+这场抢劫在3分钟内就结束了，因为那些人迅速爬回车里，汽车以惊人的速度开走了。
 
-Just as it was leaving, Mr.Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves.
+Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves.
+就在车子离开时，泰勒先生冲了出来，一边追赶一边投掷烟灰缸和花瓶，但要阻止这些窃贼是不可能的。
 
 They had got away with thousands of pounds worth of diamonds.
+他们抢走了价值数千英镑的钻石，逃之夭夭。
 
 
 ---

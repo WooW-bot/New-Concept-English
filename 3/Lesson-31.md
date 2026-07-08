@@ -2,23 +2,56 @@
 
 ## 课文内容 (Text)
 
-True eccentrics never deliberately set out to draw attention to themselves. They disregard social conventions without being conscious that they are doing anything extraordinary. This invariably wins them the love and respect of others, for they add colour to the dull routine of everyday life.
+True eccentrics never deliberately set out to draw attention to themselves.
+真正的怪人从不刻意去引人注目。
+They disregard social conventions without being conscious that they are doing anything extraordinary.
+他们无视社会习俗，却并未意识到自己有什么惊人之举。
+This invariably wins them the love and respect of others, for they add colour to the dull routine of everyday life.
+这总是能为他们赢得他人的爱戴与尊重，因为他们为单调的日常生活增添了色彩。
 
-Up to the time of his death, Richard Colson was one of the most notable figures in our town. He was a shrewd and wealthy businessman, but most people in the town hardly knew anything about this side of his life.
+Up to the time of his death, Richard Colson was one of the most notable figures in our town.
+直到去世前，理查德·科尔森一直是我们镇上最著名的人物之一。
+He was a shrewd and wealthy businessman, but most people in the town hardly knew anything about this side of his life.
+他是一位精明而富有的商人，但镇上大多数人几乎不了解他生活中的这一面。
 
-He was known to us all as Dickie and his eccentricity had become legendary long before he died. Dickie disliked snobs intensely. Though he owned a large car, he hardly ever used it, preferring always to go on foot.
+He was known to us all as Dickie and his eccentricity had become legendary long before he died.
+我们大家都叫他迪基，早在去世之前，他的古怪行为就已经成了传奇。
+Dickie disliked snobs intensely.
+迪基非常讨厌势利小人。
+Though he owned a large car, he hardly ever used it, preferring always to go on foot.
+虽然他有一辆大轿车，但他几乎从不用它，总是宁愿步行。
 
-Even when it was raining heavily, he refused to carry an umbrella. One day, he walked into an expensive shop after having been caught in a particularly heavy shower. He wanted to buy a ￡300 watch for his wife, but he was in such a bedraggled condition that an assistant refused to serve him.
+Even when it was raining heavily, he refused to carry an umbrella.
+即使下大雨，他也拒绝打伞。
+One day, he walked into an expensive shop after having been caught in a particularly heavy shower.
+有一天，他被一场大雨淋透后走进了一家昂贵的商店。
+He wanted to buy a ￡300 watch for his wife, but he was in such a bedraggled condition that an assistant refused to serve him.
+他想给妻子买一块300英镑的手表，但他当时的样子实在太狼狈了，以至于一位店员拒绝接待他。
 
-Dickie left the shop without a word and returned carrying a large cloth bag. As it was extremely heavy, he dumped it on the counter. The assistant asked him to leave, but Dickie paid no attention to him and requested to see the manager.
+Dickie left the shop without a word and returned carrying a large cloth bag.
+迪基一言不发地离开了商店，回来时提着一个大布袋。
+As it was extremely heavy, he dumped it on the counter.
+由于袋子非常沉，他把它重重地扔在柜台上。
+The assistant asked him to leave, but Dickie paid no attention to him and requested to see the manager.
+店员让他离开，但迪基根本不理睬他，并要求见经理。
 
-Recognizing who the customer was, the manager was most apologetic and reprimanded the assistant severely. When Dickie was given the watch, he presented the assistant with the cloth bag.
+Recognizing who the customer was, the manager was most apologetic and reprimanded the assistant severely.
+经理认出了这位顾客，连声道歉，并严厉地训斥了那名店员。
+When Dickie was given the watch, he presented the assistant with the cloth bag.
+当迪基拿到手表时，他把那个布袋递给了那名店员。
 
-It contained ￡300 in pennies. He insisted on the assistant's counting the money before he left--30, 000 pennies in all! On another occasion, he invited a number of important critics to see his private collection of modern paintings.
+It contained ￡300 in pennies.
+袋子里装的是300英镑的便士。
+He insisted on the assistant's counting the money before he left--30, 000 pennies in all!
+他坚持要店员在他离开前把钱数清——总共30,000枚便士！
+On another occasion, he invited a number of important critics to see his private collection of modern paintings.
+还有一次，他邀请了一些重要的评论家来参观他私人的现代画收藏。
 
 This exhibition received a great deal of attention in the press, for though the pictures were supposed to be the work of famous artists, they had in fact been painted by Dickie.
+这次展览在新闻界引起了极大的关注，因为虽然这些画被认为是出自名家之手，但实际上却是迪基自己画的。
 
 It took him four years to stage this elaborate joke simply to prove that critics do not always know what they are talking about.
+他花了四年时间精心策划了这个恶作剧，仅仅是为了证明评论家们并不总是知道自己在谈论些什么。
 
 
 ---

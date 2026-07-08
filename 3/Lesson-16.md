@@ -2,17 +2,45 @@
 
 ## 课文内容 (Text)
 
-Mary and her husband Dimitri lived in the tiny village of Perachora in southern Greece. One of Mary's prize possessions was a little white lamb which her husband had given her. She kept it tied to a tree in a field during the day and went to fetch it every evening.
+Mary and her husband Dimitri lived in the tiny village of Perachora in southern Greece.
+玛丽和她的丈夫迪米特里住在希腊南部一个叫佩拉霍拉的小村庄里。
+One of Mary's prize possessions was a little white lamb which her husband had given her.
+玛丽最珍爱的物品之一是一只小小白羊，那是她丈夫送给她的。
+She kept it tied to a tree in a field during the day and went to fetch it every evening.
+白天，她把它拴在田野里的一棵树上，每天傍晚去把它牵回来。
 
-One evening, however the lamb was missing. The rope had been cut, so it was obvious that the lamb had been stolen. When Dimitri came in from the fields, his wife told him what had happened.
+One evening, however the lamb was missing.
+然而有一天傍晚，小羊不见了。
+The rope had been cut, so it was obvious that the lamb had been stolen.
+绳子被割断了，很明显小羊被偷了。
+When Dimitri came in from the fields, his wife told him what had happened.
+当迪米特里从田里回来时，他的妻子告诉了他发生的事情。
 
-Dimitri at once set out to find the thief. He knew it would not prove difficult in such a small village. After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.
+Dimitri at once set out to find the thief.
+迪米特里立刻出发去寻找小偷。
+He knew it would not prove difficult in such a small village.
+他知道在这样一个小的村庄里，这不会太难。
+After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.
+在把失窃的事告诉了几个朋友之后，迪米特里发现他的邻居阿莱科突然多了一只新羊。
 
-Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb. He told him he had better return it or he would call the police. Aleko denied taking it and led Dimitri into his backyard.
+Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb.
+迪米特里立刻去了阿莱科家，愤怒地指责他偷了那只羊。
+He told him he had better return it or he would call the police.
+他告诉阿莱科最好把它还回来，否则他就报警。
+Aleko denied taking it and led Dimitri into his backyard.
+阿莱科否认偷了羊，并把迪米特里领到了他的后院。
 
-It was true that he had just bought a lamb he explained, but his lamb was black. Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him. While they were talking it began to rain and Dimitri stayed in Aleko's house until the rain stopped.
+It was true that he had just bought a lamb he explained, but his lamb was black.
+他解释说，他确实刚买了一只羊，但他的羊是黑色的。
+Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.
+因为自己行事如此鲁莽而感到羞愧，迪米特里为指责阿莱科向他道了歉。
+While they were talking it began to rain and Dimitri stayed in Aleko's house until the rain stopped.
+他们谈话时开始下雨了，迪米特里便留在阿莱科家里，直到雨停。
 
-When he went outside half an hour later, he was astonished to find that the little black lamb was almost white. Its wool, which had been dyed black, had been washed clean by the rain!
+When he went outside half an hour later, he was astonished to find that the little black lamb was almost white.
+半小时后，当他走到外面时，惊讶地发现那只小黑羊几乎变成了白色。
+Its wool, which had been dyed black, had been washed clean by the rain!
+它那被染成黑色的羊毛被雨水冲洗干净了！
 
 
 ---

@@ -2,21 +2,53 @@
 
 ## 课文内容 (Text)
 
-It has never been explained why university students seem to enjoy practical jokes more than anyone else. Students specialize in a particular type of practical joke: the hoax. Inviting the fire brigade to put out a nonexistent fire is a crude form of deception which no self-respecting student would ever indulde in.
+It has never been explained why university students seem to enjoy practical jokes more than anyone else.
+为什么大学生似乎比其他人更喜欢恶作剧，这一点从未得到过解释。
+Students specialize in a particular type of practical joke: the hoax.
+大学生们专门搞一种特殊的恶作剧：骗局。
+Inviting the fire brigade to put out a nonexistent fire is a crude form of deception which no self-respecting student would ever indulge in.
+叫消防队来扑灭一场根本不存在的火灾，这是一种拙劣的欺骗行为，任何自尊的大学生都不会去做。
 
-Students often create amusing situations which are funny to everyone except the victims. When a student recently saw two workmen using a pneumatic drill outside his university, he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a pneumatic drill.
+Students often create amusing situations which are funny to everyone except the victims.
+大学生们经常制造一些令人捧腹的场面，除了受害者之外，每个人都觉得好笑。
+When a student recently saw two workmen using a pneumatic drill outside his university, he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a pneumatic drill.
+最近，一名大学生看到两名工人在他大学外面使用风钻，他立即打电话给警察，告诉他们有两个学生装扮成工人，正在用风钻掘路。
 
-As soon as he had hung up, he went over to the workmen and told them that if a policeman ordered them to go away, they were not to take him seriously. He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people.
+As soon as he had hung up, he went over to the workmen and told them that if a policeman ordered them to go away, they were not to take him seriously.
+他刚挂断电话，就走到工人们那里，告诉他们如果警察命令他们离开，千万别当真。
+He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people.
+他补充说，有个学生装扮成了警察，正在到处搞各种恶作剧。
 
-Both the police and the workmen were grateful to the student for this piece of advance information. The student hid in an archway nearby where he could watch and hear everything that went on. Sure enough, a policeman arrived on the scene and politely asked the workmen to go away.
+Both the police and the workmen were grateful to the student for this piece of advance information.
+警察和工人们都很感激这名学生提供的这条“预先情报”。
+The student hid in an archway nearby where he could watch and hear everything that went on.
+这名学生躲在附近的一个拱门里，在那里他能看到并听到所发生的一切。
+Sure enough, a policeman arrived on the scene and politely asked the workmen to go away.
+果然，一名警察来到了现场，礼貌地要求工人们离开。
 
-When he received a very rude reply from one of the workmen, he threatened to remove them by force. The workmen told him to do as he pleased and the policeman telephoned for help. Shortly afterwards, 4 more policemen arrived and remonstrated with the workmen.
+When he received a very rude reply from one of the workmen, he threatened to remove them by force.
+当他从其中一名工人那里得到非常粗鲁的回答时，他威胁要强行把他们带走。
+The workmen told him to do as he pleased and the policeman telephoned for help.
+工人们叫他随心所欲，于是警察打电话叫了增援。
+Shortly afterwards, 4 more policemen arrived and remonstrated with the workmen.
+不久之后，又有4名警察赶到，并与工人们进行交涉。
 
-As the men refused to stop working, the police attempted to seize the pneumatic drill. The workmen struggled fiercely and one of them lost his temper. He threatened to call the police.
+As the men refused to stop working, the police attempted to seize the pneumatic drill.
+由于工人们拒绝停止工作，警察试图没收风钻。
+The workmen struggled fiercely and one of them lost his temper.
+工人们激烈反抗，其中一人发火了。
+He threatened to call the police.
+他威胁要报警。
 
-At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest. Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station. Permission was granted and a policeman accompanied him to a pay phone.
+At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest.
+听到这话，警察讽刺地指出，这根本没有必要，因为他们已经被捕了。
+Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station.
+其中一名工人假装严肃地问，在被带往警察局之前，他是否可以打个电话。
+Permission was granted and a policeman accompanied him to a pay phone.
+许可得到了批准，一名警察陪他走到公用电话亭。
 
 Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.
+直到看到那个人真的在给警察局打电话时，他才意识到他们所有人都成了这场骗局的受害者。
 
 
 ---

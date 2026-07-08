@@ -2,13 +2,31 @@
 
 ## 课文内容 (Text)
 
-There was a time when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'. If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop. Obtaining 'protection money' is not a modern crime.
+There was a time when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'.
+曾几何时，芝加哥的店主和商人们不得不向歹徒支付巨款以换取“保护”。
+If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop.
+如果钱不能及时付清，歹徒们就会很快毁掉店主的店铺，使其无法经营。
+Obtaining 'protection money' is not a modern crime.
+索取“保护费”并非现代才有的罪行。
 
-As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters. Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence. He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.
+As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.
+早在14世纪，一位名叫约翰·霍克伍德爵士的英国人就有一个惊人的发现：人们宁愿支付巨款，也不愿自己毕生的心血被歹徒毁掉。
+Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence.
+600年前，约翰·霍克伍德爵士带着一队士兵来到意大利，并在佛罗伦萨附近定居下来。
+He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.
+他很快就出了名，意大利人称他为乔万尼·阿库托。
 
-Whenever the Italian city-states were at war with each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded. In times of peace, when business was bad, Hawkwood and his men would march into a city-state, and after burning down a few farms, would offer to go away if protection money was paid to them. Hawkwood made large sums of money in this way.
+Whenever the Italian city-states were at war with each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.
+每当意大利各城邦之间发生战争时，霍克伍德就把他的士兵雇佣给那些愿意支付他所索要高价的王公们。
+In times of peace, when business was bad, Hawkwood and his men would march into a city-state, and after burning down a few farms, would offer to go away if protection money was paid to them.
+在和平时期，当生意不好做时，霍克伍德就会带着他的人马开进某个城邦，烧毁几处农场，然后提出只要付给他们保护费，他们就撤走。
+Hawkwood made large sums of money in this way.
+霍克伍德就是用这种方法赚取了巨额钱财。
 
-In spite of this, the Italians regarded him as a sort of hero. When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.
+In spite of this, the Italians regarded him as a sort of hero.
+尽管如此，意大利人还是把他视为某种英雄。
+When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.
+当他80岁去世时，佛罗伦萨人为他举行了国葬，并让人画了一幅画，以纪念这位“最英勇的战士和最杰出的领袖——乔万尼·霍克伍德先生”。
 
 
 ---

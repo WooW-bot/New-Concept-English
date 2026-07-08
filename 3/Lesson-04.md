@@ -2,15 +2,38 @@
 
 ## 课文内容 (Text)
 
-These days, people who do manual work often receive far more money than people who work in offices. People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
+These days, people who do manual work often receive far more money than people who work in offices.
+如今，从事体力劳动的人所挣的钱往往比在办公室工作的人多得多。
+People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work.
+在办公室工作的人常被称为“白领工人”，原因很简单，因为他们上班时通常要穿衬衫、打领带。
+Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
+人的本性就是这样，许多人往往宁愿牺牲较高的收入，以换取成为白领工人的那种优越感。
 
-This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation. When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation.
+This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+这种情况会导致一些奇怪的现象，阿尔弗雷德·布洛格斯的情况就是如此，他曾在埃尔斯米尔公司当清洁工。
+When he got married, Alf was too embarrassed to say anything to his wife about his job.
+结婚时，阿尔夫觉得很不好意思，没敢向妻子透露自己的工作。
+He simply told her that he worked for the Corporation.
+他只是告诉妻子他在那家公司上班。
 
-Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night, he took a shower and changed back into his suit.
+Every morning, he left home dressed in a smart black suit.
+每天早晨，他都穿着一套漂亮的黑色西装离家。
+He then changed into overalls and spent the next eight hours as a dustman.
+然后他换上工作服，当了8个小时的清洁工。
+Before returning home at night, he took a shower and changed back into his suit.
+晚上回家前，他洗个澡，又换回那套西装。
 
-Alf did this for over two years and his fellow dustmen kept his secret. Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office.
+Alf did this for over two years and his fellow dustmen kept his secret.
+阿尔夫这样做了两年多，他的清洁工同事们都为他保守着秘密。
+Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job.
+阿尔夫的妻子一直没发现她嫁给了一个清洁工，而且永远也不会发现了，因为阿尔夫刚找到了另一份工作。
+He will soon be working in an office.
+他很快就要在办公室工作了。
 
-He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr.Bloggs', not 'Alf'.
+He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money.
+他挣的钱将只有过去的一半，但他觉得地位的提高完全值得他损失掉的那部分收入。
+From now on, he will wear a suit all day and others will call him 'Mr.Bloggs', not 'Alf'.
+从现在起，他将整天穿着西装，别人也会称呼他为“布洛格斯先生”，而不是“阿尔夫”了。
 
 
 ---

@@ -2,13 +2,32 @@
 
 ## 课文内容 (Text)
 
-People who live in Britain needn't despair when they make mistakes like this (and a lot of people do)! Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog.
+People who live in Britain needn't despair when they make mistakes like this (and a lot of people do)!
+住在英国的人们在犯了这类错误时（很多人都会犯！）不必感到绝望。
+Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog.
+幸运的是，英格兰银行有一个叫“残钞鉴别组”的部门，专门处理那些把钱塞进机器或喂了狗的人提出的赔偿要求。
 
-Dogs, it seems, love to chew up money! A recent case concerns Jane Butlin whose fiance, John, runs a successful furniture business. John had a very good day and put his wallet containing ￡3, 000 into the microwave oven for safekeeping.
+Dogs, it seems, love to chew up money!
+看来，狗很喜欢嚼钱！
+A recent case concerns Jane Butlin whose fiance, John, runs a successful furniture business.
+最近发生的一件事与简·巴特林有关，她的未婚夫约翰经营着一家生意兴隆的家具店。
+John had a very good day and put his wallet containing ￡3, 000 into the microwave oven for safekeeping.
+约翰那天生意做得很好，便把装有3000英镑的钱包放进微波炉里妥善保管。
+Then he and Jane went horse-riding.
+随后，他和简去骑马了。
+When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiance's wallet as well.
+当他们回到家时，简用微波炉做晚饭，在不知情的情况下，把她未婚夫的钱包也一起“烹饪”了。
+Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash!
+想象一下，当他们发现钱包被烤得精美，而钞票已化为灰烬时，是多么沮丧！
+John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies!
+约翰去找银行经理，经理把钱包和钱的残骸送到了英格兰银行设在纽卡斯尔的专门部门：残钞鉴别组！
+They examined the remains and John got all his money back.
+他们对残骸进行了鉴定，约翰拿回了他所有的钱。
 
-Then he and Jane went horse-riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiance's wallet as well. Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! They examined the remains and John got all his money back.
-
-'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank. 'Last year, we paid ￡1.5 million on 21,000 claims.'
+'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank.
+“只要还有东西可以辨认，我们就会把钱退还给失主，”银行的一位女发言人说。
+'Last year, we paid ￡1.5 million on 21,000 claims.'
+“去年，我们处理了21,000起索赔案，赔付金额达150万英镑。”
 
 
 ---
