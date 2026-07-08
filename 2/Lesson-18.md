@@ -2,11 +2,31 @@
 
 ## 课文内容 (Text)
 
-After I had had lunch at a village pub, I looked for my bag. I had left it on a chair beside the door and now it wasn't there!
+After I had had lunch at a village pub, I looked for my bag.
+我在一家乡村小酒馆吃过午饭后，找起了我的提包。
+I had left it on a chair beside the door and now it wasn't there!
+我把它放在门边的一把椅子上了，可现在它不见了！
 
-As I was looking for it, the landlord came in. 'Did you have a good meal?' he asked. 'Yes, thank you,' I answered, 'but I can't pay the bill. I haven't got my bag.'
+As I was looking for it, the landlord came in.
+我正在寻找时，店主走了进来。
+'Did you have a good meal?' he asked.
+“饭菜可口吗？”他问道。
+'Yes, thank you,' I answered, 'but I can't pay the bill.
+“很好，谢谢，”我回答说，“但我没法付账了。
+I haven't got my bag.'
+我的提包不见了。”
 
-The landlord smiled and immediately went out. In a few minutes he returned with my bag and gave it back to me. 'I'm very sorry,' he said. 'My dog had taken it into the garden. He often does this!'
+The landlord smiled and immediately went out.
+店主笑了笑，随即走了出去。
+In a few minutes he returned with my bag and gave it back to me.
+几分钟后，他拿着我的提包回来了，并把它还给了我。
+'I'm very sorry,' he said.
+“真抱歉，”他说。
+'My dog had taken it into the garden.
+“我的狗把它叼到花园里去了。
+He often does this!'
+它经常干这种事！”
+
 
 ---
 

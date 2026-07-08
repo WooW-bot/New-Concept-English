@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man. Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop. It was his job to repair bicycles and at that time he used to work fourteen hours a day. He saved money for years and in 1958 he bought a small workshop of his own.
+Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.
+昨天下午，弗兰克·霍金斯在向我讲述他年轻时的经历。
+Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.
+在退休前，弗兰克曾是一家大型商业公司的负责人，但他小时候曾在一家小铺子里干过活。
+It was his job to repair bicycles and at that time he used to work fourteen hours a day.
+他的工作是修理自行车，那时他每天要工作14个小时。
+He saved money for years and in 1958 he bought a small workshop of his own.
+他积攒了多年的钱，并于1958年买下了属于自己的一个小作坊。
 
-In his twenties Frank used to make spare parts for aeroplanes. At that time he had two helpers. In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people. Frank smiled when he remembered his hard early years and the long road to success.
+In his twenties Frank used to make spare parts for aeroplanes.
+20多岁时，弗兰克曾制造过飞机零配件。
+At that time he had two helpers.
+那时他有两个帮手。
+In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.
+几年之内，那个小作坊就变成了一家拥有728名员工的大工厂。
+Frank smiled when he remembered his hard early years and the long road to success.
+当弗兰克回想起他早年艰苦的岁月和那段漫长的成功之路时，他笑了。
 
-He was still smiling when the door opened and his wife came in. She wanted him to repair their grandson's bicycle!
+He was still smiling when the door opened and his wife came in.
+门开了，他妻子走了进来，他脸上还挂着笑容。
+She wanted him to repair their grandson's bicycle!
+她想让他修理孙子的自行车！
 
 
 ---

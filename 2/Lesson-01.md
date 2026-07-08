@@ -2,9 +2,40 @@
 
 ## 课文内容 (Text)
 
-Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They were talking loudly.
+Last week I went to the theatre.
+上星期我去看戏。
+I had a very good seat.
+我的座位很好。
+The play was very interesting.
+戏很有趣。
+I did not enjoy it.
+但我却没看好。
+A young man and a young woman were sitting behind me.
+一位年轻男子和一位年轻女子坐在我的身后。
+They were talking loudly.
+他们大声地谈话。
 
-I got very angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not bear it. I turned round again. 'I can't hear a word!' I said angrily. 'It's none of your business,' the young man said rudely. 'This is a private conversation!'
+I got very angry.
+我非常生气。
+I could not hear the actors.
+我听不见演员在说什么。
+I turned round.
+我转过身去。
+I looked at the man and the woman angrily.
+我愤怒地看着那一男一女。
+They did not pay any attention.
+他们却毫不理会。
+In the end, I could not bear it.
+最后，我实在无法忍受了。
+I turned round again.
+我又转过身去。
+'I can't hear a word!' I said angrily.
+“我一个字也听不见！”我气愤地说。
+'It's none of your business,' the young man said rudely.
+“这不关你的事，”那年轻人粗鲁地说。
+'This is a private conversation!'
+“这是私人谈话！”
+
 
 ---
 

@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week. Pupils of the school, old and new, will be sending him a present to mark the occasion. All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.
+I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week.
+我刚收到母校的一封信，通知我以前的校长斯图尔特·佩奇先生下周就要退休了。
+Pupils of the school, old and new, will be sending him a present to mark the occasion.
+学校的新老学生将送他一份礼物，以纪念这一时刻。
+All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.
+所有捐款买礼物的人都将在一个大纪念册上签名，这本纪念册将被送到校长的家中。
 
-We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school. A great many former pupils will be attending a farewell dinner in his honour next Thursday. It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for a total of forty years.
+We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school.
+我们大家都会记住佩奇先生，记住他的耐心和善解人意，记住当我们极不情愿去上学时他给予我们的亲切鼓励。
+A great many former pupils will be attending a farewell dinner in his honour next Thursday.
+下周四，许多往届学生将参加为他举办的欢送晚宴。
+It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for a total of forty years.
+一个奇妙的巧合是，在佩奇先生退休的前一天，他从事教学工作将整整四十年。
 
-After he has retired he will devote himself to gardening. For him, this will be an entirely new hobby. But this does not matter, for, as he has often remarked, one is never too old to learn.
+After he has retired he will devote himself to gardening.
+退休之后，他将致力于园艺。
+For him, this will be an entirely new hobby.
+对他来说，这将是一项全新的爱好。
+But this does not matter, for, as he has often remarked, one is never too old to learn.
+但这没关系，因为正如他常说的那样，活到老，学到老。
 
 
 ---

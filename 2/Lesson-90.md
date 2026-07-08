@@ -2,11 +2,24 @@
 
 ## 课文内容 (Text)
 
-Fish and chips has always been a favourite dish in Britain, but as the oceans have been overfished, fish has become more and more expensive. So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs.
+Fish and chips has always been a favourite dish in Britain, but as the oceans have been overfished, fish has become more and more expensive.
+炸鱼加炸薯条在英国一直是一道受人喜爱的菜肴，但由于海洋过度捕捞，鱼变得越来越贵了。
+So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs.
+因此，得知北海石油钻井平台上的潜水员正受到巨鱼的惊吓，这令人感到十分惊讶。
 
-Oil rigs have to be repaired frequently and divers, who often have to work in darkness a hundred feet under water, have been frightened out of their wits by giant fish bumping into them as they work. Now they have had special cages made to protect them from these monsters.
+Oil rigs have to be repaired frequently and divers, who often have to work in darkness a hundred feet under water, have been frightened out of their wits by giant fish bumping into them as they work.
+石油钻井平台需要经常维修，而经常不得不在水下百英尺黑暗中工作的潜水员们，在工作时常被撞向他们的巨鱼吓得魂不附体。
+Now they have had special cages made to protect them from these monsters.
+现在，他们已经特制了防护笼，以保护自己免受这些怪物的伤害。
 
-The fish are not sharks or killer whales, but favourite eating varieties like cod and skate which grow to unnatural sizes, sometimes as much as twelve feet in length. Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea; the plentiful supply of food thrown overboard by the crews on the rigs; and the total absence of fishing boats around the oil rigs. As a result, the fish just eat and eat and grow and grow in the lovely warm water. Who eats who?
+The fish are not sharks or killer whales, but favourite eating varieties like cod and skate which grow to unnatural sizes, sometimes as much as twelve feet in length.
+这些鱼并非鲨鱼或虎鲸，而是像鳕鱼和鳐鱼这样人们爱吃的品种，它们长到了不正常的尺寸，有时身长竟达12英尺。
+Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea; the plentiful supply of food thrown overboard by the crews on the rigs; and the total absence of fishing boats around the oil rigs.
+三个因素导致这些鱼长得如此巨大：海底热油管周围温暖的水域；钻井平台工作人员抛入海中的充足食物；以及石油钻井平台周围完全没有渔船。
+As a result, the fish just eat and eat and grow and grow in the lovely warm water.
+结果，这些鱼就在那舒适温暖的水中不停地吃，不停地长。
+Who eats who?
+究竟是谁吃谁呢？
 
 
 ---

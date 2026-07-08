@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a 21-mile tunnel under the English Channel. He said that it would be possible to build a platform in the centre of the Channel. This platform would serve as a port and a railway station. The tunnel would be well-ventilated if tall chimneys were built above sea level.
+In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a 21-mile tunnel under the English Channel.
+1858年，一位名叫艾梅·托梅·德·加蒙的法国工程师带着一项修建一条横贯英吉利海峡、长达21英里隧道的计划来到了英国。
+He said that it would be possible to build a platform in the centre of the Channel.
+他说，在海峡中心建造一个平台是可能的。
+This platform would serve as a port and a railway station.
+这个平台可以作为港口和火车站使用。
+The tunnel would be well-ventilated if tall chimneys were built above sea level.
+如果能在海平面以上建造高大的烟囱，隧道就能保持良好的通风。
 
-In 1860, a better plan was put forward by an Englishman, William Low. He suggested that a double railway-tunnel should be built. This would solve the problem of ventilation for if a train entered this tunnel, it would draw in fresh air behind it.
+In 1860, a better plan was put forward by an Englishman, William Low.
+1860年，一位名叫威廉·洛的英国人提出了一个更好的计划。
+He suggested that a double railway-tunnel should be built.
+他建议修建一条双轨铁路隧道。
+This would solve the problem of ventilation for if a train entered this tunnel, it would draw in fresh air behind it.
+这将解决通风问题，因为如果一列火车进入隧道，它会把新鲜空气带入身后。
 
-Forty-two years later a tunnel was actually begun. If, at the time, the British had not feared invasion, it would have been completed. The world had to wait almost another 100 years for the Channel Tunnel. It was officially opened on March 7, 1994, finally connecting Britain to the European continent.
+Forty-two years later a tunnel was actually begun.
+42年后，隧道工程终于动工了。
+If, at the time, the British had not feared invasion, it would have been completed.
+如果当时英国人没有担心遭到入侵的话，隧道早就建成了。
+The world had to wait almost another 100 years for the Channel Tunnel.
+全世界又等了近100年才盼来了英吉利海峡隧道。
+It was officially opened on March 7, 1994, finally connecting Britain to the European continent.
+它于1994年3月7日正式通车，最终将英国与欧洲大陆连接了起来。
 
 
 ---

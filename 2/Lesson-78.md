@@ -2,11 +2,34 @@
 
 ## 课文内容 (Text)
 
-After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves. I smoked with concentration and pleasure as I was sure that this would be my last cigarette. For a whole week I did not smoke at all and during this time my wife suffered terribly. I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite.
+After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves.
+读了一篇题为《吸烟与健康》的文章后，我点了一支烟来镇定我的神经。
+I smoked with concentration and pleasure as I was sure that this would be my last cigarette.
+我专心致志、津津有味地抽着，因为我确信这将是我抽的最后一支烟。
+For a whole week I did not smoke at all and during this time my wife suffered terribly.
+整整一个星期我一点烟也没抽，而在这段时间里，我的妻子可遭了大罪。
+I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite.
+我出现了所有戒烟者通常会出现的症状：脾气暴躁，胃口大得惊人。
 
-My friends kept on offering me cigarettes and cigars. They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket. After seven days of this I went to a party. Everybody around me was smoking and I felt extremely uncomfortable. When my old friend Brian urged me to accept a cigarette, it was more than I could bear.
+My friends kept on offering me cigarettes and cigars.
+我的朋友们不断地给我递香烟和雪茄。
+They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket.
+每当我从口袋里掏出一包糖果时，他们总是毫不掩饰地流露出戏谑的神情。
+After seven days of this I went to a party.
+就这样过了七天，我参加了一个聚会。
+Everybody around me was smoking and I felt extremely uncomfortable.
+周围的每个人都在抽烟，我感到非常难受。
+When my old friend Brian urged me to accept a cigarette, it was more than I could bear.
+当我的老朋友布莱恩劝我抽一支烟时，我实在无法忍受了。
 
-I took one guiltily, lit it and smoked with satisfaction. My wife was delighted that things had returned to normal once more. Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking. He himself has done it lots of times!
+I took one guiltily, lit it and smoked with satisfaction.
+我内疚地接过一支烟，点上火，心满意足地抽了起来。
+My wife was delighted that things had returned to normal once more.
+我的妻子很高兴，因为一切又恢复了正常。
+Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking.
+不管怎么说，正如布莱恩所指出的那样，戒烟是世界上最容易的事情。
+He himself has done it lots of times!
+他自己就已经戒过好多次了！
 
 
 ---

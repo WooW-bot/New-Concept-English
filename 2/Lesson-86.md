@@ -2,11 +2,32 @@
 
 ## 课文内容 (Text)
 
-As the man tried to swing the speedboat round, the steering wheel came away in his hands. He waved desperately to his companion, who had been water skiing for the last fifteen minutes. Both men had hardly had time to realize what was happening when they were thrown violently into the sea. The speedboat had struck a buoy, but it continued to move very quickly across the water.
+As the man tried to swing the speedboat round, the steering wheel came away in his hands.
+当那个人试图把快艇转弯时，方向盘在他的手中脱落了。
+He waved desperately to his companion, who had been water skiing for the last fifteen minutes.
+他绝望地向他的同伴挥手，他的同伴在过去十五分钟里一直在滑水。
+Both men had hardly had time to realize what was happening when they were thrown violently into the sea.
+两人还没来得及意识到发生了什么，就被猛地甩进了海里。
+The speedboat had struck a buoy, but it continued to move very quickly across the water.
+快艇撞上了一个浮标，但它继续在水面上飞快地行驶。
 
-Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle. It now came straight towards them at tremendous speed. In less than a minute, it roared past them only a few feet away. After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.
+Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle.
+两人刚开始向岸边游去，就惊恐地发现快艇正在绕圈行驶。
+It now came straight towards them at tremendous speed.
+它现在正以极快的速度径直向他们冲来。
+In less than a minute, it roared past them only a few feet away.
+不到一分钟，它呼啸着从离他们仅几英尺远的地方掠过。
+After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.
+它过去之后，他们尽可能快地继续游，因为他们知道船很快就会回来。
 
-They had just had enough time to swim out of danger when the boat again completed a circle. On this occasion, however, it had slowed down considerably. The petrol had nearly all been used up. Before long, the noise dropped completely and the boat began to drift gently across the water.
+They had just had enough time to swim out of danger when the boat again completed a circle.
+他们刚有足够的时间游出危险地带，船就又绕完了一圈。
+On this occasion, however, it had slowed down considerably.
+然而这一次，它的速度已经慢了很多。
+The petrol had nearly all been used up.
+汽油几乎已经耗尽了。
+Before long, the noise dropped completely and the boat began to drift gently across the water.
+没过多久，引擎声完全消失了，船开始在水面上轻轻地漂浮。
 
 
 ---

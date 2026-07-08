@@ -2,9 +2,23 @@
 
 ## 课文内容 (Text)
 
-As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest. After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him. As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.
+As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.
+由于我们在旧德里的一个市场里走了很长一段路，我们便在一个广场停下来休息。
+After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.
+过了一会儿，我们注意到广场的另一边有一位带着两个大篮子的耍蛇人，于是我们走过去看他。
+As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.
+他一看见我们，就拿起了一支上面缀满硬币的长管，并打开了其中一个篮子。
 
-When he began to play a tune, we had our first glimpse of the snake. It rose out of the basket and began to follow the movements of the pipe. We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs. The snake, however, continued to 'dance' slowly. It obviously could not tell the difference between Indian music and jazz!
+When he began to play a tune, we had our first glimpse of the snake.
+当他开始吹奏曲子时，我们第一次看到了那条蛇。
+It rose out of the basket and began to follow the movements of the pipe.
+它从篮子里探出身子，开始随着管子的移动而摆动。
+We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.
+当耍蛇人突然开始吹奏爵士乐和现代流行歌曲时，我们感到非常惊讶。
+The snake, however, continued to 'dance' slowly.
+然而，那条蛇依然在缓慢地“跳舞”。
+It obviously could not tell the difference between Indian music and jazz!
+显然，它根本分辨不出印度音乐和爵士乐的区别！
 
 
 ---

@@ -2,11 +2,25 @@
 
 ## 课文内容 (Text)
 
-I was having dinner at a restaurant when Tony Steele came in. Tony worked in a lawyer's office years ago, but he is now working at a bank. He gets a good salary, but he always borrows money from his friends and never pays it back.
+I was having dinner at a restaurant when Tony Steele came in.
+我正在一家餐馆吃饭，这时托尼·斯蒂尔走了进来。
+Tony worked in a lawyer's office years ago, but he is now working at a bank.
+托尼几年前在一家律师事务所工作，但他现在在一家银行工作。
+He gets a good salary, but he always borrows money from his friends and never pays it back.
+他的薪水很高，但他总是向朋友借钱，却从不归还。
 
-Tony saw me and came and sat at the same table. He has never borrowed money from me. While he was eating, I asked him to lend me twenty pounds. To my surprise, he gave me the money immediately.
+Tony saw me and came and sat at the same table.
+托尼看见了我，走过来坐在了同一张桌子旁。
+He has never borrowed money from me.
+他从来没有向我借过钱。
+While he was eating, I asked him to lend me twenty pounds.
+趁他吃饭的时候，我请他借给我20英镑。
+To my surprise, he gave me the money immediately.
+令我惊讶的是，他立刻就把钱给了我。
 
 'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'
+“我从来没向你借过钱，”托尼说，“所以现在你可以替我付饭钱了！”
+
 
 ---
 

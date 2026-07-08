@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-We have just moved into a new house and I have been working hard all morning. I have been trying to get my new room in order. This has not been easy because I own over a thousand books. To make matters worse, the room is rather small, so I have temporarily put my books on the floor.
+We have just moved into a new house and I have been working hard all morning.
+我们刚搬进一所新房子，我整个上午都在忙个不停。
+I have been trying to get my new room in order.
+我一直在设法把我的新房间整理好。
+This has not been easy because I own over a thousand books.
+这可不容易，因为我有一千多本书。
+To make matters worse, the room is rather small, so I have temporarily put my books on the floor.
+更糟糕的是，房间相当小，所以我只好暂时把书放在地板上。
 
-At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room. A short while ago, my sister helped me to carry one of my old bookcases up the stairs. She went into my room and got a big surprise when she saw all those books on the floor.
+At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room.
+眼下，书占满了地板上的每一寸空间，我进出房间甚至不得不踩在书上。
+A short while ago, my sister helped me to carry one of my old bookcases up the stairs.
+刚才，我妹妹帮我把一个旧书架搬上了楼。
+She went into my room and got a big surprise when she saw all those books on the floor.
+她走进我的房间，看到地板上堆着那么多书，大吃一惊。
 
-'This is the prettiest carpet I have ever seen,' she said. She gazed at it for some time then added, 'You don't need bookcases at all. You can sit here in your spare time and read the carpet!'
+'This is the prettiest carpet I have ever seen,' she said.
+“这是我见过的最漂亮的地毯，”她说。
+She gazed at it for some time then added, 'You don't need bookcases at all.
+她盯着看了好一会儿，然后补充道：“你根本不需要书架。
+You can sit here in your spare time and read the carpet!'
+你有空时可以坐在这里读地毯！”
 
 
 ---

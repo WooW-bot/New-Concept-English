@@ -4,11 +4,27 @@
 
 ## 课文内容 (Text)
 
-If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket.
+If you park your car in the wrong place, a traffic policeman will soon find it.
+如果你把车停在错误的地方，交通警察很快就会发现。
+You will be very lucky if he lets you go without a ticket.
+如果他没给你开罚单就让你走了，那你可真是太幸运了。
 
-However, this does not always happen. Traffic police are sometimes very polite. During a holiday in Sweden, I found this note on my car: 'Sir, we welcome you to our city. This is a No Parking area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.'
+However, this does not always happen.
+然而，这种情况并不总是发生。
+Traffic police are sometimes very polite.
+交通警察有时是非常客气的。
+During a holiday in Sweden, I found this note on my car: 'Sir, we welcome you to our city.
+在瑞典度假期间，我在我的车上发现了这样一张字条：“先生，我们欢迎您来到我们的城市。
+This is a No Parking area.
+这里是禁止停车区。
+You will enjoy your stay here if you pay attention to our street signs.
+如果您留意我们的交通标志，您会在这里过得很愉快。
+This note is only a reminder.'
+这张字条仅仅是一个提醒。”
 
 If you receive a request like this, you cannot fail to obey it!
+如果你收到这样的请求，你一定会遵照执行的！
+
 
 ---
 

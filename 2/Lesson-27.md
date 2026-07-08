@@ -2,11 +2,33 @@
 
 ## 课文内容 (Text)
 
-Late in the afternoon, the boys put up their tent in the middle of a field. As soon as this was done, they cooked a meal over an open fire. They were all hungry and the food smelled good. After a wonderful meal, they told stories and sang songs by the campfire.
+Late in the afternoon, the boys put up their tent in the middle of a field.
+傍晚时分，几个男孩在田野中央搭起了帐篷。
+As soon as this was done, they cooked a meal over an open fire.
+帐篷刚搭好，他们就在露天火堆上做了一顿饭。
+They were all hungry and the food smelled good.
+他们都饿了，食物闻起来很香。
+After a wonderful meal, they told stories and sang songs by the campfire.
+美餐过后，他们围坐在篝火旁讲故事、唱歌。
 
-But some time later it began to rain. The boys felt tired so they put out the fire and crept into their tent. Their sleeping bags were warm and comfortable, so they all slept soundly.
+But some time later it began to rain.
+但过了一会儿，天开始下雨了。
+The boys felt tired so they put out the fire and crept into their tent.
+男孩们感到累了，于是他们熄灭了火，钻进了帐篷。
+Their sleeping bags were warm and comfortable, so they all slept soundly.
+他们的睡袋既暖和又舒服，所以他们都睡得很香。
 
-In the middle of the night, two boys woke up and began shouting. The tent was full of water! They all leapt out of their sleeping bags and hurried outside. It was raining heavily and they found that a stream had formed in the field. The stream wound its way across the field and then flowed right under their tent!
+In the middle of the night, two boys woke up and began shouting.
+半夜里，两个男孩醒来并大声叫喊起来。
+The tent was full of water!
+帐篷里全是水！
+They all leapt out of their sleeping bags and hurried outside.
+他们全都从睡袋里跳出来，匆忙跑到外面。
+It was raining heavily and they found that a stream had formed in the field.
+外面下着大雨，他们发现田野里形成了一条小溪。
+The stream wound its way across the field and then flowed right under their tent!
+小溪蜿蜒穿过田野，然后正好从他们的帐篷底下流过！
+
 
 ---
 

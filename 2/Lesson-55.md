@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-Dreams of finding lost treasure almost came true recently. A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground. The machine was used in a cave near the seashore where—it is said—pirates used to hide gold. The pirates would often bury gold in the cave and then fail to collect it.
+Dreams of finding lost treasure almost came true recently.
+寻找失落宝藏的梦想最近几乎变成了现实。
+A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground.
+一种被称为“探宝者”的新机器已被发明出来，并被用于探测埋在地下的黄金。
+The machine was used in a cave near the seashore where—it is said—pirates used to hide gold.
+这台机器被用于海边的一个洞穴中，据说海盗过去常把黄金藏在那里。
+The pirates would often bury gold in the cave and then fail to collect it.
+海盗们过去常把黄金埋在洞里，后来却没能取走。
 
-Armed with the new machine, a search party went into the cave hoping to find buried treasure. The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground. Very excited, the party dug a hole two feet deep. They finally found a small gold coin which was almost worthless.
+Armed with the new machine, a search party went into the cave hoping to find buried treasure.
+带着这台新机器，一支探险队进入洞穴，希望能找到埋藏的宝藏。
+The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.
+当探险队队长正在检查洞口附近的土壤时，机器显示地下有黄金。
+Very excited, the party dug a hole two feet deep.
+大家非常兴奋，挖了一个两英尺深的坑。
+They finally found a small gold coin which was almost worthless.
+他们最终发现了一枚几乎毫无价值的小金币。
 
-The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk. In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.
+The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.
+随后，探险队彻底搜查了整个洞穴，但除了一个空铁皮箱外，什么也没找到。
+In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.
+尽管如此，许多人仍坚信“探宝者”很快就能发现有价值的东西。
 
 
 ---

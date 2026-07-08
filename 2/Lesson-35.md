@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-Roy Trenton used to drive a taxi. A short while ago, however, he became a bus driver and he has not regretted it. He is finding his new work far more exciting.
+Roy Trenton used to drive a taxi.
+罗伊·特伦顿过去是开出租车的。
+A short while ago, however, he became a bus driver and he has not regretted it.
+然而不久前，他成了一名公共汽车司机，而且他对此并不后悔。
+He is finding his new work far more exciting.
+他发现他的新工作要刺激得多。
 
-When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car. One of them was carrying a bag full of money. Roy acted quickly and drove the bus straight at the thieves.
+When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.
+最近，当他开车沿卡特福德街行驶时，看到两个小偷从一家商店里冲出来，向一辆等候在那里的汽车跑去。
+One of them was carrying a bag full of money.
+其中一个人提着一个装满钱的袋子。
+Roy acted quickly and drove the bus straight at the thieves.
+罗伊反应迅速，直接把公共汽车向那两个小偷开过去。
 
-The one with the money got such a fright that he dropped the bag. As the thieves were trying to get away in their car, Roy drove his bus into the back of it. While the battered car was moving away, Roy stopped his bus and telephoned the police. The thieves' car was badly damaged and easy to recognize. Shortly afterwards, the police stopped the car and both men were arrested.
+The one with the money got such a fright that he dropped the bag.
+那个拿钱的小偷吓得把袋子都扔了。
+As the thieves were trying to get away in their car, Roy drove his bus into the back of it.
+正当小偷试图乘车逃跑时，罗伊驾驶公共汽车撞向了他们的车尾。
+While the battered car was moving away, Roy stopped his bus and telephoned the police.
+在那辆被撞坏的车开走时，罗伊停下公共汽车并报了警。
+The thieves' car was badly damaged and easy to recognize.
+小偷的车损坏严重，很容易辨认。
+Shortly afterwards, the police stopped the car and both men were arrested.
+不久之后，警察截住了那辆车，并将两人逮捕。
 
 
 ---

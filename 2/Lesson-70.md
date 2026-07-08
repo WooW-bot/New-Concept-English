@@ -2,11 +2,29 @@
 
 ## 课文内容 (Text)
 
-During a bullfight, a drunk suddenly wandered into the middle of the ring. The crowd began to shout, but the drunk was unaware of the danger. The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.
+During a bullfight, a drunk suddenly wandered into the middle of the ring.
+在一次斗牛表演中，一个醉汉突然溜进了斗牛场中央。
+The crowd began to shout, but the drunk was unaware of the danger.
+观众们开始大声叫喊，但那醉汉却没意识到危险。
+The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.
+当时那头公牛正忙于对付斗牛士，但它突然看见了那个正在大声说粗话并挥舞着一顶红帽子的醉汉。
 
-Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk. The crowd suddenly grew quiet. The drunk, however, seemed quite sure of himself. When the bull got close to him, he clumsily stepped aside to let it pass. The crowd broke into cheers and the drunk bowed.
+Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk.
+那头公牛似乎对批评很敏感，它完全忘记了斗牛士，径直向醉汉冲去。
+The crowd suddenly grew quiet.
+观众们顿时安静了下来。
+The drunk, however, seemed quite sure of himself.
+然而，那醉汉却显得十分自信。
+When the bull got close to him, he clumsily stepped aside to let it pass.
+当公牛靠近他时，他笨拙地闪到一边，让公牛冲了过去。
+The crowd broke into cheers and the drunk bowed.
+观众们爆发出欢呼声，醉汉则鞠躬致意。
 
-By this time, however, three men had come into the ring and they quickly dragged the drunk to safety. Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.
+By this time, however, three men had come into the ring and they quickly dragged the drunk to safety.
+然而此时，三个人跑进场内，迅速将醉汉拖到了安全地带。
+Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.
+甚至连那头公牛似乎都对他表示同情，因为它一直同情地注视着，直到醉汉离开后，才又重新把注意力转向斗牛士。
+
 
 ---
 

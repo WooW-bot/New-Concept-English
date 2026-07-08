@@ -2,11 +2,29 @@
 
 ## 课文内容 (Text)
 
-Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow. We'll meet him at the harbour early in the morning. He will be in his small boat, Topsail. Topsail is a famous little boat. It has sailed across the Atlantic many times.
+Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.
+我们的邻居查尔斯·艾利森船长明天将从朴次茅斯启航。
+We'll meet him at the harbour early in the morning.
+明天一早我们将去港口为他送行。
+He will be in his small boat, Topsail.
+他将乘坐他的小船“顶帆”号。
+Topsail is a famous little boat.
+“顶帆”号是一艘有名的小船。
+It has sailed across the Atlantic many times.
+它曾多次横渡大西洋。
 
-Captain Alison will set out at eight o'clock, so we'll have plenty of time. We'll see his boat and then we'll say goodbye to him.
+Captain Alison will set out at eight o'clock, so we'll have plenty of time.
+艾利森船长将于8点钟出发，所以我们有充足的时间。
+We'll see his boat and then we'll say goodbye to him.
+我们将去看看他的船，然后向他道别。
 
-He will be away for two months. We are very proud of him. He will take part in an important race across the Atlantic.
+He will be away for two months.
+他将外出两个月。
+We are very proud of him.
+我们为他感到非常自豪。
+He will take part in an important race across the Atlantic.
+他将参加一项重要的大西洋横渡比赛。
+
 
 ---
 

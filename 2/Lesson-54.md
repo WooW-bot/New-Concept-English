@@ -2,11 +2,36 @@
 
 ## 课文内容 (Text)
 
-After breakfast, I sent the children to school and then I went to the shops. It was still early when I returned home. The children were at school, my husband was at work and the house was quiet. So I decided to make some meat pies.
+After breakfast, I sent the children to school and then I went to the shops.
+吃过早饭后，我把孩子们送去上学，然后就去商店了。
+It was still early when I returned home.
+我回到家时时间还早。
+The children were at school, my husband was at work and the house was quiet.
+孩子们在学校，丈夫在上班，家里静悄悄的。
+So I decided to make some meat pies.
+于是我决定做些肉馅饼。
 
-In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry. At exactly that moment, the telephone rang. Nothing could have been more annoying. I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates. It took me ten minutes to persuade her to ring back later. At last I hung up the receiver.
+In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.
+没过多久，我就忙着搅拌黄油和面粉，手上很快就沾满了黏糊糊的面团。
+At exactly that moment, the telephone rang.
+就在那一刻，电话铃响了。
+Nothing could have been more annoying.
+再没有比这更烦人的事了。
+I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.
+我用两个沾满面糊的手指捏起听筒，当听出是海伦·贝茨的声音时，我感到非常沮丧。
+It took me ten minutes to persuade her to ring back later.
+我花了十分钟才说服她过会儿再打来。
+At last I hung up the receiver.
+最后我挂断了电话。
 
-What a mess! There was pastry on my fingers, on the telephone, and on the doorknobs. I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead. This time it was the postman and he wanted me to sign for a registered letter!
+What a mess!
+真是一团糟！
+There was pastry on my fingers, on the telephone, and on the doorknobs.
+我的手指上、电话机上、门把手上全沾上了面糊。
+I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.
+我刚回到厨房，门铃就响了，那声音大得足以把死人吵醒。
+This time it was the postman and he wanted me to sign for a registered letter!
+这次是邮递员，他要我签收一封挂号信！
 
 
 ---

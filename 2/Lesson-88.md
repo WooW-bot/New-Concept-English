@@ -2,11 +2,32 @@
 
 ## 课文内容 (Text)
 
-Six men have been trapped in a mine for seventeen hours. If they are not brought to the surface soon they may lose their lives. However, rescue operations are proving difficult. If explosives are used, vibrations will cause the roof of the mine to collapse.
+Six men have been trapped in a mine for seventeen hours.
+六名男子被困在矿井里已经十七个小时了。
+If they are not brought to the surface soon they may lose their lives.
+如果他们不能很快被救到地面上来，他们可能会丧命。
+However, rescue operations are proving difficult.
+然而，营救工作证明是很困难的。
+If explosives are used, vibrations will cause the roof of the mine to collapse.
+如果使用炸药，震动会导致矿井顶部塌方。
 
-Rescue workers are therefore drilling a hole on the north side of the mine. They intend to bring the men up in a special capsule. If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours. As it is, they have been drilling for 16 hours and they still have a long way to go.
+Rescue workers are therefore drilling a hole on the north side of the mine.
+因此，救援人员正在矿井北侧钻一个孔。
+They intend to bring the men up in a special capsule.
+他们打算用一个特制的密封舱把这些人救上来。
+If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.
+如果土壤下面没有一层坚硬的岩石，他们几个小时前就已经完成这项工作了。
+As it is, they have been drilling for 16 hours and they still have a long way to go.
+照目前的情况看，他们已经钻了16个小时，但还有很长一段路要钻。
 
-Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives. Though they are running out of food and drink, the men are cheerful and confident that they will get out soon. They have been told that rescue operations are progressing smoothly. If they knew how difficult it was to drill through the hard rock, they would lose heart.
+Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives.
+与此同时，两小时前放入矿井的一个麦克风使被困人员能够与他们的至亲保持联系。
+Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.
+尽管他们的食物和饮料快用完了，但这些人情绪乐观，并坚信他们很快就能获救。
+They have been told that rescue operations are progressing smoothly.
+他们被告知营救工作进展顺利。
+If they knew how difficult it was to drill through the hard rock, they would lose heart.
+如果他们知道钻透那层坚硬的岩石有多么困难，他们就会失去信心。
 
 
 ---

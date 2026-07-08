@@ -2,9 +2,34 @@
 
 ## 课文内容 (Text)
 
-At a village fair, I decided to visit a fortune-teller called Madam Bellinsky. I went into her tent and she told me to sit down. After I had given her some money, she looked into a crystal ball and said: 'A relation of yours is coming to see you. She will be arriving this evening and intends to stay for a few days. The moment you leave this tent, you will get a big surprise. A woman you know well will rush towards you. She will speak to you and then she will lead you away from this place. That is all.'
+At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.
+在乡村集市上，我决定去拜访一位名叫贝林斯基夫人的算命人。
+I went into her tent and she told me to sit down.
+我走进她的帐篷，她叫我坐下。
+After I had given her some money, she looked into a crystal ball and said: 'A relation of yours is coming to see you.
+在我给了她一些钱之后，她注视着一个水晶球说道：“你的一位亲戚要来看你。
+She will be arriving this evening and intends to stay for a few days.
+她将于今天傍晚到达，并打算住上几天。
+The moment you leave this tent, you will get a big surprise.
+你离开这个帐篷的那一刻，就会有一个大大的惊喜。
+A woman you know well will rush towards you.
+一位你很熟悉的女人会向你冲过来。
+She will speak to you and then she will lead you away from this place.
+她会和你说话，然后把你从这个地方带走。
+That is all.'
+就这些了。”
 
-As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me. 'Where have you been hiding?' she asked impatiently. 'Your sister will be here in less than an hour and we must be at the station to meet her. We are late already.' As she walked away, I followed her out of the fair.
+As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.
+我一走到外面，就把贝林斯基夫人的话忘得一干二净，因为我的妻子正匆匆向我走来。
+'Where have you been hiding?' she asked impatiently.
+“你躲到哪儿去了？”她不耐烦地问道。
+'Your sister will be here in less than an hour and we must be at the station to meet her.
+“你妹妹不到一小时就要到了，我们必须去车站接她。
+We are late already.'
+我们已经迟到了。”
+As she walked away, I followed her out of the fair.
+她走开了，我跟着她离开了集市。
+
 
 ---
 

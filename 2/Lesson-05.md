@@ -2,9 +2,20 @@
 
 ## 课文内容 (Text)
 
-Mr. James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.
+Mr. James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.
+詹姆斯·斯科特先生在希尔伯里有一家汽车修理厂，现在他刚在平赫斯特又买了一家。
+Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.
+平赫斯特离希尔伯里只有5英里，但斯科特先生无法为他的新修理厂装上电话，所以他刚买了12只鸽子。
 
-Yesterday, a pigeon carried the first message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private 'telephone' service.
+Yesterday, a pigeon carried the first message from Pinhurst to Silbury.
+昨天，一只鸽子把第一封信从平赫斯特送到了希尔伯里。
+The bird covered the distance in three minutes.
+这只鸟用3分钟飞完了这段路程。
+Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.
+到目前为止，斯科特先生已经从一家修理厂向另一家发送了许多索取备件的请求和其他紧急信息。
+In this way, he has begun his own private 'telephone' service.
+就这样，他开始了自己私人的“电话”服务。
+
 
 ---
 

@@ -2,9 +2,32 @@
 
 ## 课文内容 (Text)
 
-We have an old musical instrument. It is called a clavichord. It was made in Germany in 1681. Our clavichord is kept in the living room. It has belonged to our family for a long time. The instrument was bought by my grandfather many years ago.
+We have an old musical instrument.
+我们有一件古老的乐器。
+It is called a clavichord.
+它叫古钢琴。
+It was made in Germany in 1681.
+它是1681年在德国制造的。
+Our clavichord is kept in the living room.
+我们的古钢琴存放在客厅里。
+It has belonged to our family for a long time.
+它在我们家已经有很长一段时间了。
+The instrument was bought by my grandfather many years ago.
+这件乐器是我祖父多年前买的。
 
-Recently it was damaged by a visitor. She tried to play jazz on it! She struck the keys too hard and two of the strings were broken. My father was shocked. Now we are not allowed to touch it. It is being repaired by a friend of my father's.
+Recently it was damaged by a visitor.
+最近它被一位客人损坏了。
+She tried to play jazz on it!
+她竟试着在上面弹奏爵士乐！
+She struck the keys too hard and two of the strings were broken.
+她用力过猛，敲断了两根琴弦。
+My father was shocked.
+我父亲大为震惊。
+Now we are not allowed to touch it.
+现在我们不准碰它了。
+It is being repaired by a friend of my father's.
+它正由我父亲的一位朋友修理。
+
 
 ---
 

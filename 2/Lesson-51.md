@@ -2,11 +2,32 @@
 
 ## 课文内容 (Text)
 
-My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet. He began his diet a week ago. First of all, he wrote out a long list of all the foods which were forbidden. The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate, and sweets.
+My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.
+我的朋友休一直很胖，但最近情况变得太糟糕了，以至于他决定节食。
+He began his diet a week ago.
+他一周前开始节食。
+First of all, he wrote out a long list of all the foods which were forbidden.
+首先，他开了一张长长的单子，上面列出了所有禁止吃的食物。
+The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate, and sweets.
+单子上包括了大多数休爱吃的东西：黄油、土豆、米饭、啤酒、牛奶、巧克力和糖果。
 
-Yesterday I paid him a visit. I rang the bell and was not surprised to see that Hugh was still as fat as ever. He led me into his room and hurriedly hid a large parcel under his desk. It was obvious that he was very embarrassed. When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.
+Yesterday I paid him a visit.
+昨天我去看望了他。
+I rang the bell and was not surprised to see that Hugh was still as fat as ever.
+我按了门铃，看到休依然像往常一样胖，一点也不感到惊讶。
+He led me into his room and hurriedly hid a large parcel under his desk.
+他把我领进房间，匆忙地把一个大包裹藏到了书桌底下。
+It was obvious that he was very embarrassed.
+很明显，他感到非常尴尬。
+When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.
+当我问他在干什么时，他内疚地笑了笑，然后把包裹放到了桌子上。
 
-He explained that his diet was so strict that he had to reward himself occasionally. Then he showed me the contents of the parcel. It contained five large bars of chocolate and three bags of sweets!
+He explained that his diet was so strict that he had to reward himself occasionally.
+他解释说，他的节食计划太严格了，以至于他不得不偶尔奖励一下自己。
+Then he showed me the contents of the parcel.
+接着，他向我展示了包裹里的东西。
+It contained five large bars of chocolate and three bags of sweets!
+里面装了五大块巧克力和三袋糖果！
 
 
 ---

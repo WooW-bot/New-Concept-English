@@ -2,13 +2,46 @@
 
 ## 课文内容 (Text)
 
-I am an art student and I paint a lot of pictures. Many people pretend that they understand modern art. They always tell you what a picture is 'about'. Of course, many pictures are not 'about' anything. They are just pretty patterns. We like them in the same way that we like pretty curtain material.
+I am an art student and I paint a lot of pictures.
+我是一名艺术系的学生，我画了很多画。
+Many people pretend that they understand modern art.
+许多人假装他们懂现代艺术。
+They always tell you what a picture is 'about'.
+他们总是告诉你一幅画是“关于”什么的。
+Of course, many pictures are not 'about' anything.
+当然，许多画并不是“关于”什么的。
+They are just pretty patterns.
+它们只是一些漂亮的图案。
+We like them in the same way that we like pretty curtain material.
+我们喜欢它们，就像我们喜欢漂亮的窗帘布料一样。
 
-I think that young children often appreciate modern pictures better than anyone else. They notice more. My sister is only seven, but she always tells me whether my pictures are good or not.
+I think that young children often appreciate modern pictures better than anyone else.
+我认为小孩子往往比任何人都更能欣赏现代画。
+They notice more.
+他们观察到的东西更多。
+My sister is only seven, but she always tells me whether my pictures are good or not.
+我妹妹才七岁，但她总能告诉我我的画好不好。
 
-She came into my room yesterday. 'What are you doing?' she asked. 'I'm hanging this picture on the wall,' I answered. 'It's a new one. Do you like it?'
+She came into my room yesterday.
+昨天她走进我的房间。
+'What are you doing?' she asked.
+“你在做什么？”她问。
+'I'm hanging this picture on the wall,' I answered.
+“我正在把这幅画挂在墙上，”我回答道。
+'It's a new one. Do you like it?'
+“这是一幅新画。你喜欢吗？”
 
-She looked at it critically for a moment. 'It's all right,' she said, 'but isn't it upside down?' I looked at it again. She was right! It was!
+She looked at it critically for a moment.
+她审视地看了片刻。
+'It's all right,' she said, 'but isn't it upside down?'
+“还可以，”她说，“但它是不是挂倒了？”
+I looked at it again.
+我又看了一眼。
+She was right!
+她是正确的！
+It was!
+确实挂倒了！
+
 
 ---
 

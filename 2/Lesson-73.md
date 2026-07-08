@@ -2,11 +2,31 @@
 
 ## 课文内容 (Text)
 
-Children who play truant from school are unimaginative. A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get. They have all been put to shame by a boy who, while playing truant, travelled 1,600 miles.
+Children who play truant from school are unimaginative.
+逃学的孩子缺乏想象力。
+A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.
+安安静静地钓上一天鱼，或者在电影院里花上8个小时一遍又一遍地看同一部电影，通常就是他们所能想到的全部了。
+They have all been put to shame by a boy who, while playing truant, travelled 1,600 miles.
+但有一个男孩却让他们都感到汗颜，因为他在逃学期间旅行了1600英里。
 
-He hitchhiked to Dover and towards evening went into a boat to find somewhere to sleep. When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais. No one noticed the boy as he crept off. From there, he hitchhiked to Paris in a lorry. The driver gave him a few biscuits and a cup of coffee and left him just outside the city.
+He hitchhiked to Dover and towards evening went into a boat to find somewhere to sleep.
+他搭便车到了多佛，傍晚时分钻进一条船里想找个地方睡觉。
+When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais.
+第二天早晨他醒来时，发现船在这段时间里已经开到了加来。
+No one noticed the boy as he crept off.
+他悄悄溜下船时，没有人注意到他。
+From there, he hitchhiked to Paris in a lorry.
+从那里，他搭乘一辆卡车到了巴黎。
+The driver gave him a few biscuits and a cup of coffee and left him just outside the city.
+司机给了他几块饼干和一杯咖啡，然后把他放在了城外。
 
-The next car the boy stopped did not take him into the centre of Paris as he hoped it would, but to Perpignan on the French-Spanish border. There he was picked up by a policeman and sent back to England by the local authorities. He has surely set up a record for the thousands of children who dream of evading school.
+The next car the boy stopped did not take him into the centre of Paris as he hoped it would, but to Perpignan on the French-Spanish border.
+男孩拦住的下一辆车并没有像他希望的那样把他带进巴黎市中心，而是把他带到了法西边境的佩皮尼昂。
+There he was picked up by a policeman and sent back to England by the local authorities.
+在那里，他被一名警察发现，并由当地有关部门遣送回了英国。
+He has surely set up a record for the thousands of children who dream of evading school.
+对于成千上万梦想逃学的孩子们来说，他无疑创下了一项纪录。
+
 
 ---
 

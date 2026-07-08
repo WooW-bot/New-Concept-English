@@ -2,11 +2,27 @@
 
 ## 课文内容 (Text)
 
-Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital. Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.
+Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.
+去年圣诞节，马戏团老板吉米·盖茨决定带些礼物去一家儿童医院。
+Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.
+他打扮成圣诞老人的模样，在6位漂亮姑娘组成的“仪仗队”的陪同下，骑着一头名叫“珍宝”的幼象，沿着市中心的大街出发了。
 
-He should have known that the police would never allow this sort of thing. A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic. Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had to push very hard to get him off the main street.
+He should have known that the police would never allow this sort of thing.
+他本该想到警察绝不会允许这种事情的。
+A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic.
+一名警察走近吉米，告诉他应该走小路，因为“珍宝”挡住了交通。
+Though Jimmy agreed to go at once, Jumbo refused to move.
+虽然吉米同意马上离开，但“珍宝”却拒绝走动。
+Fifteen policemen had to push very hard to get him off the main street.
+15名警察不得不使劲推它，才把它从大街上弄走。
 
-The police had a difficult time, but they were most amused. 'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him. Of course, we should arrest him, but as he has a good record, we shall let him off this time.'
+The police had a difficult time, but they were most amused.
+警察们费了好大的劲，但他们觉得非常有趣。
+'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him.
+“‘珍宝’肯定有几吨重，”事后一名警察说，“所以幸运的是我们不必抬它。”
+Of course, we should arrest him, but as he has a good record, we shall let him off this time.'
+“当然，我们本该逮捕它，但鉴于它一贯表现良好，这次我们就放过它了。”
+
 
 ---
 

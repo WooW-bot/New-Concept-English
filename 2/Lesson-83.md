@@ -2,11 +2,35 @@
 
 ## 课文内容 (Text)
 
-The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections. He is now retiring from political life and has gone abroad. My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.
+The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.
+前首相温特沃思·莱恩先生在最近的选举中落败了。
+He is now retiring from political life and has gone abroad.
+他现在正从政界隐退，并已出国。
+My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.
+我的朋友帕特里克一直都是莱恩先生激进进步党的狂热反对者。
 
-After the elections, Patrick went to the former Prime Minister's house. When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad. On the following day, Patrick went to the house again. The same policeman was just walking slowly past the entrance, when Patrick asked the same question. Though a little suspicious this time, the policeman gave him the same answer.
+After the elections, Patrick went to the former Prime Minister's house.
+选举结束后，帕特里克去了那位前首相的宅邸。
+When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.
+当他询问莱恩先生是否住在那儿时，值勤的警察告诉他，自从落选后，这位前首相就已经出国了。
+On the following day, Patrick went to the house again.
+第二天，帕特里克又去了那所房子。
+The same policeman was just walking slowly past the entrance, when Patrick asked the same question.
+那位警察正从门口慢慢走过，帕特里克又问了同样的问题。
+Though a little suspicious this time, the policeman gave him the same answer.
+尽管这次有点怀疑，警察还是给了他同样的回答。
 
-The day after, Patrick went to the house once more and asked exactly the same question. This time, the policeman lost his temper. 'I told you yesterday and the day before yesterday,' he shouted, 'Mr. Lane was defeated in the elections. He has retired from political life and gone to live abroad!' 'I know,' answered Patrick, 'but I love to hear you say it!'
+The day after, Patrick went to the house once more and asked exactly the same question.
+再过了一天，帕特里克又一次来到那所房子，问了完全相同的问题。
+This time, the policeman lost his temper.
+这一次，警察发火了。
+'I told you yesterday and the day before yesterday,' he shouted, 'Mr. Lane was defeated in the elections.
+“我昨天和前天都告诉过你了，”他大声喊道，“莱恩先生在选举中落败了。
+He has retired from political life and gone to live abroad!'
+他已经从政界隐退，出国居住了！”
+'I know,' answered Patrick, 'but I love to hear you say it!'
+“我知道，”帕特里克回答说，“但我就是喜欢听你这么说！”
+
 
 ---
 

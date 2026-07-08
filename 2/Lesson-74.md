@@ -2,13 +2,47 @@
 
 ## 课文内容 (Text)
 
-An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off. Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them. But as they soon discovered, disguises can sometimes be too perfect.
+An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.
+一辆老式公共汽车在一条干涸的河床边停了下来，一群著名的男演员和女演员下了车。
+Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.
+他们戴着墨镜，穿着旧衣服，采取了特别的防范措施，以免被人认出来。
+But as they soon discovered, disguises can sometimes be too perfect.
+但他们很快发现，伪装有时也会做得太逼真了。
 
-'This is a wonderful place for a picnic,' said Gloria Gleam. 'It couldn't be better, Gloria,' Brinksley Meers agreed. 'No newspaper men, no film fans! Why don't we come more often?' Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.
+'This is a wonderful place for a picnic,' said Gloria Gleam.
+“这真是个野餐的好地方，”格洛丽亚·格里姆说。
+'It couldn't be better, Gloria,' Brinksley Meers agreed.
+“再好不过了，格洛丽亚，”布林克斯利·米尔斯附和道。
+'No newspaper men, no film fans!
+“没有记者，也没有影迷！
+Why don't we come more often?'
+我们为什么不多来几次呢？”
+Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.
+与此同时，另外两名演员洛克沃尔·斯林格和默林·格里夫斯把两个大食品篮搬到了树荫下。
 
-When they had all made themselves comfortable, a stranger appeared. He looked very angry. 'Now you get out of here, all of you!' he shouted. 'I'm sheriff here. Do you see that notice? It says "No Camping" -- in case you can't read!'
+When they had all made themselves comfortable, a stranger appeared.
+当他们都安顿好之后，一个陌生人出现了。
+He looked very angry.
+他看起来非常生气。
+'Now you get out of here, all of you!' he shouted.
+“现在你们都给我离开这儿！”他大声吼道。
+'I'm sheriff here.
+“我是这儿的治安官。
+Do you see that notice?
+你们看到那块告示牌了吗？
+It says "No Camping" -- in case you can't read!'
+上面写着‘禁止露营’——以防你们不识字！”
 
-'Look, sheriff,' said Rockwall, 'don't be too hard on us. I'm Rockwall Slinger and this is Merlin Greeves.' 'Oh, is it?' said the sheriff with a sneer. 'Well, I'm Brinksley Meers, and my other name is Gloria Gleam. Now you get out of here fast!'
+'Look, sheriff,' said Rockwall, 'don't be too hard on us.
+“听着，治安官，”洛克沃尔说，“别对我们太苛刻了。
+I'm Rockwall Slinger and this is Merlin Greeves.'
+我是洛克沃尔·斯林格，这位是默林·格里夫斯。”
+'Oh, is it?' said the sheriff with a sneer.
+“噢，是吗？”治安官冷笑着说。
+'Well, I'm Brinksley Meers, and my other name is Gloria Gleam.
+“那好，我是布林克斯利·米尔斯，我的另一个名字叫格洛丽亚·格里姆。
+Now you get out of here fast!'
+现在你们马上给我离开这儿！”
 
 
 ---

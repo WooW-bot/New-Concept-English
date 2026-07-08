@@ -2,11 +2,40 @@
 
 ## 课文内容 (Text)
 
-I crossed the street to avoid meeting him but he saw me and came running towards me. It was no use pretending that I had not seen him, so I waved to him. I never enjoy meeting Nigel Dykes. He never has anything to do. No matter how busy you are, he always insists on coming with you.
+I crossed the street to avoid meeting him but he saw me and came running towards me.
+我穿过马路想避开他，但他看见了我，并向我跑来。
+It was no use pretending that I had not seen him, so I waved to him.
+假装没看见他已没用了，所以我向他招了招手。
+I never enjoy meeting Nigel Dykes.
+我从来都不喜欢遇见奈杰尔·戴克斯。
+He never has anything to do.
+他总是无所事事。
+No matter how busy you are, he always insists on coming with you.
+无论你有多忙，他总是坚持要跟你一起去。
 
-I had to think of a way of preventing him from following me around all morning. 'Hello, Nigel,' I said 'Fancy meeting you here!' 'Hi, Elizabeth,' Nigel answered. 'I was just wondering how to spend the morning--until I saw you. You're not busy doing anything, are you?'
+I had to think of a way of preventing him from following me around all morning.
+我得想个办法不让他整个上午都跟着我。
+'Hello, Nigel,' I said 'Fancy meeting you here!'
+“你好，奈杰尔，”我说，“没想到在这里见到你！”
+'Hi, Elizabeth,' Nigel answered.
+“嗨，伊丽莎白，”奈杰尔回答道。
+'I was just wondering how to spend the morning--until I saw you.
+“我正琢磨着怎么打发这个上午呢——直到看见了你。
+You're not busy doing anything, are you?'
+你没什么事要忙吧？”
 
-'No, not at all,' I answered. 'I'm going to...' 'Would you mind my coming with you?' he asked, before I had finished speaking. 'Not at all,' I lied, 'but I'm going to the dentist.' 'Then I'll come with you,' he answered. 'There's always plenty to read in the waiting room!'
+'No, not at all,' I answered.
+“没有，一点也不忙，”我回答道。
+'I'm going to...'
+“我正要去……”
+'Would you mind my coming with you?' he asked, before I had finished speaking.
+“你不介意我跟你一起去吧？”我话还没说完，他就问道。
+'Not at all,' I lied, 'but I'm going to the dentist.'
+“一点也不介意，”我撒谎道，“但我正要去牙医那里。”
+'Then I'll come with you,' he answered.
+“那我就跟你一起去，”他回答说。
+'There's always plenty to read in the waiting room!'
+“候诊室里总有很多读物！”
 
 
 ---

@@ -2,11 +2,29 @@
 
 ## 课文内容 (Text)
 
-Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed. For the first time in his life, he became the proud owner of a bed which had springs and a mattress. Because the weather was very hot, he carried the bed on to the roof of his house.
+Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.
+德黑兰的一位年轻人厌倦了睡在地板上，于是攒了多年的钱，想买一张真正的床。
+For the first time in his life, he became the proud owner of a bed which had springs and a mattress.
+他平生第一次成了拥有弹簧床垫的床的主人，心里感到非常自豪。
+Because the weather was very hot, he carried the bed on to the roof of his house.
+因为天气非常炎热，他把床搬到了屋顶上。
 
-He slept very well for the first two nights, but on the third night, a storm blew up. A gust of wind swept the bed off the roof and sent it crashing into the courtyard below. The young man did not wake up until the bed had struck the ground. Although the bed was smashed to pieces, the man was miraculously unhurt.
+He slept very well for the first two nights, but on the third night, a storm blew up.
+头两个晚上他睡得很好，但第三天晚上，一场暴风雨刮了起来。
+A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.
+一阵狂风把床从屋顶上刮了下来，重重地摔在下面的院子里。
+The young man did not wake up until the bed had struck the ground.
+直到床撞到地面时，那个年轻人才醒过来。
+Although the bed was smashed to pieces, the man was miraculously unhurt.
+虽然床被摔得粉碎，但那个人却奇迹般地没有受伤。
 
-When he woke up, he was still on the mattress. Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house. After he had put it on the floor, he promptly went to sleep again.
+When he woke up, he was still on the mattress.
+当他醒来时，他依然躺在床垫上。
+Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house.
+他看了一眼散落在周围的木头和金属碎片，伤心地拾起床垫，把它搬回了屋里。
+After he had put it on the floor, he promptly went to sleep again.
+他把床垫放在地板上之后，立刻又睡着了。
+
 
 ---
 

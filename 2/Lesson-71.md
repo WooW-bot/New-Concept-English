@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C. If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.
+When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C.
+当你访问伦敦时，你最先看到的事物之一就是大本钟，这座著名的时钟在世界各地都能通过英国广播公司（B.B.C.）的广播听到它的钟声。
+If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.
+如果议会大厦在1834年没有被焚毁，这座大钟也就永远不会被建造了。
 
-Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built. It is not only of immense size, but is extremely accurate as well. Officials from Greenwich Observatory have the clock checked twice a day.
+Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.
+大本钟得名于本杰明·霍尔爵士，他在建造新议会大厦时负责制造这座大钟。
+It is not only of immense size, but is extremely accurate as well.
+它不仅体积庞大，而且走时极其准确。
+Officials from Greenwich Observatory have the clock checked twice a day.
+格林尼治天文台的官员们每天对这座钟进行两次检查。
 
-On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower. Big Ben has rarely gone wrong. Once, however, it failed to give the correct time. A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!
+On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower.
+在英国广播公司的节目中，你可以听到大钟报时，因为钟楼里安装了麦克风。
+Big Ben has rarely gone wrong.
+大本钟很少出差错。
+Once, however, it failed to give the correct time.
+然而，有一次它没能报出准确的时间。
+A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!
+一位在钟楼上工作的油漆工把一罐油漆挂在了一根指针上，使它变慢了！
 
 
 ---

@@ -2,11 +2,41 @@
 
 ## 课文内容 (Text)
 
-I arrived in London at last. The railway station was big, black and dark. I did not know the way to my hotel, so I asked a porter. I not only spoke English very carefully, but very clearly as well. The porter, however, could not understand me.
+I arrived in London at last.
+我终于到达了伦敦。
+The railway station was big, black and dark.
+火车站又大又黑，光线昏暗。
+I did not know the way to my hotel, so I asked a porter.
+我不知道去旅馆的路，于是就问了一位搬运工。
+I not only spoke English very carefully, but very clearly as well.
+我不仅说得非常仔细，而且也非常清楚。
+The porter, however, could not understand me.
+然而，那位搬运工却听不懂我的话。
 
-I repeated my question several times and at last he understood. He answered me, but he spoke neither slowly nor clearly. 'I am a foreigner,' I said. Then he spoke slowly, but I could not understand him. My teacher never spoke English like that!
+I repeated my question several times and at last he understood.
+我把问题重复了好几遍，他终于听懂了。
+He answered me, but he spoke neither slowly nor clearly.
+他回答了我，但他既说得不慢，也不清楚。
+'I am a foreigner,' I said.
+“我是个外国人，”我说。
+Then he spoke slowly, but I could not understand him.
+于是他慢了下来，但我还是听不懂。
+My teacher never spoke English like that!
+我的老师从来不那样讲英语！
 
-The porter and I looked at each other and smiled. Then he said something and I understood it. 'You'll soon learn English!' he said. I wonder. In England, each person speaks a different language. The English understand each other, but I don't understand them!
+The porter and I looked at each other and smiled.
+我和搬运工相视一笑。
+Then he said something and I understood it.
+接着他说了些什么，我听懂了。
+'You'll soon learn English!' he said.
+“你很快就会学会英语的！”他说。
+I wonder.
+我对此表示怀疑。
+In England, each person speaks a different language.
+在英国，每个人说的语言都不一样。
+The English understand each other, but I don't understand them!
+英国人彼此之间能听懂，但我却听不懂他们的话！
+
 
 ---
 

@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-Experiments have proved that children can be instructed in swimming at a very early age. At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk. Babies of two months old do not appear to be reluctant to enter the water.
+Experiments have proved that children can be instructed in swimming at a very early age.
+实验证明，孩子们在很小的时候就可以接受游泳训练。
+At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk.
+在洛杉矶的一个特殊游泳池里，孩子们甚至在学会走路之前就已经成了潜水憋气的高手。
+Babies of two months old do not appear to be reluctant to enter the water.
+两个月大的婴儿似乎并不排斥下水。
 
-It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool. A game that is very popular with these young swimmers is the underwater tricycle race. Tricycles are lined up on the floor of the pool seven feet under water. The children compete against each other to reach the other end of the pool.
+It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool.
+没过多久，他们就习惯了游泳，甚至能从池底捡起重物。
+A game that is very popular with these young swimmers is the underwater tricycle race.
+在这些小游泳者中，一项非常受欢迎的游戏是水下三轮车比赛。
+Tricycles are lined up on the floor of the pool seven feet under water.
+三轮车被排放在7英尺深的水下池底。
+The children compete against each other to reach the other end of the pool.
+孩子们相互竞争，看谁能先到达游泳池的另一端。
 
-Many pedal their tricycles but most of them prefer to push or drag them. Some children can cover the whole length of the pool without coming up for breath even once. Whether they will ever become future Olympic champions, only time will tell. Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air.
+Many pedal their tricycles but most of them prefer to push or drag them.
+许多孩子骑着三轮车，但大多数人更喜欢推着或拖着它们走。
+Some children can cover the whole length of the pool without coming up for breath even once.
+有些孩子能游完整个池长而中途一次也不浮出水面换气。
+Whether they will ever become future Olympic champions, only time will tell.
+他们将来是否会成为奥运冠军，只有时间能证明。
+Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air.
+与此同时，他们应该能鼓励我们当中那些游不上5码就气喘吁吁的人。
 
 
 ---

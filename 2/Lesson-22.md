@@ -2,11 +2,23 @@
 
 ## 课文内容 (Text)
 
-My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland. Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle. She threw the bottle into the sea.
+My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.
+我的女儿简做梦也没想到会收到一封来自荷兰的、与她同龄的女孩的来信。
+Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.
+去年，我们横渡海峡时，简把一张写有她姓名和地址的纸条放进了一个瓶子里。
+She threw the bottle into the sea.
+她把瓶子扔进了大海。
 
-She never thought of it again, but ten months later, she received a letter from a girl in Holland. Both girls write to each other regularly now.
+She never thought of it again, but ten months later, she received a letter from a girl in Holland.
+她再也没去想这件事，但10个月后，她收到了一封来自荷兰女孩的信。
+Both girls write to each other regularly now.
+现在这两个女孩经常通信。
 
-However, they have decided to use the post office. Letters will cost a little more, but they will certainly travel faster.
+However, they have decided to use the post office.
+然而，她们决定通过邮局寄信。
+Letters will cost a little more, but they will certainly travel faster.
+信件的费用会稍微贵一点，但肯定会寄得更快。
+
 
 ---
 

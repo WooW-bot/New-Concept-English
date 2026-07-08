@@ -2,11 +2,24 @@
 
 ## 课文内容 (Text)
 
-A public house which was recently bought by Mr. Ian Thompson is up for sale. Mr. Thompson is going to sell it because it is haunted. He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.
+A public house which was recently bought by Mr. Ian Thompson is up for sale.
+伊恩·汤普森先生最近买下的一家酒吧又要出售了。
+Mr. Thompson is going to sell it because it is haunted.
+汤普森先生打算把它卖掉，因为这房子闹鬼。
+He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.
+他告诉我，有一天晚上他无法入睡，因为他听到酒吧里传出一种奇怪的声音。
 
-The next morning, he found that the doors had been blocked by chairs and the furniture had been moved. Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning. He also said that he had found five empty whisky bottles which the ghost must have drunk the night before.
+The next morning, he found that the doors had been blocked by chairs and the furniture had been moved.
+第二天早晨，他发现门被椅子堵住了，家具也被挪动了。
+Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning.
+虽然汤普森先生睡觉前关了灯，但早晨灯却亮着。
+He also said that he had found five empty whisky bottles which the ghost must have drunk the night before.
+他还说他发现了5个空威士忌酒瓶，那一定是鬼魂前一天晚上喝掉的。
 
-When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head. The villagers have told him that they will not accept the pub even if he gives it away.
+When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head.
+当我提出这一定是村里人进来喝了免费酒时，汤普森先生摇了摇头。
+The villagers have told him that they will not accept the pub even if he gives it away.
+村民们已经告诉他，即使他把酒吧白送给他们，他们也不会要。
 
 
 ---

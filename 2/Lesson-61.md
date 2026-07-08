@@ -2,11 +2,27 @@
 
 ## 课文内容 (Text)
 
-The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars. Right from the start there was trouble with the Hubble. The pictures it sent us were very disappointing because its main mirror was faulty!
+The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.
+1990年4月20日，美国国家航空航天局将哈勃望远镜发射到了太空，耗资超过10亿美元。
+Right from the start there was trouble with the Hubble.
+哈勃望远镜从一开始就出了问题。
+The pictures it sent us were very disappointing because its main mirror was faulty!
+它传回的照片非常令人失望，因为它的主镜有瑕疵！
 
-NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it. The shuttle Endeavour will be taking the astronauts to the Hubble. A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.
+NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.
+美国国家航空航天局现在准备修复这架望远镜，因此很快将派遣4名宇航员上去进行修理。
+The shuttle Endeavour will be taking the astronauts to the Hubble.
+“奋进”号航天飞机将把宇航员送往哈勃望远镜处。
+A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.
+“奋进”号上的一只机械臂将抓住并固定住望远镜，以便宇航员进行必要的修理。
 
-Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen. The Hubble will tell us a great deal about the age and size of the universe. By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.
+Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.
+当然，哈勃望远镜位于地球大气层之外，因此它很快就会传回我们所见过的关于恒星和遥远星系的最清晰的照片。
+The Hubble will tell us a great deal about the age and size of the universe.
+哈勃望远镜将告诉我们许多有关宇宙的年龄和大小的信息。
+By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.
+当你读到这篇文章时，哈勃那敏锐的“鹰眼”已经传回了成千上万张精彩的照片。
+
 
 ---
 

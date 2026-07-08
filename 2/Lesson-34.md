@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-Dan Robinson has been worried all week. Last Tuesday he received a letter from the local police. In the letter he was asked to call at the station. Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore.
+Dan Robinson has been worried all week.
+丹·鲁滨逊整整一周都忧心忡忡。
+Last Tuesday he received a letter from the local police.
+上星期二，他收到了一封当地警方的信。
+In the letter he was asked to call at the station.
+信中要求他到警察局去一趟。
+Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore.
+丹纳闷警察为什么找他，但他昨天还是去了警察局，现在他不再担心了。
 
-At the station, he was told by a smiling policeman that his bicycle had been found. Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away. It is now being sent to his home by train.
+At the station, he was told by a smiling policeman that his bicycle had been found.
+在警察局，一位面带微笑的警察告诉他，他的自行车找到了。
+Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away.
+警察告诉他，5天前，这辆自行车在400英里外的一个小村庄被发现了。
+It is now being sent to his home by train.
+现在正通过火车被运往他的家中。
 
-Dan was most surprised when he heard the news. He was amused too, because he never expected the bicycle to be found. It was stolen twenty years ago when Dan was a boy of fifteen!
+Dan was most surprised when he heard the news.
+丹听到这个消息时感到非常惊讶。
+He was amused too, because he never expected the bicycle to be found.
+他也觉得很好笑，因为他从未指望这辆自行车还能找回来。
+It was stolen twenty years ago when Dan was a boy of fifteen!
+这辆车是在20年前，也就是丹15岁的时候被偷的！
 
 
 ---

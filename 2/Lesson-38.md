@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England. He had often dreamed of retiring in England and had planned to settle down in the country. He had no sooner returned than he bought a house and went to live there.
+My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England.
+我的老朋友哈里森在回到英国之前，曾在地中海地区住了多年。
+He had often dreamed of retiring in England and had planned to settle down in the country.
+他曾多次梦想在英国退休，并计划在乡间定居。
+He had no sooner returned than he bought a house and went to live there.
+他刚一回来就买了一栋房子，并搬进去住了。
 
-Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold. After so many years of sunshine, Harrison got a shock. He acted as if he had never lived in England before.
+Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold.
+几乎立刻他就开始抱怨起天气来，因为尽管当时还是夏天，却雨水不断，而且常常冷得刺骨。
+After so many years of sunshine, Harrison got a shock.
+在享受了这么多年的阳光之后，哈里森感到非常不适应。
+He acted as if he had never lived in England before.
+他的表现就好像他以前从未在英国住过一样。
 
-In the end, it was more than he could bear. He had hardly had time to settle down when he sold the house and left the country. The dream he had had for so many years ended there. Harrison had thought of everything except the weather.
+In the end, it was more than he could bear.
+最后，他实在无法忍受了。
+He had hardly had time to settle down when he sold the house and left the country.
+他还没来得及安顿下来，就把房子卖掉离开了这个国家。
+The dream he had had for so many years ended there.
+他做了这么多年的梦就这样结束了。
+Harrison had thought of everything except the weather.
+哈里森什么都想到了，就是没考虑到天气。
 
 
 ---

@@ -2,11 +2,34 @@
 
 ## 课文内容 (Text)
 
-When he had killed the guard, the prisoner of war quickly dragged him into the bushes. Working rapidly in the darkness, he soon changed into the dead man's clothes. Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.
+When he had killed the guard, the prisoner of war quickly dragged him into the bushes.
+战俘杀死了哨兵后，迅速把他拖进了灌木丛。
+Working rapidly in the darkness, he soon changed into the dead man's clothes.
+他在黑暗中迅速行动，很快换上了死者的衣服。
+Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.
+现在，战俘身穿蓝色制服，肩扛步枪，在营地前大摇大摆地来回走动。
 
-He could hear shouting in the camp itself. Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped. At that moment, a large black car with four officers inside it, stopped at the camp gates. The officers got out and the prisoner stood to attention and saluted as they passed.
+He could hear shouting in the camp itself.
+他能听到营地里传来的喊叫声。
+Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.
+灯火通明，人们跑来跑去：他们刚刚发现一名战俘逃跑了。
+At that moment, a large black car with four officers inside it, stopped at the camp gates.
+就在这时，一辆载有四名军官的大型黑色轿车在营地大门口停了下来。
+The officers got out and the prisoner stood to attention and saluted as they passed.
+军官们下了车，当他们走过时，战俘立正并敬了礼。
 
-When they had gone, the driver of the car came towards him. The man obviously wanted to talk. He was rather elderly with grey hair and clear blue eyes. The prisoner felt sorry for him, but there was nothing else he could do. As the man came near, the prisoner knocked him to the ground with a sharp blow. Then, jumping into the car, he drove off as quickly as he could.
+When they had gone, the driver of the car came towards him.
+当他们走开后，轿车的司机向他走来。
+The man obviously wanted to talk.
+那人显然是想找人说话。
+He was rather elderly with grey hair and clear blue eyes.
+他年纪较大，长着灰白的头发和清澈的蓝眼睛。
+The prisoner felt sorry for him, but there was nothing else he could do.
+战俘为他感到难过，但别无他法。
+As the man came near, the prisoner knocked him to the ground with a sharp blow.
+当那人走近时，战俘猛击一拳，将他打倒在地。
+Then, jumping into the car, he drove off as quickly as he could.
+随后，他跳进车里，以最快的速度开车逃走了。
 
 
 ---

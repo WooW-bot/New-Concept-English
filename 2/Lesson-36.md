@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-Debbie Hart is going to swim across the English Channel tomorrow. She is going to set out from the French coast at five o'clock in the morning. Debbie is only eleven years old and she hopes to set up a new world record. She is a strong swimmer and many people feel that she is sure to succeed.
+Debbie Hart is going to swim across the English Channel tomorrow.
+黛比·哈特明天准备横渡英吉利海峡。
+She is going to set out from the French coast at five o'clock in the morning.
+她打算明天早晨5点从法国海岸出发。
+Debbie is only eleven years old and she hopes to set up a new world record.
+黛比只有11岁，她希望能创下一项新的世界纪录。
+She is a strong swimmer and many people feel that she is sure to succeed.
+她是一位游泳好手，许多人都认为她一定会成功。
 
-Debbie's father will set out with her in a small boat. Mr. Hart has trained his daughter for years. Tomorrow he will be watching her anxiously as she swims the long distance to England. Debbie intends to take short rests every two hours. She will have something to drink but she will not eat any solid food.
+Debbie's father will set out with her in a small boat.
+黛比的父亲将乘一条小船与她同行。
+Mr. Hart has trained his daughter for years.
+哈特先生已经训练他的女儿多年了。
+Tomorrow he will be watching her anxiously as she swims the long distance to England.
+明天，当她游向英国那段漫长的距离时，他将焦急地注视着她。
+Debbie intends to take short rests every two hours.
+黛比打算每隔两小时休息一会儿。
+She will have something to drink but she will not eat any solid food.
+她会喝些东西，但不会吃任何固体食物。
 
-Most of Debbie's school friends will be waiting for her on the English coast. Among them will be Debbie's mother, who swam the Channel herself when she was a girl.
+Most of Debbie's school friends will be waiting for her on the English coast.
+黛比的大多数同学都将在英国海岸等候她。
+Among them will be Debbie's mother, who swam the Channel herself when she was a girl.
+在他们当中会有黛比的母亲，她本人在少女时代也曾横渡过英吉利海峡。
 
 
 ---

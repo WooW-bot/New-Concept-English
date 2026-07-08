@@ -2,11 +2,31 @@
 
 ## 课文内容 (Text)
 
-Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word.
+Postcards always spoil my holidays.
+明信片总是搅得我假日不得安宁。
+Last summer, I went to Italy.
+去年夏天，我去了意大利。
+I visited museums and sat in public gardens.
+我参观了博物馆，还坐在公园里休息。
+A friendly waiter taught me a few words of Italian.
+一位好心的服务员教了我几句意大利语。
+Then he lent me a book.
+后来，他又借给我一本书。
+I read a few lines, but I did not understand a word.
+我读了几行，但一个字也没看懂。
 
-Everyday I thought about postcards. My holidays passed quickly, but I did not send cards to my friends.
+Everyday I thought about postcards.
+我每天都想着明信片的事。
+My holidays passed quickly, but I did not send cards to my friends.
+我的假期过得很快，但我并没有给朋友们寄过一张明信片。
 
-On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!
+On the last day I made a big decision.
+最后一天，我做出了一个重大决定。
+I got up early and bought thirty-seven cards.
+我早早起床，买了37张明信片。
+I spent the whole day in my room, but I did not write a single card!
+我在房间里待了一整天，却连一张明信片也没写！
+
 
 ---
 

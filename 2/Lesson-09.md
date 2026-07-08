@@ -2,9 +2,30 @@
 
 ## 课文内容 (Text)
 
-On Wednesday evening, we went to the Town Hall. It was the last day of the year and a large crowd of people had gathered under the Town Hall clock. It would strike twelve in twenty minutes' time.
+On Wednesday evening, we went to the Town Hall.
+星期三晚上，我们去了市政厅。
+It was the last day of the year and a large crowd of people had gathered under the Town Hall clock.
+那天是年底的最后一天，一大群人聚集在市政厅的大钟下。
+It would strike twelve in twenty minutes' time.
+再过20分钟钟就要敲响12下了。
 
-Fifteen minutes passed and then, at five to twelve, the clock stopped. The big minute hand did not move. We waited and waited, but nothing happened. Suddenly someone shouted, 'It's two minutes past twelve! The clock has stopped!' I looked at my watch. It was true. The big clock refused to welcome the New Year. At that moment, everybody began to laugh and sing.
+Fifteen minutes passed and then, at five to twelve, the clock stopped.
+15分钟过去了，就在差5分12点时，大钟停了。
+The big minute hand did not move.
+那根大分针不动了。
+We waited and waited, but nothing happened.
+我们等啊等，但什么也没发生。
+Suddenly someone shouted, 'It's two minutes past twelve! The clock has stopped!'
+突然有人喊道：“已经12点零2分了！钟停了！”
+I looked at my watch.
+我看了看自己的手表。
+It was true.
+确实如此。
+The big clock refused to welcome the New Year.
+这座大钟拒绝迎接新年。
+At that moment, everybody began to laugh and sing.
+就在那一刻，大家都开始欢笑和歌唱。
+
 
 ---
 

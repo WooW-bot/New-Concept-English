@@ -2,11 +2,27 @@
 
 ## 课文内容 (Text)
 
-Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day.
+Aeroplanes are slowly driving me mad.
+飞机正慢慢把我逼疯。
+I live near an airport and passing planes can be heard night and day.
+我住在机场附近，日日夜夜都能听到飞机飞过的声音。
 
-The airport was built years ago, but for some reason it could not be used then. Last year, however, it came into use. Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left.
+The airport was built years ago, but for some reason it could not be used then.
+这座机场是多年前建的，但由于某种原因，当时没能投入使用。
+Last year, however, it came into use.
+然而，去年它开始使用了。
+Over a hundred people must have been driven away from their homes by the noise.
+一定有100多人因为噪音而被迫搬离了家园。
+I am one of the few people left.
+我是仅剩的少数几个人之一。
 
-Sometimes I think this house will be knocked down by a passing plane. I have been offered a large sum of money to go away, but I am determined to stay here. Everybody says I must be mad and they are probably right.
+Sometimes I think this house will be knocked down by a passing plane.
+有时我觉得这房子会被飞过的飞机撞倒。
+I have been offered a large sum of money to go away, but I am determined to stay here.
+有人曾出大价钱让我搬走，但我决心留在这里。
+Everybody says I must be mad and they are probably right.
+大家都说我一定是疯了，他们说得可能没错。
+
 
 ---
 

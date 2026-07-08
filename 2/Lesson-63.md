@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-Jeremy Hampden has a large circle of friends and is very popular at parties. Everybody admires him for his great sense of humour--everybody, that is, except his six-year-old daughter, Jenny.
+Jeremy Hampden has a large circle of friends and is very popular at parties.
+杰里米·汉普登的朋友圈子很大，在聚会上非常受欢迎。
+Everybody admires him for his great sense of humour--everybody, that is, except his six-year-old daughter, Jenny.
+大家都钦佩他那极好的幽默感——当然，除了他六岁的女儿珍妮以外，每个人都这样。
 
-Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception. This is the sort of thing that Jeremy loves. He prepared the speech carefully and went to the wedding with Jenny. He had included a large number of funny stories in the speech and, of course, it was a great success.
+Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.
+最近，杰里米的一位挚友请他在婚礼招待会上致辞。
+This is the sort of thing that Jeremy loves.
+这正是杰里米喜欢做的事情。
+He prepared the speech carefully and went to the wedding with Jenny.
+他认真地准备了讲稿，并带着珍妮去参加了婚礼。
+He had included a large number of funny stories in the speech and, of course, it was a great success.
+他在讲稿中穿插了许多有趣的故事，当然，演讲非常成功。
 
-As soon as he had finished, Jenny told him she wanted to go home. Jeremy was a little disappointed by this but he did as his daughter asked. On the way home, he asked Jenny if she had enjoyed the speech. To his surprise, she said she hadn't. Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!
+As soon as he had finished, Jenny told him she wanted to go home.
+他刚一讲完，珍妮就告诉他她想回家。
+Jeremy was a little disappointed by this but he did as his daughter asked.
+杰里米对此感到有些失望，但他还是照女儿的要求做了。
+On the way home, he asked Jenny if she had enjoyed the speech.
+在回家的路上，他问珍妮是否喜欢他的演讲。
+To his surprise, she said she hadn't.
+令他惊讶的是，她说她不喜欢。
+Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!
+杰里米问她为什么，她告诉他，她不喜欢看到那么多人嘲笑他！
 
 
 ---

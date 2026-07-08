@@ -2,11 +2,45 @@
 
 ## 课文内容 (Text)
 
-It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime. Last Sunday I got up very late. I looked out of the window. It was dark outside.
+It was Sunday.
+那是星期天。
+I never get up early on Sundays.
+星期天我从不早起。
+I sometimes stay in bed until lunchtime.
+我有时待在床上直到午饭时间。
+Last Sunday I got up very late.
+上个星期天我起得很晚。
+I looked out of the window.
+我向窗外望去。
+It was dark outside.
+外面天色阴沉。
 
-'What a day!' I thought. 'It's raining again.' Just then, the telephone rang. It was my aunt Lucy. 'I've just arrived by train,' she said. 'I'm coming to see you.'
+'What a day!' I thought.
+“这是什么鬼天气！”我想。
+'It's raining again.'
+“又在下雨了。”
+Just then, the telephone rang.
+就在那时，电话铃响了。
+It was my aunt Lucy.
+是我的露西姑妈打来的。
+'I've just arrived by train,' she said.
+“我刚乘火车到达，”她说。
+'I'm coming to see you.'
+“我正要去看你。”
 
-'But I'm still having breakfast,' I said. 'What are you doing?' she asked. 'I'm having breakfast,' I repeated. 'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'
+'But I'm still having breakfast,' I said.
+“但我还在吃早饭呢，”我说。
+'What are you doing?' she asked.
+“你在做什么？”她问。
+'I'm having breakfast,' I repeated.
+“我正在吃早饭，”我重复道。
+'Dear me,' she said.
+“天哪，”她说。
+'Do you always get up so late?
+“你总是起得这么晚吗？
+It's one o'clock!'
+现在都一点钟了！”
+
 
 ---
 

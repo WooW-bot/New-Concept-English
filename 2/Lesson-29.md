@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-Captain Ben Fawcett has bought an unusual taxi and has begun a new service. The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'. This wonderful plane can carry seven passengers. The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.
+Captain Ben Fawcett has bought an unusual taxi and has begun a new service.
+本·福西特机长买了一辆不同寻常的“出租车”，并开始了一项新的服务。
+The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.
+这辆“出租车”是一架名为“皮拉图斯·波特”的小型瑞士飞机。
+This wonderful plane can carry seven passengers.
+这架奇妙的飞机可以搭载7名乘客。
+The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.
+然而，它最令人惊奇之处在于它可以在任何地方着陆：雪地上、水面上，甚至耕过的田地里。
 
-Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains. Since then, Captain Fawcett has flown passengers to many unusual places. Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.
+Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.
+福西特机长的第一位乘客是一位医生，他从伯明翰飞往威尔士山区的一个偏僻村庄。
+Since then, Captain Fawcett has flown passengers to many unusual places.
+从那时起，福西特机长已经载着乘客飞往了许多不同寻常的地方。
+Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.
+有一次，他降落在一栋公寓楼的屋顶上；还有一次，他降落在一个荒废的停车场里。
 
-Captain Fawcett has just refused a strange request from a businessman. The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.
+Captain Fawcett has just refused a strange request from a businessman.
+福西特机长刚刚拒绝了一位商人提出的奇怪要求。
+The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.
+那个人想飞往大西洋中的一座孤岛——罗科尔岛，但福西特机长没有载他，因为这趟旅程太危险了。
 
 
 ---

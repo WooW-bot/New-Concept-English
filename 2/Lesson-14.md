@@ -2,9 +2,26 @@
 
 ## 课文内容 (Text)
 
-I had an amusing experience last year. After I had left a small village in the south of France, I drove on to the next town. On the way, a young man waved to me. I stopped and he asked me for a lift. As soon as he had got into the car, I said good morning to him in French and he replied in the same language.
+I had an amusing experience last year.
+去年我有一段有趣的经历。
+After I had left a small village in the south of France, I drove on to the next town.
+在离开法国南部的一个小村庄后，我继续开车前往下一个城镇。
+On the way, a young man waved to me.
+在路上，一个年轻人向我招手。
+I stopped and he asked me for a lift.
+我停下车，他请求我让他搭便车。
+As soon as he had got into the car, I said good morning to him in French and he replied in the same language.
+他一上车，我就用法语向他问候早安，他也用同样的语言回答了我。
 
-Apart from a few words, I do not know any French at all. Neither of us spoke during the journey. I had nearly reached the town, when the young man suddenly said, very slowly, 'Do you speak English?' As I soon learnt, he was English himself!
+Apart from a few words, I do not know any French at all.
+除了几个单词外，我根本不会法语。
+Neither of us spoke during the journey.
+旅途中我们俩谁也没说话。
+I had nearly reached the town, when the young man suddenly said, very slowly, 'Do you speak English?'
+车子快到那个城镇时，年轻人突然很慢地说道：“你会说英语吗？”
+As I soon learnt, he was English himself!
+我很快了解到，他自己就是个英国人！
+
 
 ---
 

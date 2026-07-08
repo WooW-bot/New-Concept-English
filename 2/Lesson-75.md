@@ -2,11 +2,34 @@
 
 ## 课文内容 (Text)
 
-When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed. The only passengers, a young woman and her two baby daughters, were unhurt. It was the middle of winter. Snow lay thick on the ground. The woman knew that the nearest village was miles away.
+When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed.
+不久前，一架轻型客机偏离了航向，坠毁在山区，飞行员遇难。
+The only passengers, a young woman and her two baby daughters, were unhurt.
+机上仅有的乘客——一位年轻女子和她的两个幼女——没有受伤。
+It was the middle of winter.
+当时正值隆冬。
+Snow lay thick on the ground.
+地上积着厚厚的雪。
+The woman knew that the nearest village was miles away.
+这位女子知道，最近的村庄也在几英里之外。
 
-When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find. During the night, it got terribly cold. The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.
+When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find.
+天黑下来时，她把一只手提箱当作床，把孩子们放进去，并用她能找到的所有衣服盖在她们身上。
+During the night, it got terribly cold.
+夜里，天气变得异常寒冷。
+The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.
+这位女子尽可能地靠近孩子们，甚至试着自己也钻进箱子里，但箱子太小了。
 
-Early next morning, she heard planes passing overhead and wondered how she could send a signal. Then she had an idea. She stamped out the letters 'SOS' in the snow. Fortunately, a pilot saw the signal and sent a message by radio to the nearest town. It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.
+Early next morning, she heard planes passing overhead and wondered how she could send a signal.
+第二天清晨，她听到头顶上有飞机飞过，便琢磨着怎样才能发出求救信号。
+Then she had an idea.
+接着，她想出了一个主意。
+She stamped out the letters 'SOS' in the snow.
+她在雪地上踩出了“SOS”这几个字母。
+Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.
+幸运的是，一位飞行员看到了这个信号，并通过无线电向最近的城镇发出了信息。
+It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.
+没过多久，一架直升机就赶到了现场，营救了空难的幸存者。
 
 
 ---

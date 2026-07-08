@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-The mummy of an Egyptian woman who died in 800 B.C. has just had an operation. The mummy is that of Shepenmut who was once a singer in the Temple of Thebes. As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease. The only way to do this was to operate.
+The mummy of an Egyptian woman who died in 800 B.C. has just had an operation.
+一位死于公元前800年的埃及妇女的木乃伊刚刚接受了一次手术。
+The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.
+这具木乃伊是谢彭穆特的，她曾是底比斯神庙里的一名歌手。
+As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.
+由于在为木乃伊拍摄的X光片上有一些奇怪的痕迹，医生们一直试图查明这位妇女是否死于某种罕见的疾病。
+The only way to do this was to operate.
+要做到这一点的唯一方法就是进行手术。
 
-The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin. The doctors removed a section of the mummy and sent it to a laboratory. They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef. This god, which has the head of a cow, was normally placed inside a mummy.
+The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin.
+手术持续了四个多小时，由于覆盖在皮肤上的坚硬树脂，手术过程非常困难。
+The doctors removed a section of the mummy and sent it to a laboratory.
+医生们从木乃伊身上取下了一小块组织，并将其送往实验室。
+They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.
+他们还发现了一些X光片上没有显示的东西：一尊杜阿木特夫神的小蜡像。
+This god, which has the head of a cow, was normally placed inside a mummy.
+这位长着牛头的神通常被放置在木乃伊体内。
 
-The doctors have not yet decided how the woman died. They feared that the mummy would fall to pieces when they cut it open, but fortunately this has not happened. The mummy successfully survived the operation.
+The doctors have not yet decided how the woman died.
+医生们尚未确定这位妇女的死因。
+They feared that the mummy would fall to pieces when they cut it open, but fortunately this has not happened.
+他们曾担心在切开木乃伊时它会散架，但幸运的是这种情况并没有发生。
+The mummy successfully survived the operation.
+木乃伊成功地经受住了这次手术。
 
 
 ---

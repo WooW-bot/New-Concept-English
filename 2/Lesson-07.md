@@ -2,9 +2,22 @@
 
 ## 课文内容 (Text)
 
-The plane was late and detectives were waiting at the airport all morning. They were expecting a valuable parcel of diamonds from South Africa. A few hours earlier, someone had told the police that thieves would try to steal the diamonds.
+The plane was late and detectives were waiting at the airport all morning.
+飞机晚点了，侦探们在机场等了整整一上午。
+They were expecting a valuable parcel of diamonds from South Africa.
+他们正在等待从南非运来的一包贵重钻石。
+A few hours earlier, someone had told the police that thieves would try to steal the diamonds.
+几小时前，有人告诉警察，有窃贼企图偷走这些钻石。
 
-When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield. Two men took the parcel off the plane and carried it into the Customs House. While two detectives were keeping guard at the door, two others opened the parcel. To their surprise, the precious parcel was full of stones and sand!
+When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.
+飞机抵达时，一些侦探在主楼内等候，而另一些则在停机坪上守候。
+Two men took the parcel off the plane and carried it into the Customs House.
+两个人把包裹从飞机上取下，搬进了海关大楼。
+While two detectives were keeping guard at the door, two others opened the parcel.
+当两名侦探在门口守卫时，另外两名侦探打开了包裹。
+To their surprise, the precious parcel was full of stones and sand!
+令他们吃惊的是，这个贵重的包裹里装的竟然全是石头和沙子！
+
 
 ---
 

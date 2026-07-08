@@ -2,11 +2,49 @@
 
 ## 课文内容 (Text)
 
-When the Ambassador of Escalopia returned home for lunch, his wife got a shock. He looked pale and his clothes were in a frightful state. 'What has happened?' she asked. 'How did your clothes get into such a mess?'
+When the Ambassador of Escalopia returned home for lunch, his wife got a shock.
+当埃斯卡洛皮亚的大使回家吃午饭时，他的妻子大吃一惊。
+He looked pale and his clothes were in a frightful state.
+他脸色苍白，衣服也弄得不成样子。
+'What has happened?' she asked.
+“出什么事了？”她问道。
+'How did your clothes get into such a mess?'
+“你的衣服怎么弄得这么脏？”
 
-'A fire extinguisher, my dear,' answered the Ambassador drily. 'University students set the Embassy on fire this morning.' 'Good heavens!' exclaimed his wife. 'And where were you at the time?' 'I was in my office as usual,' answered the Ambassador. 'The fire broke out in the basement. I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me. He thought I was on fire. I must definitely get that fellow posted.'
+'A fire extinguisher, my dear,' answered the Ambassador drily.
+“亲爱的，是灭火器闹的，”大使冷淡地回答。
+'University students set the Embassy on fire this morning.'
+“今天上午，大学生们放火烧了大使馆。”
+'Good heavens!' exclaimed his wife.
+“天哪！”他的妻子惊叫道。
+'And where were you at the time?'
+“那你当时在哪里？”
+'I was in my office as usual,' answered the Ambassador.
+“我像往常一样在办公室里，”大使回答道。
+'The fire broke out in the basement.'
+“火是从地下室烧起来的。”
+'I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me.'
+“我当然立刻下去了，可那个笨蛋霍斯特竟把灭火器对准了我。”
+'He thought I was on fire.'
+“他以为我着火了。”
+'I must definitely get that fellow posted.'
+“我一定要把那个家伙调走。”
 
-The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat. 'And how can you explain that?' she asked. 'Oh, that,' said the Ambassador. 'Someone fired a shot through my office window. Accurate, don't you think? Fortunately, I wasn't wearing it at the time. If I had been, I would not have been able to get home for lunch.'
+The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat.
+大使的妻子继续追问，这时她突然发现丈夫的帽子上有一个大洞。
+'And how can you explain that?' she asked.
+“那这个你怎么解释？”她问道。
+'Oh, that,' said the Ambassador.
+“噢，那个，”大使说。
+'Someone fired a shot through my office window.'
+“有人从我办公室的窗户开了一枪。”
+'Accurate, don't you think?'
+“准头不错，你觉得呢？”
+'Fortunately, I wasn't wearing it at the time.'
+“幸运的是，当时我没戴着它。”
+'If I had been, I would not have been able to get home for lunch.'
+“如果当时戴着的话，我就没法回家吃午饭了。”
+
 
 ---
 

@@ -2,9 +2,23 @@
 
 ## 课文内容 (Text)
 
-Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men. They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag. In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.
+Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.
+安妮·斯特林太太在树林里追赶两个男人时，根本没有考虑到自己所冒的风险。
+They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.
+当时她正和孩子们在林边野餐，这两个人突然冲到她面前，企图抢走她的手提包。
+In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.
+在争抢中，包带断了，那两个人拿着包开始向树林深处跑去。
 
-Mrs. Sterling got so angry that she ran after them. She was soon out of breath, but she continued to run. When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them. The men got such a fright that they dropped the bag and ran away. 'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'
+Mrs. Sterling got so angry that she ran after them.
+斯特林太太非常生气，便追了上去。
+She was soon out of breath, but she continued to run.
+她很快就跑得上气不接下气，但她还是继续跑着。
+When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.
+当她追上他们时，发现他们已经坐下来，正在翻看包里的东西，于是她径直向他们冲了过去。
+The men got such a fright that they dropped the bag and ran away.
+那两个人吓坏了，扔下包就逃跑了。
+'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'
+“包带需要修补一下，”斯特林太太事后说，“但他们什么也没偷走。”
 
 
 ---

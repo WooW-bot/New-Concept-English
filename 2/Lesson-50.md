@@ -2,11 +2,40 @@
 
 ## 课文内容 (Text)
 
-I love travelling in the country, but I don't like losing my way. I went on an excursion recently, but my trip took me longer than I expected. 'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.' 'I'll tell you where to get off,' answered the conductor. I sat in the front of the bus to get a good view of the countryside.
+I love travelling in the country, but I don't like losing my way.
+我喜欢在乡间旅行，但我不喜欢迷路。
+I went on an excursion recently, but my trip took me longer than I expected.
+最近我作了一次短途旅行，但这次旅行所花的时间比我预想的要长。
+'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.'
+“我要去伍德福德格林，”我上车时对售票员说，“但我不知道它在哪儿。”
+'I'll tell you where to get off,' answered the conductor.
+“我会告诉你什么时候下车，”售票员回答说。
+I sat in the front of the bus to get a good view of the countryside.
+我坐在公共汽车的前部，以便能好好看看乡间的景色。
 
-After some time, the bus stopped. Looking round, I realized with a shock that I was the only passenger left on the bus. 'You'll have to get off here,' the conductor said. 'This is as far as we go.' 'Is this Woodford Green?' I asked. 'Oh dear,' said the conductor suddenly. 'I forgot to put you off.'
+After some time, the bus stopped.
+过了一会儿，车停了。
+Looking round, I realized with a shock that I was the only passenger left on the bus.
+我向四周看了看，吃惊地发现车里只剩下我一个乘客了。
+'You'll have to get off here,' the conductor said.
+“你得在这儿下车，”售票员说。
+'This is as far as we go.'
+“我们的车就到这儿了。”
+'Is this Woodford Green?' I asked.
+“这是伍德福德格林吗？”我问道。
+'Oh dear,' said the conductor suddenly.
+“哎呀，”售票员突然说道。
+'I forgot to put you off.'
+“我忘了叫你下车了。”
 
-'It doesn't matter,' I said. 'I'll get off here.' 'We're going back now,' said the conductor. 'Well, in that case, I prefer to stay on the bus,' I answered.
+'It doesn't matter,' I said.
+“没关系，”我说。
+'I'll get off here.'
+“我就在这儿下车吧。”
+'We're going back now,' said the conductor.
+“我们现在要回去了，”售票员说。
+'Well, in that case, I prefer to stay on the bus,' I answered.
+“噢，既然这样，那我还是留在车上吧，”我回答说。
 
 
 ---

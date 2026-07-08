@@ -2,11 +2,23 @@
 
 ## 课文内容 (Text)
 
-Joe Sanders has the most beautiful garden in our town. Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.
+Joe Sanders has the most beautiful garden in our town.
+乔·桑德斯拥有我们镇上最漂亮的花园。
+Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.
+几乎每个人每年都参加“最美花园竞赛”，但每次都是乔获胜。
 
-Bill Frith's garden is larger than Joe's. Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting. He has made neat paths and has built a wooden bridge over a pool.
+Bill Frith's garden is larger than Joe's.
+比尔·弗里斯的花园比乔的花园大。
+Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting.
+比尔比乔干活更卖力，种的花和蔬菜也更多，但乔的花园更有趣。
+He has made neat paths and has built a wooden bridge over a pool.
+他修筑了整洁的小径，还在水池上建了一座木桥。
 
-I like gardens too, but I do not like hard work. Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!
+I like gardens too, but I do not like hard work.
+我也喜欢花园，但我却不喜欢辛苦劳动。
+Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!
+每年我也参加花园竞赛，而且总是因为拥有全镇最差的花园而获得一个小奖！
+
 
 ---
 

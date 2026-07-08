@@ -2,11 +2,29 @@
 
 ## 课文内容 (Text)
 
-The Greenwood Boys are a group of pop singers. At present, they are visiting all parts of the country. They will be arriving here tomorrow.
+The Greenwood Boys are a group of pop singers.
+“绿林少年”是一个流行歌手组合。
+At present, they are visiting all parts of the country.
+目前，他们正在全国各地巡回演出。
+They will be arriving here tomorrow.
+他们明天将抵达这里。
 
-They will be coming by train and most of the young people in the town will be meeting them at the station. Tomorrow evening they will be singing at the Workers' Club.
+They will be coming by train and most of the young people in the town will be meeting them at the station.
+他们将乘火车前来，镇上大多数年轻人都会到车站去迎接他们。
+Tomorrow evening they will be singing at the Workers' Club.
+明天晚上，他们将在工人俱乐部演唱。
 
-The Greenwood Boys will be staying for five days. During this time, they will give five performances. As usual, the police will have a difficult time. They will be trying to keep order. It is always the same on these occasions.
+The Greenwood Boys will be staying for five days.
+“绿林少年”将停留5天。
+During this time, they will give five performances.
+在此期间，他们将进行5场演出。
+As usual, the police will have a difficult time.
+像往常一样，警察又要辛苦了。
+They will be trying to keep order.
+他们将设法维持秩序。
+It is always the same on these occasions.
+每逢这种场合，情况总是这样。
+
 
 ---
 

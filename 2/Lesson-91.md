@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-A pilot noticed a balloon which seemed to be making for a Royal Air Force station nearby. He informed the station at once, but no one there was able to explain the mystery. The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft. He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.
+A pilot noticed a balloon which seemed to be making for a Royal Air Force station nearby.
+一位飞行员发现一个气球似乎正朝附近的一个皇家空军基地飞去。
+He informed the station at once, but no one there was able to explain the mystery.
+他立即通知了基地，但那里没有人能解释这一神秘现象。
+The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft.
+控制塔台的军官听到这个消息后非常生气，因为气球对飞机来说可能构成巨大的危险。
+He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.
+他说可能有人在监视基地，于是飞行员接到命令，要求跟踪那个不明物体。
 
-The pilot managed to circle the balloon for some time. He could make out three men in a basket under it and one of them was holding a pair of binoculars. When the balloon was over the station, the pilot saw one of the men taking photographs. Soon afterwards, the balloon began to descend and it landed near an airfield.
+The pilot managed to circle the balloon for some time.
+飞行员设法绕着气球盘旋了一段时间。
+He could make out three men in a basket under it and one of them was holding a pair of binoculars.
+他能辨认出气球下方吊篮里有三个人，其中一人正拿着一副双筒望远镜。
+When the balloon was over the station, the pilot saw one of the men taking photographs.
+当气球飞到基地上空时，飞行员看到其中一个人在拍照。
+Soon afterwards, the balloon began to descend and it landed near an airfield.
+不久之后，气球开始下降，并在一个机场附近着陆了。
 
-The police were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station! As the Commanding Officer explained later, one half of the station did not know what the other half was doing!
+The police were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station!
+警察被叫来了，但他们无法逮捕任何人，因为吊篮里坐着两名国会议员和该基地的指挥官！
+As the Commanding Officer explained later, one half of the station did not know what the other half was doing!
+正如那位指挥官后来解释的那样，基地的一半人根本不知道另一半人在干什么！
 
 
 ---

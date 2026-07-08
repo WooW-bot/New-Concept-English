@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-People will do anything to see a free show--even if it is a bad one. When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company, we all rushed to see it. We had to queue for hours to get in and there must have been several hundred people present just before the show began.
+People will do anything to see a free show--even if it is a bad one.
+为了看一场免费演出，人们什么事都干得出来——即使那是一场糟糕的演出。
+When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company, we all rushed to see it.
+当“P.和U.鸟食公司”将在我们当地电影院举办一场喜剧演出的消息传开后，我们都争先恐后地去观看。
+We had to queue for hours to get in and there must have been several hundred people present just before the show began.
+我们不得不排了几个小时的队才进去，演出开始前，现场肯定有几百人。
 
-Unfortunately, the show was one of the dullest we have ever seen. Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come. The only funny things we heard that evening came from the advertiser at the beginning of the programme. He was obviously very nervous and for some minutes stood awkwardly before the microphone.
+Unfortunately, the show was one of the dullest we have ever seen.
+遗憾的是，那场演出是我们看过的最乏味的演出之一。
+Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come.
+那些没能进去的人不必感到失望，因为许多本该登台的艺人并没有来。
+The only funny things we heard that evening came from the advertiser at the beginning of the programme.
+那天晚上我们听到的唯一有趣的事情，来自节目开始时的广告宣传员。
+He was obviously very nervous and for some minutes stood awkwardly before the microphone.
+他显然非常紧张，在麦克风前局促不安地站了好几分钟。
 
-As soon as he opened his mouth, everyone burst out laughing. We all know what the poor man should have said, but what he actually said was: 'This is the Poo and Ee Seed Bird Company. Good ladies, evening and gentlemen!'
+As soon as he opened his mouth, everyone burst out laughing.
+他一开口，所有人都哄堂大笑。
+We all know what the poor man should have said, but what he actually said was: 'This is the Poo and Ee Seed Bird Company. Good ladies, evening and gentlemen!'
+我们都知道这个可怜人本该说什么，但他实际说的是：“这是‘噗’和‘咿’鸟食公司。好女士们，晚上好，先生们！”
 
 
 ---

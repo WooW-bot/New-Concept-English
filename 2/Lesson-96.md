@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-A Festival for the Dead is held once a year in Japan. This festival is a cheerful occasion, for on this day, the dead are said to return to their homes and they are welcomed by the living. As they are expected to be hungry after their long journey, food is laid out for them. Specially-made lanterns are hung outside each house to help the dead to find their way.
+A Festival for the Dead is held once a year in Japan.
+日本每年举行一次亡灵节。
+This festival is a cheerful occasion, for on this day, the dead are said to return to their homes and they are welcomed by the living.
+这是一个欢乐的节日，因为据说在这一天，死者会回到家中，受到生者的欢迎。
+As they are expected to be hungry after their long journey, food is laid out for them.
+由于人们认为他们经过长途跋涉一定会感到饥饿，所以会为他们摆放食物。
+Specially-made lanterns are hung outside each house to help the dead to find their way.
+每家每户门外都挂着特制的灯笼，以帮助亡灵找到回家的路。
 
-All night long, people dance and sing. In the early morning the food that had been laid out for the dead is thrown into a river or into the sea as it is considered unlucky for anyone living to eat it. 
+All night long, people dance and sing.
+整整一夜，人们载歌载舞。
+In the early morning the food that had been laid out for the dead is thrown into a river or into the sea as it is considered unlucky for anyone living to eat it.
+清晨，为亡灵摆放的食物被扔进河里或海里，因为人们认为活人吃了这些食物是不吉利的。
 
-In towns that are near the sea, the tiny lanterns which had been hung in the streets the night before, are placed into the water when the festival is over. Thousands of lanterns slowly drift out to sea guiding the dead on their return journey to the other world. This is a moving spectacle, for crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more.
+In towns that are near the sea, the tiny lanterns which had been hung in the streets the night before, are placed into the water when the festival is over.
+在靠近海边的城镇，节日结束时，前一天晚上挂在街上的小灯笼会被放入水中。
+Thousands of lanterns slowly drift out to sea guiding the dead on their return journey to the other world.
+成千上万只灯笼缓缓漂向大海，指引亡灵踏上返回阴间的旅程。
+This is a moving spectacle, for crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more.
+这是一场动人的景象，成群的人们站在岸边，注视着灯笼漂走，直到它们消失在视线之外。
 
 
 ---

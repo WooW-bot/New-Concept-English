@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-Dentists always ask questions when it is impossible for you to answer. My dentist had just pulled out one of my teeth and had told me to rest for a while. I tried to say something, but my mouth was full of cotton wool.
+Dentists always ask questions when it is impossible for you to answer.
+牙医总是在你无法回答的时候提出问题。
+My dentist had just pulled out one of my teeth and had told me to rest for a while.
+我的牙医刚刚拔掉我的一颗牙，并让我休息一会儿。
+I tried to say something, but my mouth was full of cotton wool.
+我试图说些什么，但嘴里塞满了棉花。
 
-He knew I collected match boxes and asked me whether my collection was growing. He then asked me how my brother was and whether I liked my new job in London. In answer to these questions I either nodded or made strange noises.
+He knew I collected match boxes and asked me whether my collection was growing.
+他知道我收集火柴盒，便问我收藏品是否在增加。
+He then asked me how my brother was and whether I liked my new job in London.
+接着他又问我兄弟近况如何，以及我是否喜欢在伦敦的新工作。
+In answer to these questions I either nodded or made strange noises.
+为了回答这些问题，我不是点头就是发出奇怪的声音。
 
-Meanwhile, my tongue was busy searching out the hole where the tooth had been. I suddenly felt very worried, but could not say anything. When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.
+Meanwhile, my tongue was busy searching out the hole where the tooth had been.
+与此同时，我的舌头正忙着去探寻那颗牙齿留下的牙洞。
+I suddenly felt very worried, but could not say anything.
+我突然感到非常担心，却什么也说不出来。
+When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.
+当牙医终于把棉花从我嘴里取出时，我才得以告诉他，他拔错牙了。
 
 
 ---

@@ -2,11 +2,27 @@
 
 ## 课文内容 (Text)
 
-I have just received a letter from my brother, Tim. He is in Australia. He has been there for six months.
+I have just received a letter from my brother, Tim.
+我刚刚收到我弟弟蒂姆的一封信。
+He is in Australia.
+他在澳大利亚。
+He has been there for six months.
+他在那里已经待了六个月了。
 
-Tim is an engineer. He is working for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has gone to Alice Springs, a small town in the centre of Australia.
+Tim is an engineer.
+蒂姆是一位工程师。
+He is working for a big firm and he has already visited a great number of different places in Australia.
+他为一家大公司工作，并且已经游览了澳大利亚许多不同的地方。
+He has just bought an Australian car and has gone to Alice Springs, a small town in the centre of Australia.
+他刚买了一辆澳大利亚产的汽车，并已前往澳大利亚中部的小镇爱丽斯泉。
 
-He will soon visit Darwin. From there, he will fly to Perth. My brother has never been abroad before, so he is finding this trip very exciting.
+He will soon visit Darwin.
+他很快就要去访问达尔文了。
+From there, he will fly to Perth.
+从那里，他将乘飞机前往珀斯。
+My brother has never been abroad before, so he is finding this trip very exciting.
+我弟弟以前从未出过国，所以他觉得这次旅行非常令人兴奋。
+
 
 ---
 

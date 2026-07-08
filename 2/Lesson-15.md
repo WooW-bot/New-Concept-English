@@ -2,11 +2,29 @@
 
 ## 课文内容 (Text)
 
-The secretary told me that Mr. Harmsworth would see me. I felt very nervous when I went into his office. He did not look up from his desk when I entered.
+The secretary told me that Mr. Harmsworth would see me.
+秘书告诉我哈姆斯沃思先生要见我。
+I felt very nervous when I went into his office.
+当我走进他的办公室时，我感到非常紧张。
+He did not look up from his desk when I entered.
+我进去时，他头也没抬，一直在看办公桌上的东西。
 
-After I had sat down, he said that business was very bad. He told me that the firm could not afford to pay such large salaries. Twenty people had already left. I knew that my turn had come.
+After I had sat down, he said that business was very bad.
+我坐下后，他说生意非常难做。
+He told me that the firm could not afford to pay such large salaries.
+他告诉我公司负担不起这么高的工资。
+Twenty people had already left.
+已经有20个人离开了。
+I knew that my turn had come.
+我知道该轮到我了。
 
-'Mr. Harmsworth,' I said in a weak voice. 'Don't interrupt,' he said. Then he smiled and told me I would receive an extra thousand pounds a year!
+'Mr. Harmsworth,' I said in a weak voice.
+“哈姆斯沃思先生，”我用微弱的声音说。
+'Don't interrupt,' he said.
+“别打断我，”他说。
+Then he smiled and told me I would receive an extra thousand pounds a year!
+然后他笑了笑，告诉我每年可以多拿1000英镑！
+
 
 ---
 

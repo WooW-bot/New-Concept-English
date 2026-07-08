@@ -2,9 +2,30 @@
 
 ## 课文内容 (Text)
 
-I have just moved to a house in Bridge Street. Yesterday a beggar knocked at my door. He asked me for a meal and a glass of beer. In return for this, the beggar stood on his head and sang songs. I gave him a meal. He ate the food and drank the beer. Then he put a piece of cheese in his pocket and went away.
+I have just moved to a house in Bridge Street.
+我刚刚搬到布里奇街的一所房子里。
+Yesterday a beggar knocked at my door.
+昨天，一个乞丐敲了我的门。
+He asked me for a meal and a glass of beer.
+他向我要一顿饭和一杯啤酒。
+In return for this, the beggar stood on his head and sang songs.
+作为回报，那个乞丐表演了倒立并唱了歌。
+I gave him a meal.
+我给了他一顿饭。
+He ate the food and drank the beer.
+他吃完了食物，喝光了啤酒。
+Then he put a piece of cheese in his pocket and went away.
+然后他把一块奶酪放进兜里，走开了。
 
-Later a neighbour told me about him. Everybody knows him. His name is Percy Buttons. He calls at every house in the street once a month and always asks for a meal and a glass of beer.
+Later a neighbour told me about him.
+后来，一位邻居向我介绍了他的情况。
+Everybody knows him.
+大家都认识他。
+His name is Percy Buttons.
+他的名字叫珀西·巴顿斯。
+He calls at every house in the street once a month and always asks for a meal and a glass of beer.
+他每个月都要到街上的每户人家去一次，而且总是要一顿饭和一杯啤酒。
+
 
 ---
 

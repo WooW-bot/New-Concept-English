@@ -3,12 +3,28 @@
 ## 课文内容 (Text)
 
 While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.
+约翰·吉尔伯特住院期间，曾请求医生告诉他手术是否成功，但医生拒绝了。
 
-The following day, the patient asked for a bedside telephone. When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.
+The following day, the patient asked for a bedside telephone.
+第二天，这位病人要了一部床头电话。
 
-When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert. He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been. He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks.
+When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.
+当他独自一人时，他拨通了医院的总机，要求找米林顿医生接电话。
 
-Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' the patient answered, 'I am Mr. John Gilbert.'
+When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert.
+当医生接听电话时，吉尔伯特先生说他想询问一位病人，即约翰·吉尔伯特先生的情况。
+
+He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been.
+他问吉尔伯特先生的手术是否成功，医生告诉他手术很成功。
+
+He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks.
+接着他又问吉尔伯特先生什么时候可以出院，医生告诉他还需要在医院再住两个星期。
+
+Then Dr. Millington asked the caller if he was a relative of the patient.
+这时，米林顿医生问打电话的人是否是病人的亲属。
+
+'No,' the patient answered, 'I am Mr. John Gilbert.'
+“不是，”病人回答说，“我就是约翰·吉尔伯特本人。”
 
 
 ---

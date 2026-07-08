@@ -2,13 +2,35 @@
 
 ## 课文内容 (Text)
 
-It must have been about two in the morning when I returned home. I tried to wake up my wife by ringing the doorbell, but she was fast asleep, so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.
+It must have been about two in the morning when I returned home.
+那一定是在凌晨两点左右我回到家的时候。
+I tried to wake up my wife by ringing the doorbell, but she was fast asleep, so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.
+我试着按门铃叫醒我的妻子，但她睡得很沉，于是我从花园的棚屋里拿来一个梯子，把它靠在墙上，开始爬向卧室的窗户。
 
-I was almost there when a sarcastic voice below said, "I don't think the windows need cleaning at this time of the night." I looked down and nearly fell off the ladder when I saw a policeman. I immediately regretted answering in the way I did, but I said, "I enjoy cleaning windows at night."
+I was almost there when a sarcastic voice below said, "I don't think the windows need cleaning at this time of the night."
+我快到窗户时，下面传来一个嘲讽的声音说：“我看这个时候不需要擦窗户。”
+I looked down and nearly fell off the ladder when I saw a policeman.
+我往下看，看到一个警察，差点从梯子上摔下来。
+I immediately regretted answering in the way I did, but I said, "I enjoy cleaning windows at night."
+我立刻后悔我刚才的回答方式，但我还是说：“我喜欢晚上擦窗户。”
 
-"So do I," answered the policeman in the same tone. "Excuse my interrupting you. I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?" "Well, I'd prefer to stay here," I said. "You see, I've forgotten my key." "Your what?" he called. "My key," I shouted.
+"So do I," answered the policeman in the same tone.
+“我也是，”警察用同样的语气回答道。
+"Excuse my interrupting you.
+“请原谅我打断你。
+I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?"
+我讨厌在一个人忙着工作的时候打扰他，但你介意跟我去警察局吗？”
+"Well, I'd prefer to stay here," I said.
+“嗯，我宁愿待在这里，”我说。
+"You see, I've forgotten my key."
+“你看，我忘带钥匙了。”
+"Your what?" he called.
+“你的什么？”他喊道。
+"My key," I shouted.
+“我的钥匙，”我喊道。
 
 Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me.
+幸运的是，我的喊叫声把我的妻子吵醒了，就在警察开始爬向我的时候，她打开了窗户。
 
 
 ---

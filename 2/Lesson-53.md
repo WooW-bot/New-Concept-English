@@ -2,11 +2,32 @@
 
 ## 课文内容 (Text)
 
-At last, firemen have put out a big forest fire in California. Since then, they have been trying to find out how the fire began. Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away. Yesterday, the firemen examined the ground carefully, but were not able to find any broken glass. They were also quite sure that a cigarette end did not start the fire.
+At last, firemen have put out a big forest fire in California.
+加利福尼亚州的消防队员们终于扑灭了一场森林大火。
+Since then, they have been trying to find out how the fire began.
+从那时起，他们一直试图查明火灾是如何引起的。
+Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.
+森林火灾通常是由碎玻璃或人们随手丢弃的烟头引起的。
+Yesterday, the firemen examined the ground carefully, but were not able to find any broken glass.
+昨天，消防队员仔细检查了地面，但没能发现任何碎玻璃。
+They were also quite sure that a cigarette end did not start the fire.
+他们也相当肯定，火灾并非由烟头引起。
 
-This morning, however, a fireman accidentally discovered the cause. He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line. In this way, he was able to solve the mystery.
+This morning, however, a fireman accidentally discovered the cause.
+然而今天上午，一名消防队员偶然发现了起火原因。
+He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line.
+他注意到一条蛇的残骸缠绕在一条1.6万伏高压线的电线上。
+In this way, he was able to solve the mystery.
+就这样，他解开了这个谜团。
 
-The explanation was simple but very unusual. A bird had snatched up the snake from the ground and then dropped it on to the wires. The snake then wound itself round the wires. When it did so, it sent sparks down to the ground and these immediately started a fire.
+The explanation was simple but very unusual.
+这个解释很简单，但非常不同寻常。
+A bird had snatched up the snake from the ground and then dropped it on to the wires.
+一只鸟从地上抓起这条蛇，然后把它掉在了电线上。
+The snake then wound itself round the wires.
+蛇随后缠绕在了电线上。
+When it did so, it sent sparks down to the ground and these immediately started a fire.
+当它缠绕上去时，火花落到了地面上，并立即引发了火灾。
 
 
 ---

@@ -2,11 +2,37 @@
 
 ## 课文内容 (Text)
 
-'The play may begin at any moment,' I said. 'It may have begun already,' Susan answered. I hurried to the ticket office. 'May I have two tickets please?' I asked. 'I'm sorry, we've sold out,' the girl said. 'What a pity!' Susan exclaimed.
+'The play may begin at any moment,' I said.
+“演出随时都可能开始，”我说。
+'It may have begun already,' Susan answered.
+“也许已经开始了，”苏珊回答道。
+I hurried to the ticket office.
+我匆匆赶往售票处。
+'May I have two tickets please?' I asked.
+“请给我两张票好吗？”我问道。
+'I'm sorry, we've sold out,' the girl said.
+“对不起，票已卖完了，”售票员说。
+'What a pity!' Susan exclaimed.
+“真可惜！”苏珊大声说道。
 
-Just then, a man hurried to the ticket office. 'Can I return these two tickets?' he asked. 'Certainly,' the girl said. I went back to the ticket office at once. 'Could I have those two tickets please?' I asked. 'Certainly,' the girl said, 'but they're for next Wednesday's performance. Do you still want them?'
+Just then, a man hurried to the ticket office.
+就在这时，一个人匆匆赶到售票处。
+'Can I return these two tickets?' he asked.
+“我可以退掉这两张票吗？”他问道。
+'Certainly,' the girl said.
+“当然可以，”售票员说。
+I went back to the ticket office at once.
+我立刻回到售票处。
+'Could I have those two tickets please?' I asked.
+“能把那两张票卖给我吗？”我问道。
+'Certainly,' the girl said, 'but they're for next Wednesday's performance.
+“当然可以，”售票员说，“但这是下周三的演出票。
+Do you still want them?'
+你还要吗？”
 
 'I might as well have them,' I said sadly.
+“我还是买下吧，”我难过地说。
+
 
 ---
 

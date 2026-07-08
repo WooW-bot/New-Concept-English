@@ -2,11 +2,35 @@
 
 ## 课文内容 (Text)
 
-Fishing is my favourite sport. I often fish for hours without catching anything. But this does not worry me. Some fishermen are unlucky. Instead of catching fish, they catch old boots and rubbish. I am even less lucky. I never catch anything -- not even old boots.
+Fishing is my favourite sport.
+钓鱼是我最喜欢的运动。
+I often fish for hours without catching anything.
+我常常钓鱼好几个小时却一无所获。
+But this does not worry me.
+但这并不让我烦恼。
+Some fishermen are unlucky.
+有些钓鱼的人运气不好。
+Instead of catching fish, they catch old boots and rubbish.
+他们没钓到鱼，却钓到了旧靴子和垃圾。
+I am even less lucky.
+我的运气更差。
+I never catch anything -- not even old boots.
+我什么也钓不到——甚至连旧靴子都钓不到。
 
-After having spent whole mornings on the river, I always go home with an empty bag. 'You must give up fishing!' my friends say. 'It's a waste of time.' But they don't realize one important thing.
+After having spent whole mornings on the river, I always go home with an empty bag.
+在河边度过整个上午之后，我总是空着袋子回家。
+'You must give up fishing!' my friends say.
+“你一定要放弃钓鱼！”我的朋友们说。
+'It's a waste of time.'
+“这是在浪费时间。”
+But they don't realize one important thing.
+但他们没有意识到一件重要的事情。
 
-I'm not really interested in fishing. I am only interested in sitting in a boat and doing nothing at all!
+I'm not really interested in fishing.
+我对钓鱼并不是真的感兴趣。
+I am only interested in sitting in a boat and doing nothing at all!
+我只是对坐在船上什么都不做感兴趣！
+
 
 ---
 

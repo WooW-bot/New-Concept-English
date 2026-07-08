@@ -2,11 +2,33 @@
 
 ## 课文内容 (Text)
 
-I was being tested for a driving licence for the third time. I had been asked to drive in heavy traffic and had done so successfully. After having been instructed to drive out of town, I began to acquire confidence. Sure that I had passed, I was almost beginning to enjoy my test.
+I was being tested for a driving licence for the third time.
+我第三次参加驾驶执照考试。
+I had been asked to drive in heavy traffic and had done so successfully.
+考官要求我在交通拥挤的情况下驾驶，我顺利地完成了。
+After having been instructed to drive out of town, I began to acquire confidence.
+在接到指令把车开出城后，我开始有了信心。
+Sure that I had passed, I was almost beginning to enjoy my test.
+我确信自己已经通过了考试，甚至开始有点享受这次考试了。
 
-The examiner must have been pleased with my performance, for he smiled and said, 'Just one more thing Mr. Eames. Let us suppose that a child suddenly crosses the road in front of you. As soon as I tap on the window, you must stop within five feet.'
+The examiner must have been pleased with my performance, for he smiled and said, 'Just one more thing Mr. Eames.
+考官一定是对我的表现感到满意，因为他微笑着说：“埃姆斯先生，还有最后一件事。
+Let us suppose that a child suddenly crosses the road in front of you.
+假设一个孩子突然从你前面的马路上穿过。
+As soon as I tap on the window, you must stop within five feet.'
+我一敲车窗，你必须在5英尺之内把车停住。”
 
-I continued driving and after some time, the examiner tapped loudly. Though the sound could be heard clearly, it took me a long time to react. I suddenly pressed the brake pedal hard and we were both thrown forward. The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'you have just killed that child!'
+I continued driving and after some time, the examiner tapped loudly.
+我继续开车，过了一会儿，考官重重地敲了一下车窗。
+Though the sound could be heard clearly, it took me a long time to react.
+虽然声音听得很清楚，但我反应了很久。
+I suddenly pressed the brake pedal hard and we were both thrown forward.
+我猛地踩下刹车，我们俩都被惯性向前冲去。
+The examiner looked at me sadly.
+考官悲伤地看着我。
+'Mr. Eames,' he said, in a mournful voice, 'you have just killed that child!'
+“埃姆斯先生，”他用悲哀的声音说，“你刚才把那个孩子撞死了！”
+
 
 ---
 

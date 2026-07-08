@@ -2,11 +2,27 @@
 
 ## 课文内容 (Text)
 
-In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa. The plane wasn't too badly damaged, but over the years the crash was forgotten and the wreck remained undisturbed.
+In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.
+1963年，一架兰开斯特轰炸机在南太平洋一个偏远的地方——瓦利斯岛坠毁了，该岛位于萨摩亚群岛以西很远的地方。
+The plane wasn't too badly damaged, but over the years the crash was forgotten and the wreck remained undisturbed.
+飞机损坏得并不太严重，但多年来，这次坠机事件被人们遗忘了，残骸也一直无人触动。
 
-Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island. By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing. The French authorities had the plane packaged and moved in parts back to France.
+Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.
+后来在1989年，即坠机事件发生26年后，在对该岛进行的一次空中勘测中，这架飞机被偶然重新发现了。
+By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.
+到那时，状况尚可的兰开斯特轰炸机已十分罕见，值得打捞。
+The French authorities had the plane packaged and moved in parts back to France.
+法国当局将飞机拆卸包装，分批运回了法国。
 
-Now a group of enthusiasts are going to have the plane restored. It has four Rolls-Royce Merlin engines but the group will need to have only three of them rebuilt. Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey--still in perfect condition. A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!
+Now a group of enthusiasts are going to have the plane restored.
+现在，一群爱好者打算修复这架飞机。
+It has four Rolls-Royce Merlin engines but the group will need to have only three of them rebuilt.
+它有4台罗尔斯·罗伊斯公司的“梅林”发动机，但该小组只需要修复其中的3台。
+Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey--still in perfect condition.
+试想一下，当他们撬开包装箱，发现第4台发动机像蜂蜜一样甜——依然完好无损时，他们是多么惊讶和高兴。
+A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!
+一群蜜蜂把发动机筑成了蜂巢，它被蜂蜡完全保护了起来！
+
 
 ---
 

@@ -2,11 +2,34 @@
 
 ## 课文内容 (Text)
 
-Busmen have decided to go on strike next week. The strike is due to begin on Tuesday. No one knows how long it will last. The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions. Most people believe that the strike will last for at least a week.
+Busmen have decided to go on strike next week.
+公交车司机们已决定下周举行罢工。
+The strike is due to begin on Tuesday.
+罢工定于星期二开始。
+No one knows how long it will last.
+没有人知道这次罢工会持续多久。
+The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions.
+公交车司机们已声明，在工资和工作条件方面达成普遍协议之前，罢工将一直持续下去。
+Most people believe that the strike will last for at least a week.
+大多数人认为罢工至少会持续一周。
 
-Many owners of private cars are going to offer 'free rides' to people on their way to work. This will relieve pressure on the trains to some extent. Meanwhile, a number of university students have volunteered to drive buses while the strike lasts. All the students are expert drivers, but before they drive any of the buses, they will have to pass a special test. The students are going to take the test in two days' time.
+Many owners of private cars are going to offer 'free rides' to people on their way to work.
+许多私家车主打算为上班路上的人们提供“免费搭乘”。
+This will relieve pressure on the trains to some extent.
+这将在一定程度上缓解火车的压力。
+Meanwhile, a number of university students have volunteered to drive buses while the strike lasts.
+与此同时，一些大学生已志愿在罢工期间驾驶公交车。
+All the students are expert drivers, but before they drive any of the buses, they will have to pass a special test.
+这些学生都是老练的司机，但在驾驶任何公交车之前，他们必须通过一项专门的测试。
+The students are going to take the test in two days' time.
+学生们将在两天后参加这项测试。
 
-Even so, people are going to find it difficult to get to work. But so far, the public has expressed its gratitude to the students in letters to the Press. Only one or two people have objected that the students will drive too fast!
+Even so, people are going to find it difficult to get to work.
+即便如此，人们仍会感到上班很困难。
+But so far, the public has expressed its gratitude to the students in letters to the Press.
+但到目前为止，公众已通过写信给报社的方式向这些学生表达了感激之情。
+Only one or two people have objected that the students will drive too fast!
+只有一两个人提出反对意见，担心学生们会开得太快！
 
 
 ---

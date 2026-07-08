@@ -3,18 +3,37 @@
 ## 课文内容 (Text)
 
 'Do you call that a hat?' I said to my wife.
+“你管那叫帽子？”我对妻子说。
 
-'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror. I sat down on one of those modern chairs with holes in it and waited. We had been in the hat shop for half an hour and my wife was still in front of the mirror.
+'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.
+“你没必要说话这么粗鲁，”妻子一边照着镜子一边回答。
+I sat down on one of those modern chairs with holes in it and waited.
+我坐在一把那种带孔的现代椅子上等着。
+We had been in the hat shop for half an hour and my wife was still in front of the mirror.
+我们在那家帽店已经待了半个小时了，可我妻子还在镜子前。
 
-'We mustn't buy things we don't need,' I remarked suddenly. I regretted saying it almost at once.
+'We mustn't buy things we don't need,' I remarked suddenly.
+“我们不该买不需要的东西，”我突然说道。
+I regretted saying it almost at once.
+我几乎立刻就后悔说了这句话。
 
-'You needn't have said that,' my wife answered. 'I needn't remind you of that terrible tie you bought yesterday.'
+'You needn't have said that,' my wife answered.
+“你本不必那样说的，”妻子回答道。
+'I needn't remind you of that terrible tie you bought yesterday.'
+“我也没必要提醒你昨天买的那条糟糕的领带吧。”
 
-'I find it beautiful,' I said. 'A man can never have too many ties.'
+'I find it beautiful,' I said.
+“我觉得它很漂亮，”我说。
+'A man can never have too many ties.'
+“男人永远不会嫌领带多。”
 
 'And a woman can't have too many hats,' she answered.
+“而女人也永远不会嫌帽子多，”她回答道。
 
-Ten minutes later we walked out of the shop together. My wife was wearing a hat that looked like a lighthouse!
+Ten minutes later we walked out of the shop together.
+十分钟后，我们一起走出了商店。
+My wife was wearing a hat that looked like a lighthouse!
+我妻子戴着一顶看起来像灯塔一样的帽子！
 
 
 ---

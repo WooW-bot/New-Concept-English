@@ -2,9 +2,27 @@
 
 ## 课文内容 (Text)
 
-Nearly a week passed before the girl was able to explain what had happened to her. One afternoon she set out from the coast in a small boat and was caught in a storm. Towards evening, the boat struck a rock and the girl jumped into the sea. Then she swam to the shore after spending the whole night in the water. During that time she covered a distance of eight miles.
+Nearly a week passed before the girl was able to explain what had happened to her.
+过了近一个星期，那姑娘才讲清楚她究竟发生了什么事。
+One afternoon she set out from the coast in a small boat and was caught in a storm.
+一天下午，她乘小船从海岸出发，结果遇上了风暴。
+Towards evening, the boat struck a rock and the girl jumped into the sea.
+傍晚时分，小船触礁，姑娘跳进了海里。
+Then she swam to the shore after spending the whole night in the water.
+她在水里泡了整整一夜，然后游向岸边。
+During that time she covered a distance of eight miles.
+在那段时间里，她游了8英里远。
 
-Early next morning, she saw a light ahead. She knew she was near the shore because the light was high up on the cliffs. On arriving at the shore, the girl struggled up the cliff towards the light she had seen. That was all she remembered. When she woke up a day later, she found herself in hospital.
+Early next morning, she saw a light ahead.
+第二天清晨，她看见前方有灯光。
+She knew she was near the shore because the light was high up on the cliffs.
+她知道自己离岸很近了，因为那灯光是在高高的悬崖上。
+On arriving at the shore, the girl struggled up the cliff towards the light she had seen.
+上岸后，姑娘挣扎着爬上悬崖，向她看到的灯光处走去。
+That was all she remembered.
+这就是她所记得的一切。
+When she woke up a day later, she found herself in hospital.
+一天后她醒来时，发现自己已经在医院里了。
 
 
 ---

@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-Fishermen and sailors sometimes claim to have seen monsters in the sea. Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' which have at times been sighted are simply strange fish. Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea.
+Fishermen and sailors sometimes claim to have seen monsters in the sea.
+渔民和海员有时声称他们见过海里的怪物。
+Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' which have at times been sighted are simply strange fish.
+虽然人们常常嘲笑海员们讲的故事，但现在人们已经知道，这些有时被目击到的“怪物”中，有许多只不过是些奇怪的鱼类。
+Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea.
+偶尔会有一些不寻常的生物被冲上海岸，但它们在海上却很少被捕获。
 
-Some time ago, however, a peculiar fish was caught near Madagascar. A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line. Realizing that this was no ordinary fish, the fisherman made every effort not to damage it in any way. When it was eventually brought to shore, it was found to be over thirteen feet long.
+Some time ago, however, a peculiar fish was caught near Madagascar.
+然而不久前，在马达加斯加附近捕到了一条奇特的鱼。
+A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line.
+当这条强壮的鱼拉动钓线时，它把一只小渔船拖到了几英里外的海面上。
+Realizing that this was no ordinary fish, the fisherman made every effort not to damage it in any way.
+意识到这不是一条普通的鱼，渔民竭尽全力不让它受到任何伤害。
+When it was eventually brought to shore, it was found to be over thirteen feet long.
+当它最终被拖到岸上时，人们发现它有13英尺多长。
 
-It had a head like a horse, big blue eyes, shining silver skin, and a bright red tail. The fish, which has since been sent to a museum where it is being examined by a scientist, is called an oarfish. Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.
+It had a head like a horse, big blue eyes, shining silver skin, and a bright red tail.
+它长着一个像马一样的头，有一双蓝色的大眼睛，闪闪发光的银色皮肤，还有一条鲜红色的尾巴。
+The fish, which has since been sent to a museum where it is being examined by a scientist, is called an oarfish.
+这条鱼后来被送往一家博物馆，正由一位科学家进行研究，它被称为皇带鱼。
+Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.
+这种生物人类很少能见到活的，因为它们生活在600英尺深的海底。
 
 
 ---

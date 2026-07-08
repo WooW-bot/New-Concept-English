@@ -2,13 +2,30 @@
 
 ## 课文内容 (Text)
 
-I entered the hotel manager's office and sat down. I had just lost ￡50 and I felt very upset.
+I entered the hotel manager's office and sat down.
+我走进旅馆经理的办公室，坐了下来。
+I had just lost ￡50 and I felt very upset.
+我刚丢了50英镑，心里非常难受。
 
-'I left the money in my room,' I said, 'and it's not there now.' The manager was sympathetic, but he could do nothing. 'Everyone's losing money these days,' he said.
+'I left the money in my room,' I said, 'and it's not there now.'
+“我把钱放在房间里了，”我说，“可现在不见了。”
+The manager was sympathetic, but he could do nothing.
+经理表示同情，但他却无能为力。
+'Everyone's losing money these days,' he said.
+“如今人人都在丢钱，”他说。
 
-He started to complain about this wicked world but was interrupted by a knock at the door. A girl came in and put an envelope on his desk. It contained ￡50.
+He started to complain about this wicked world but was interrupted by a knock at the door.
+他开始抱怨这个邪恶的世界，但被一阵敲门声打断了。
+A girl came in and put an envelope on his desk.
+一个姑娘走了进来，把一个信封放在他的办公桌上。
+It contained ￡50.
+里面装着50英镑。
 
-'I found this outside this gentleman's room,' she said. 'Well,' I said to the manager,'there is still some honesty in this world!'
+'I found this outside this gentleman's room,' she said.
+“这是我在这位先生的房间外面捡到的，”她说。
+'Well,' I said to the manager,'there is still some honesty in this world!'
+“好吧，”我对经理说，“这世上还是有诚实的人的！”
+
 
 ---
 

@@ -3,10 +3,23 @@
 ## 课文内容 (Text)
 
 In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time.
+1929年，在美国探险家R.E.伯德飞越北极3年之后，他成功地首次飞越了南极。
 
-Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble. At one point, it seemed certain that their plane would crash. It could only get over the mountains if it rose to 10,000 feet. Byrd at once ordered his men to throw out two heavy food sacks.
+Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble.
+起初，伯德和他的部下虽然拍到了许多下方山峦的照片，但他们很快就遇到了严重的麻烦。
+At one point, it seemed certain that their plane would crash.
+有那么一会儿，飞机似乎肯定要坠毁了。
+It could only get over the mountains if it rose to 10,000 feet.
+飞机只有升到1万英尺的高度才能飞越这些山脉。
+Byrd at once ordered his men to throw out two heavy food sacks.
+伯德立即命令部下扔掉了两袋沉重的食物。
 
-The plane was then able to rise and it cleared the mountains by 400 feet. Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight. The aircraft was able to fly over the endless white plains without difficulty.
+The plane was then able to rise and it cleared the mountains by 400 feet.
+飞机随后得以爬升，并从高出山顶400英尺的地方飞了过去。
+Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight.
+伯德这时知道他能够到达300英里外的南极了，因为视野中再也没有山脉了。
+The aircraft was able to fly over the endless white plains without difficulty.
+飞机得以顺利地飞越了一望无际的白色平原。
 
 
 ---

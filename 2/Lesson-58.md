@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-The tiny village of Frinley is said to possess a 'cursed tree'. Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased. The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation.
+The tiny village of Frinley is said to possess a 'cursed tree'.
+据说弗林利这个小村庄里有一棵“被诅咒的树”。
+Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased.
+由于报纸上提到了这棵树，现在到弗林利来的游客人数增加了。
+The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation.
+这棵树是50年前种在教堂附近的，但直到最近几年它才有了恶名。
 
-It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die. Many villagers believe that the tree has already claimed a number of victims. The vicar has been asked to have the tree cut down, but so far he has refused. He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it.
+It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die.
+据说如果有人碰了这棵树，就会倒霉；如果摘下一片叶子，就会死去。
+Many villagers believe that the tree has already claimed a number of victims.
+许多村民相信这棵树已经夺去了好几个人的性命。
+The vicar has been asked to have the tree cut down, but so far he has refused.
+有人要求牧师把树砍掉，但到目前为止他都拒绝了。
+He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it.
+他指出，这棵树是一个有用的收入来源，因为全国各地的游客都纷纷赶来观看它。
 
-In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree-trunk. So far, not one of them has been struck down by sudden death!
+In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree-trunk.
+尽管有种种传闻，游客们还是不断地摘叶子，并在树干上刻下自己的名字。
+So far, not one of them has been struck down by sudden death!
+到目前为止，他们中间还没有一个人暴毙！
 
 
 ---

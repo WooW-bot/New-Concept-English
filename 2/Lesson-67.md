@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world. In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro. Tazieff was able to set up his camp very close to the volcano while it was erupting violently.
+Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.
+波兰科学家哈隆·塔捷耶夫毕生致力于研究世界各地的活火山和深洞。
+In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.
+1948年，他前往刚果的基伍湖，去观察一座后来被他命名为“基图罗”的新火山。
+Tazieff was able to set up his camp very close to the volcano while it was erupting violently.
+当火山猛烈喷发时，塔捷耶夫得以在离火山非常近的地方扎下了营地。
 
-Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long. He noticed that a river of liquid rock was coming towards him. It threatened to surround him completely, but Tazieff managed to escape just in time.
+Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.
+虽然他设法拍到了一些精彩的照片，但他无法在火山附近停留太久。
+He noticed that a river of liquid rock was coming towards him.
+他注意到一股液态岩浆正向他涌来。
+It threatened to surround him completely, but Tazieff managed to escape just in time.
+岩浆眼看就要把他团团围住，但塔捷耶夫及时逃脱了。
 
-He waited until the volcano became quiet and he was able to return two days later. This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures. Tazieff has often risked his life in this way. He has been able to tell us more about active volcanoes than any man alive.
+He waited until the volcano became quiet and he was able to return two days later.
+他一直等到火山平静下来，两天后才得以返回。
+This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.
+这一次，他设法爬进了基图罗火山的火山口，以便进行拍照和测量温度。
+Tazieff has often risked his life in this way.
+塔捷耶夫经常以这种方式冒着生命危险进行考察。
+He has been able to tell us more about active volcanoes than any man alive.
+他能告诉我们有关活火山的知识，比当今任何人都多。
 
 
 ---

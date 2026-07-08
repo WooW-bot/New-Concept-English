@@ -2,11 +2,24 @@
 
 ## 课文内容 (Text)
 
-The whole village soon learnt that a large sum of money had been lost. Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office. Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.
+The whole village soon learnt that a large sum of money had been lost.
+全村人很快就得知丢了一大笔钱。
+Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office.
+当地的屠夫山姆·本顿在把积蓄送到邮局的路上把钱包丢了。
+Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.
+山姆确信钱包一定是被哪位村民捡到了，但却没有人把它还给他。
 
-Three months passed, and then one morning, Sam found his wallet outside his front door. It had been wrapped up in newspaper and it contained half the money he had lost, together with a note which said: 'A thief, yes, but only 50 per cent a thief!'
+Three months passed, and then one morning, Sam found his wallet outside his front door.
+三个月过去了，一天早上，山姆在自家门口发现了他的钱包。
+It had been wrapped up in newspaper and it contained half the money he had lost, together with a note which said: 'A thief, yes, but only 50 per cent a thief!'
+钱包用报纸包着，里面装着他丢失钱款的一半，还有一张字条，上面写着：“是小偷，没错，但只算百分之五十的小偷！”
 
-Two months later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!' In time, all Sam's money was paid back in this way. The last note said: 'I am 100 per cent honest now!'
+Two months later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!'
+两个月后，又有一些钱被送到了山姆那里，并附有另一张字条：“现在只算百分之二十五的小偷了！”
+In time, all Sam's money was paid back in this way.
+没过多久，山姆丢失的钱就以这种方式全部还清了。
+The last note said: 'I am 100 per cent honest now!'
+最后一张字条上写着：“我现在百分之百诚实了！”
 
 
 ---

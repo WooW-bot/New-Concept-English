@@ -2,11 +2,31 @@
 
 ## 课文内容 (Text)
 
-I had a letter from my sister yesterday. She lives in Nigeria. In her letter, she said that she would come to England next year. If she comes, she will get a surprise.
+I had a letter from my sister yesterday.
+昨天我收到了一封我姐姐（或妹妹）的信。
+She lives in Nigeria.
+她住在尼日利亚。
+In her letter, she said that she would come to England next year.
+她在信中说，她明年要来英国。
+If she comes, she will get a surprise.
+如果她来了，她会感到惊喜的。
 
-We are now living in a beautiful new house in the country. Work on it had begun before my sister left. The house was completed five months ago. In my letter, I told her that she could stay with us.
+We are now living in a beautiful new house in the country.
+我们现在住在乡下一所漂亮的新房子里。
+Work on it had begun before my sister left.
+在姐姐离开之前，房子的工程就已经开始了。
+The house was completed five months ago.
+这所房子是五个月前竣工的。
+In my letter, I told her that she could stay with us.
+我在信中告诉她，她可以和我们住在一起。
 
-The house has many large rooms and there is a lovely garden. It is a very modern house, so it looks strange to some people. It must be the only modern house in the district.
+The house has many large rooms and there is a lovely garden.
+这所房子有许多大房间，还有一个可爱的花园。
+It is a very modern house, so it looks strange to some people.
+这是一所非常现代化的房子，所以有些人觉得它看起来很奇怪。
+It must be the only modern house in the district.
+它一定是这个地区唯一的现代化住宅。
+
 
 ---
 

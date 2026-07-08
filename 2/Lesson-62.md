@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-Firemen had been fighting the forest fire for nearly three weeks before they could get it under control. A short time before, great trees had covered the countryside for miles around. Now, smoke still rose up from the warm ground over the desolate hills.
+Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.
+消防队员们与森林大火搏斗了近三个星期，才将其控制住。
+A short time before, great trees had covered the countryside for miles around.
+不久前，参天大树还覆盖着方圆数英里的乡村。
+Now, smoke still rose up from the warm ground over the desolate hills.
+现在，荒凉的山丘上，温热的地面仍冒着烟。
 
-Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well. When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.
+Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.
+冬天即将来临，这些山丘对周围的村庄构成了毁灭性的威胁，因为大雨不仅会冲走土壤，还会引发严重的洪水。
+When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.
+当大火最终被扑灭后，林业部门订购了几吨生长迅速的特种草籽。
 
-The seed was sprayed over the ground in huge quantities by aeroplanes. The planes had been planting seed for nearly a month when it began to rain. By then, however, in many places the grass had already taken root. In place of the great trees which had been growing there for centuries, patches of green had begun to appear in the blackened soil.
+The seed was sprayed over the ground in huge quantities by aeroplanes.
+飞机将这些草籽大量地播撒在地面上。
+The planes had been planting seed for nearly a month when it began to rain.
+飞机播种了近一个月后，天开始下雨了。
+By then, however, in many places the grass had already taken root.
+然而到那时，许多地方的草已经扎下了根。
+In place of the great trees which had been growing there for centuries, patches of green had begun to appear in the blackened soil.
+取代了在那里生长了几个世纪的参天大树，黑色的土地上开始出现了一片片绿色。
 
 
 ---

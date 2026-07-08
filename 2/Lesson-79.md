@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-I used to travel by air a great deal when I was a boy. My parents used to live in South America and I used to fly there from Europe in the holidays. A flight attendant would take charge of me and I never had an unpleasant experience. I am used to travelling by air and only on one occasion have I ever felt frightened.
+I used to travel by air a great deal when I was a boy.
+我小时候经常乘飞机旅行。
+My parents used to live in South America and I used to fly there from Europe in the holidays.
+我的父母过去住在南美洲，假期里我常从欧洲飞往那里。
+A flight attendant would take charge of me and I never had an unpleasant experience.
+总会有空中小姐照顾我，我从未遇到过什么不愉快的事情。
+I am used to travelling by air and only on one occasion have I ever felt frightened.
+我已经习惯了乘飞机旅行，但只有一次我感到过害怕。
 
-After taking off, we were flying low over the city and slowly gaining height, when the plane suddenly turned round and flew back to the airport. While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down. Everybody on board was worried and we were curious to find out what had happened.
+After taking off, we were flying low over the city and slowly gaining height, when the plane suddenly turned round and flew back to the airport.
+飞机起飞后，在城市上空低空飞行并缓慢爬高，这时飞机突然调转机头，飞回了机场。
+While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down.
+在我们等待降落时，一位空中小姐告诉我们要保持镇静，飞机一着陆就安静地撤离。
+Everybody on board was worried and we were curious to find out what had happened.
+机上的每个人都很担心，我们都急于想知道究竟发生了什么事。
 
-Later we learnt that there was a very important person on board. The police had been told that a bomb had been planted on the plane. After we had landed, the plane was searched thoroughly. Fortunately, nothing was found and five hours later we were able to take off again.
+Later we learnt that there was a very important person on board.
+后来我们得知，机上有一位非常重要的人物。
+The police had been told that a bomb had been planted on the plane.
+有人向警方报告说，飞机上被安放了炸弹。
+After we had landed, the plane was searched thoroughly.
+飞机降落后，被彻底搜查了一遍。
+Fortunately, nothing was found and five hours later we were able to take off again.
+幸运的是，什么也没发现，5小时后我们又重新起飞了。
 
 
 ---

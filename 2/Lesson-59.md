@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-Our dog, Rex, used to sit outside our front gate and bark. Every time he wanted to come into the garden he would bark until someone opened the gate. As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in. Rex soon became an expert at opening the gate.
+Our dog, Rex, used to sit outside our front gate and bark.
+我们家的狗雷克斯过去常坐在大门外叫。
+Every time he wanted to come into the garden he would bark until someone opened the gate.
+每次它想进花园时，它总会叫个不停，直到有人把门打开。
+As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in.
+由于邻居们抱怨噪音，我丈夫花了几周时间训练它用爪子按门闩，以便自己进来。
+Rex soon became an expert at opening the gate.
+雷克斯很快就成了开门专家。
 
-However, when I was going out shopping last week, I noticed him in the garden near the gate. This time he was barking so that someone would let him out! Since then, he has developed another bad habit. As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts. Then he sits and barks until someone lets him out. After this he immediately lets himself in and begins barking again.
+However, when I was going out shopping last week, I noticed him in the garden near the gate.
+然而，上周我正要出门购物时，发现它在花园靠近大门的地方。
+This time he was barking so that someone would let him out!
+这一次它在叫，是想让人把它放出去！
+Since then, he has developed another bad habit.
+从那以后，它又养成了一个坏习惯。
+As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.
+它一从外面把门打开，就走进花园，等着门关上。
+Then he sits and barks until someone lets him out.
+然后它就坐下来叫，直到有人把它放出去。
+After this he immediately lets himself in and begins barking again.
+之后它又立刻自己进来，并再次开始叫。
 
 Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since.
+昨天我丈夫把门拆了，雷克斯非常生气，从那以后我们就再也没见过它。
 
 
 ---

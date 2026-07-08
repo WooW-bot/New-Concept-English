@@ -2,21 +2,36 @@
 
 ## 课文内容 (Text)
 
-Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold. Mrs. Rumbold was a large, unsmiling lady in a tight black dress. She did not even look up when I took my seat beside her. Her eyes were fixed on her plate and in a short time, she was busy eating.
+Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold.
+上周在一次宴会上，女主人让我坐在兰博尔德夫人的旁边。
+Mrs. Rumbold was a large, unsmiling lady in a tight black dress.
+兰博尔德夫人是一位身材高大、表情严肃的女士，穿着一件紧身黑裙。
+She did not even look up when I took my seat beside her.
+当我坐在她身边时，她连头都没抬。
+Her eyes were fixed on her plate and in a short time, she was busy eating.
+她的双眼盯着自己的盘子，没过多久，她就忙着吃起东西来。
 
-I tried to make conversation. 'A new play is coming to "The Globe" soon,' I said. 'Will you be seeing it?'
-
+I tried to make conversation.
+我试图找些话题来交谈。
+'A new play is coming to "The Globe" soon,' I said.
+“‘环球剧院’很快要上演一部新戏了，”我说。
+'Will you be seeing it?'
+“您会去看吗？”
 'No,' she answered.
-
+“不会，”她回答道。
 'Will you be spending your holidays abroad this year?' I asked.
-
+“您今年打算去国外度假吗？”我问。
 'No,' she answered.
-
+“不去，”她回答道。
 'Will you be staying in England?' I asked.
-
+“您打算留在英国吗？”我问。
 'No,' she answered.
+“不，”她回答道。
 
-In despair, I asked her whether she was enjoying her dinner. 'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'
+In despair, I asked her whether she was enjoying her dinner.
+我感到十分绝望，便问她晚餐吃得是否可口。
+'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'
+“年轻人，”她回答说，“如果你多吃点，少说点，我们俩都会吃得更开心！”
 
 
 ---

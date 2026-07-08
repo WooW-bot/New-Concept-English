@@ -2,11 +2,40 @@
 
 ## 课文内容 (Text)
 
-'At the time the murder was committed, I was travelling on the 8 o'clock train to London,' said the man. 'Do you always catch such an early train?' asked the inspector. 'Of course I do,' answered the man. 'I must be at work at 10 o'clock. My employer will confirm that I was there on time.'
+'At the time the murder was committed, I was travelling on the 8 o'clock train to London,' said the man.
+“谋杀案发生时，我正乘8点钟的火车去伦敦，”那个人说。
+'Do you always catch such an early train?' asked the inspector.
+“你总是赶这么早的火车吗？”警官问道。
+'Of course I do,' answered the man.
+“我当然总是赶这趟车，”那个人回答。
+'I must be at work at 10 o'clock.
+“我必须在10点钟上班。
+My employer will confirm that I was there on time.'
+我的雇主会证实我准时到了那里。”
 
-'Would a later train get you to work on time?' asked the inspector. 'I suppose it would, but I never catch a later train.' 'At what time did you arrive at the station?' 'At ten to eight. I bought a paper and waited for the train.' 'And you didn't notice anything unusual?' 'Of course not.'
+'Would a later train get you to work on time?' asked the inspector.
+“晚一点的火车能让你准时上班吗？”警官问道。
+'I suppose it would, but I never catch a later train.'
+“我想可以，但我从不赶晚一点的火车。”
+'At what time did you arrive at the station?'
+“你是什么时候到达车站的？”
+'At ten to eight.
+“7点50分。
+I bought a paper and waited for the train.'
+我买了份报纸，然后等火车。”
+'And you didn't notice anything unusual?'
+“你没有注意到有什么异常情况吗？”
+'Of course not.'
+“当然没有。”
 
-'I suggest,' said the inspector, 'that you are not telling the truth. I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time. You see, on the morning of the murder, the 8 o'clock train did not run at all. It broke down at Ferngreen station and was taken off the line.'
+'I suggest,' said the inspector, 'that you are not telling the truth.
+“我认为，”警官说，“你没有说实话。
+I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time.
+我认为你并没有赶8点钟的那趟火车，而是赶了8点25分的车，那趟车也同样能让你准时上班。
+You see, on the morning of the murder, the 8 o'clock train did not run at all.
+要知道，谋杀案发生的那天早上，8点钟的那趟火车根本就没有开。
+It broke down at Ferngreen station and was taken off the line.'
+它在芬格林车站出了故障，被停开了。”
 
 
 ---

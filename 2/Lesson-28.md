@@ -2,13 +2,30 @@
 
 ## 课文内容 (Text)
 
-Jasper White is one of those rare people who believes in ancient myths. He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.
+Jasper White is one of those rare people who believes in ancient myths.
+贾斯珀·怀特是那种相信古代神话的少数人之一。
+He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.
+他刚在城里买了一栋新房子，但自从搬进去以后，他就一直被汽车和车主的问题所困扰。
 
-When he returns home at night, he always finds that someone has parked a car outside his gate. Because of this, he has not been able to get his own car into his garage even once.
+When he returns home at night, he always finds that someone has parked a car outside his gate.
+每当他晚上回到家时，总发现有人把车停在他的大门口。
+Because of this, he has not been able to get his own car into his garage even once.
+由于这个原因，他一次也没能把自己的车开进车库。
 
-Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect. Now he has put an ugly stone head over the gate. It is one of the ugliest faces I have ever seen.
+Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.
+贾斯珀在大门口竖起了“禁止停车”的牌子，但这些牌子一点作用也没有。
+Now he has put an ugly stone head over the gate.
+现在，他在大门上方安放了一个丑陋的石头头像。
+It is one of the ugliest faces I have ever seen.
+那是我所见过的最丑陋的面孔之一。
 
-I asked him what it was and he told me that it was Medusa, the Gorgon. Jasper hopes that she will turn cars and their owners to stone. But none of them has been turned to stone yet!
+I asked him what it was and he told me that it was Medusa, the Gorgon.
+我问他那是什么，他告诉我那是蛇发女妖美杜莎。
+Jasper hopes that she will turn cars and their owners to stone.
+贾斯珀希望她能把汽车和车主都变成石头。
+But none of them has been turned to stone yet!
+但他们中还没有一个人变成石头！
+
 
 ---
 

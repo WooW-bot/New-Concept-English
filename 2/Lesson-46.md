@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing. No one could account for the fact that one of the boxes was extremely heavy. It suddenly occurred to one of the workers to open up the box. He was astonished at what he found.
+When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.
+当一架从伦敦飞来的飞机抵达悉尼机场时，工人们开始卸下一些装有服装的木箱。
+No one could account for the fact that one of the boxes was extremely heavy.
+没有人能解释为什么其中一个木箱会特别重。
+It suddenly occurred to one of the workers to open up the box.
+其中一名工人突然想到要把箱子打开。
+He was astonished at what he found.
+他对自己所发现的一切感到大吃一惊。
 
-A man was lying in the box on top of a pile of woollen goods. He was so surprised at being discovered that he did not even try to run away. After he was arrested, the man admitted hiding in the box before the plane left London.
+A man was lying in the box on top of a pile of woollen goods.
+一个人躺在箱子里，身下是一堆毛织品。
+He was so surprised at being discovered that he did not even try to run away.
+他因被发现而感到十分惊讶，甚至都没有试图逃跑。
+After he was arrested, the man admitted hiding in the box before the plane left London.
+在被捕后，这个人承认在飞机离开伦敦前就躲进了箱子里。
 
-He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours. The man was ordered to pay ￡3, 500 for the cost of the trip. The normal price of a ticket is ￡2, 000!
+He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours.
+他经历了一段漫长而又不舒服的旅程，因为他被关在木箱里超过了18个小时。
+The man was ordered to pay ￡3, 500 for the cost of the trip.
+此人被责令支付3500英镑作为旅费。
+The normal price of a ticket is ￡2, 000!
+而一张机票的正常价格才2000英镑！
 
 
 ---

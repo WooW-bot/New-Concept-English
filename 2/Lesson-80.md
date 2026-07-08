@@ -2,11 +2,31 @@
 
 ## 课文内容 (Text)
 
-Perhaps the most extraordinary building of the 19th century was the Crystal Palace which was built in Hyde Park for the Great Exhibition of 1851. The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass. It was one of the biggest buildings of all time and a lot of people from many countries came to see it.
+Perhaps the most extraordinary building of the 19th century was the Crystal Palace which was built in Hyde Park for the Great Exhibition of 1851.
+19世纪最非凡的建筑也许要数水晶宫了，它是为1851年的万国博览会而建在海德公园里的。
+The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.
+水晶宫与世界上所有的其他建筑都不同，因为它是由钢铁和玻璃建成的。
+It was one of the biggest buildings of all time and a lot of people from many countries came to see it.
+它是当时最大的建筑之一，许多国家的许多人都慕名前来参观。
 
-A great many goods were sent to the exhibition from various parts of the world. There was also a great deal of machinery on display. The most wonderful piece of machinery on show was Nasmyth's steam hammer. Though in those days travelling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe. On arriving in England, they were taken to the Crystal Palace by train.
+A great many goods were sent to the exhibition from various parts of the world.
+世界各地送来了大量的展品参加博览会。
+There was also a great deal of machinery on display.
+展出的还有大量的机械设备。
+The most wonderful piece of machinery on show was Nasmyth's steam hammer.
+展品中最精彩的机械是内史密斯的蒸汽锤。
+Though in those days travelling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe.
+虽然在那个年代旅行不像今天这样方便，但汽船还是载着成千上万的游客从欧洲跨越海峡而来。
+On arriving in England, they were taken to the Crystal Palace by train.
+他们抵达英国后，便乘火车前往水晶宫。
 
-There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges. Later, the Crystal Palace was moved to South London. It remained one of the most famous buildings in the world until it was burnt down in 1936.
+There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges.
+参观者总数达600万人，博览会的利润被用来建造博物馆和学院。
+Later, the Crystal Palace was moved to South London.
+后来，水晶宫被迁往伦敦南部。
+It remained one of the most famous buildings in the world until it was burnt down in 1936.
+它一直保持着世界上最著名建筑之一的地位，直到1936年被焚毁。
+
 
 ---
 

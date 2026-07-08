@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-The Olympic Games will be held in our country in four years' time. As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool. They will also be building new roads and a special railway line.
+The Olympic Games will be held in our country in four years' time.
+四年后，奥林匹克运动会将在我国举行。
+As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.
+由于届时将有大批游客来访，政府将兴建一批新的旅馆、一座巨大的体育场和一个符合奥运标准的游泳池。
+They will also be building new roads and a special railway line.
+他们还将修筑新的公路和一条专用铁路。
 
-The Games will be held just outside the capital and the whole area will be called 'Olympic City'. Workers will have completed the new roads by the end of this year. By the end of next year, they will have finished work on the new stadium.
+The Games will be held just outside the capital and the whole area will be called 'Olympic City'.
+运动会将在首都郊外举行，整个区域将被命名为“奥运城”。
+Workers will have completed the new roads by the end of this year.
+工人们将在今年年底前修完这些新路。
+By the end of next year, they will have finished work on the new stadium.
+到明年年底，他们将完成新体育场的建设工作。
 
-The fantastic modern buildings have been designed by Kurt Gunter. Everybody will be watching anxiously as the new buildings go up. We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.
+The fantastic modern buildings have been designed by Kurt Gunter.
+这些奇妙的现代化建筑是由库尔特·冈特设计的。
+Everybody will be watching anxiously as the new buildings go up.
+当这些新建筑拔地而起时，每个人都会密切关注。
+We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.
+我们都感到非常兴奋，并期待着奥运会的到来，因为这是我国第一次举办奥运会。
 
 
 ---

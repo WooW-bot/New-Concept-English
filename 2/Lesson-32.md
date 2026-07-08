@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-People are not so honest as they once were. The temptation to steal is greater than ever before -- especially in large shops.
+People are not so honest as they once were.
+人们不像过去那样诚实了。
+The temptation to steal is greater than ever before -- especially in large shops.
+偷窃的诱惑力比以往任何时候都大——尤其是在大商店里。
 
-A detective recently watched a well-dressed woman who always went into a large store on Monday mornings. One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.
+A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.
+最近，一名侦探监视了一位衣着考究的妇女，她总是在星期一上午走进一家大商店。
+One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.
+有一个星期一，当这位妇女走进商店时，店里的人比往常少，因此侦探更容易监视她了。
 
-The woman first bought a few small articles. After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible. Then the woman simply took the parcel and walked out of the shop without paying. When she was arrested, the detective found out that the shop assistant was her daughter. The girl 'gave' her mother a free dress once a week!
+The woman first bought a few small articles.
+这位妇女先是买了几件小商品。
+After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.
+过了一会儿，她挑选了店里最昂贵的一件连衣裙，并把它递给了一位店员，店员以最快的速度为她包好了。
+Then the woman simply took the parcel and walked out of the shop without paying.
+然后，这位妇女拿过包裹，没付钱就走出了商店。
+When she was arrested, the detective found out that the shop assistant was her daughter.
+当她被捕时，侦探发现那位店员竟是她的女儿。
+The girl 'gave' her mother a free dress once a week!
+这姑娘每周“送”给她母亲一件免费的连衣裙！
 
 
 ---

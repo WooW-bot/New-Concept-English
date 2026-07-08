@@ -2,11 +2,25 @@
 
 ## 课文内容 (Text)
 
-My aunt Jennifer is an actress. She must be at least thirty-five years old. In spite of this, she often appears on the stage as a young girl. Jennifer will have to take part in a new play soon. This time, she will be a girl of seventeen.
+My aunt Jennifer is an actress.
+我的姑姑詹妮弗是一位演员。
+She must be at least thirty-five years old.
+她至少有三十五岁了。
+In spite of this, she often appears on the stage as a young girl.
+尽管如此，她却常在舞台上扮演年轻姑娘。
+Jennifer will have to take part in a new play soon.
+詹妮弗很快就要参加一部新戏的演出。
+This time, she will be a girl of seventeen.
+这一次，她将扮演一个十七岁的姑娘。
 
-In the play, she must appear in a bright red dress and long black stockings. Last year in another play, she had to wear short socks and a bright, orange-coloured dress.
+In the play, she must appear in a bright red dress and long black stockings.
+在这部戏里，她必须穿着一件鲜红色的连衣裙和长筒黑丝袜出场。
+Last year in another play, she had to wear short socks and a bright, orange-coloured dress.
+去年在另一部戏里，她不得不穿短袜和一件鲜艳的橘黄色连衣裙。
 
 If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'
+如果有人问她多大年纪，她总是回答：“亲爱的，长大成人一定很可怕！”
+
 
 ---
 

@@ -2,11 +2,30 @@
 
 ## 课文内容 (Text)
 
-A woman in jeans stood at the window of an expensive shop. Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window. The assistant who served her did not like the way she was dressed. Glancing at her scornfully, he told her that the dress was sold.
+A woman in jeans stood at the window of an expensive shop.
+一位身穿牛仔裤的妇女站在一家昂贵商店的橱窗前。
+Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.
+虽然她犹豫了片刻，但最终还是走了进去，要求看一看橱窗里陈列的那件连衣裙。
+The assistant who served her did not like the way she was dressed.
+接待她的店员不喜欢她的打扮。
+Glancing at her scornfully, he told her that the dress was sold.
+他轻蔑地瞥了她一眼，告诉她那件衣服已经卖掉了。
 
-The woman walked out of the shop angrily and decided to punish the assistant next day. She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other. After seeking out the rude assistant, she asked for the same dress. 
+The woman walked out of the shop angrily and decided to punish the assistant next day.
+这位妇女气愤地走出商店，决定第二天惩罚一下那个店员。
+She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.
+第二天上午，她又回到店里，身上穿着一件皮大衣，一只手拎着手提包，另一只手拿着一把长柄伞。
+After seeking out the rude assistant, she asked for the same dress.
+找到那个无礼的店员后，她又要看那件连衣裙。
 
-Not realizing who she was, the assistant was eager to serve her this time. With great difficulty, he climbed into the shop window to get the dress. As soon as she saw it, the woman said she did not like it. She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.
+Not realizing who she was, the assistant was eager to serve her this time.
+店员没认出她是谁，这一次表现得非常殷勤。
+With great difficulty, he climbed into the shop window to get the dress.
+他费了很大劲爬进橱窗去取那件衣服。
+As soon as she saw it, the woman said she did not like it.
+这位妇女一见到那件衣服，就说她不喜欢。
+She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.
+她故意折腾那个店员，让他把橱窗里几乎所有的东西都拿出来，最后才买下了她最初看中的那件连衣裙。
 
 
 ---

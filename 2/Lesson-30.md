@@ -2,11 +2,28 @@
 
 ## 课文内容 (Text)
 
-The Wayle is a small river that cuts across the park near my home. I like sitting by the Wayle on fine afternoons. It was warm last Sunday, so I went and sat on the river bank as usual. Some children were playing games on the bank and there were some people rowing on the river.
+The Wayle is a small river that cuts across the park near my home.
+韦尔河是一条横穿我家附近公园的小河。
+I like sitting by the Wayle on fine afternoons.
+天气晴朗的下午，我喜欢坐在韦尔河边。
+It was warm last Sunday, so I went and sat on the river bank as usual.
+上星期天天气很暖和，所以我像往常一样去河边坐着。
+Some children were playing games on the bank and there were some people rowing on the river.
+一些孩子在岸上做游戏，还有一些人在河里划船。
 
-Suddenly, one of the children kicked a ball very hard and it went towards a passing boat. Some people on the bank called out to the man in the boat, but he did not hear them. The ball struck him so hard that he nearly fell into the water.
+Suddenly, one of the children kicked a ball very hard and it went towards a passing boat.
+突然，一个孩子用力踢了一脚球，球朝着一只经过的船飞去。
+Some people on the bank called out to the man in the boat, but he did not hear them.
+岸上的一些人冲船上的人大喊，但他没有听见。
+The ball struck him so hard that he nearly fell into the water.
+球重重地打在他身上，他差点掉进水里。
 
-I turned to look at the children, but there weren't any in sight: they had all run away! The man laughed when he realized what had happened. He called out to the children and threw the ball back to the bank.
+I turned to look at the children, but there weren't any in sight: they had all run away!
+我转过身去看那些孩子，但一个也不见了：他们全都跑光了！
+The man laughed when he realized what had happened.
+那个人弄清发生了什么事后，笑了起来。
+He called out to the children and threw the ball back to the bank.
+他冲孩子们喊了一声，把球扔回了岸上。
 
 
 ---

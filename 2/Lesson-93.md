@@ -2,11 +2,26 @@
 
 ## 课文内容 (Text)
 
-One of the most famous monuments in the world, the Statue of Liberty, was presented to the USA in the nineteenth century by the people of France. The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete. The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.
+One of the most famous monuments in the world, the Statue of Liberty, was presented to the USA in the nineteenth century by the people of France.
+世界上最著名的纪念碑之一——自由女神像，是法国人民在19世纪赠送给美国的。
+The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.
+这座伟大的雕像由雕塑家奥古斯特·巴托尔迪设计，耗时十年才完成。
+The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.
+雕像主体由铜制成，并由埃菲尔专门建造的金属框架支撑。
 
-Before it could be transported to the United States, a site had to be found for it and a pedestal had to be built. The site chosen was an island at the entrance of New York Harbour. By 1884, a statue which was 151 feet tall had been erected in Paris. The following year, it was taken to pieces and sent to America.
+Before it could be transported to the United States, a site had to be found for it and a pedestal had to be built.
+在它被运往美国之前，必须先为它找到一个安放地点，并建造一个底座。
+The site chosen was an island at the entrance of New York Harbour.
+选定的地点是纽约港入口处的一座岛屿。
+By 1884, a statue which was 151 feet tall had been erected in Paris.
+到1884年，一座151英尺高的雕像已在巴黎竖立起来。
+The following year, it was taken to pieces and sent to America.
+第二年，它被拆解并运往美国。
 
-By the end of October 1886, the statue had been put together again and it was officially presented to the American people by Bartholdi. Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbour to make their homes in America.
+By the end of October 1886, the statue had been put together again and it was officially presented to the American people by Bartholdi.
+到1886年10月底，雕像被重新组装完毕，并由巴托尔迪正式赠送给美国人民。
+Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbour to make their homes in America.
+从那时起，这座伟大的纪念碑就成了数百万经由纽约港进入美国安家落户的人们心中自由的象征。
 
 
 ---

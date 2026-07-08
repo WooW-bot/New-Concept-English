@@ -2,11 +2,32 @@
 
 ## 课文内容 (Text)
 
-Once a year, a race is held for old cars. A lot of cars entered for this race last year and there was a great deal of excitement just before it began. One of the most handsome cars was a Rolls-Royce Silver Ghost. The most unusual car was a Benz which had only three wheels. Built in 1885, it was the oldest car taking part.
+Once a year, a race is held for old cars.
+古董车赛每年举办一次。
+A lot of cars entered for this race last year and there was a great deal of excitement just before it began.
+去年有很多车参加了比赛，比赛开始前气氛非常热烈。
+One of the most handsome cars was a Rolls-Royce Silver Ghost.
+最漂亮的汽车之一是一辆劳斯莱斯“银灵”。
+The most unusual car was a Benz which had only three wheels.
+最不寻常的车是一辆只有三个轮子的奔驰车。
+Built in 1885, it was the oldest car taking part.
+它制造于1885年，是参赛车中最老的一辆。
 
-After a great many loud explosions, the race began. Many of the cars broke down on the course and some drivers spent more time under their cars than in them! A few cars, however, completed the race. The winning car reached a speed of forty miles an hour -- much faster than any of its rivals. It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.
+After a great many loud explosions, the race began.
+在一阵阵巨大的爆裂声后，比赛开始了。
+Many of the cars broke down on the course and some drivers spent more time under their cars than in them!
+许多车在赛道上抛了锚，有些司机花在车底下的时间比坐在车里的时间还要多！
+A few cars, however, completed the race.
+然而，还是有几辆车跑完了全程。
+The winning car reached a speed of forty miles an hour -- much faster than any of its rivals.
+获胜的那辆车时速达到了40英里——比其他任何参赛车都要快得多。
+It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.
+在比赛快结束时，它飞速冲下山坡，司机费了好大劲才把它停住。
 
-The race gave everyone a great deal of pleasure. It was very different from modern car races but no less exciting.
+The race gave everyone a great deal of pleasure.
+这次比赛给每个人都带来了极大的乐趣。
+It was very different from modern car races but no less exciting.
+它与现代汽车比赛大不相同，但同样令人兴奋。
 
 
 ---

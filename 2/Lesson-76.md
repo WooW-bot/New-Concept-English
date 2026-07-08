@@ -2,11 +2,33 @@
 
 ## 课文内容 (Text)
 
-'To end our special news bulletin,' said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria. Macaroni has been grown in this area for over six hundred years. Two of the leading growers, Giuseppe Moldova and Riccardo Brabante, tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual.
+'To end our special news bulletin,' said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria.
+“在结束我们的特别新闻简报之前，”电视播音员的声音说道，“我们将转播到卡拉布里亚的通心粉田。”
+Macaroni has been grown in this area for over six hundred years.
+在这个地区种植通心粉已经有六百多年了。
+Two of the leading growers, Giuseppe Moldova and Riccardo Brabante, tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual.
+两位主要的种植者，朱塞佩·莫尔多瓦和里卡多·布拉班特告诉我，他们预料今年会有个好收成，而且收割工作比往常开始得早。
 
-Here you can see two workers who, between them, have just finished cutting three cartloads of golden brown macaroni stalks. The whole village has been working day and night gathering and threshing this year's crop before the September rains. On the right, you can see Mrs. Brabante herself. She has been helping her husband for thirty years now. Mrs. Brabante is talking to the manager of the local factory where the crop is processed.
+Here you can see two workers who, between them, have just finished cutting three cartloads of golden brown macaroni stalks.
+在这里你可以看到两名工人，他们两人刚刚割完了三车金黄色的通心粉秸秆。
+The whole village has been working day and night gathering and threshing this year's crop before the September rains.
+全村人都在日夜不停地工作，赶在九月雨季到来之前收割并脱粒今年的庄稼。
+On the right, you can see Mrs. Brabante herself.
+在右边，你可以看到布拉班特夫人本人。
+She has been helping her husband for thirty years now.
+她帮助丈夫干活已经有三十年了。
+Mrs. Brabante is talking to the manager of the local factory where the crop is processed.
+布拉班特夫人正在与当地一家加工这种作物的工厂经理交谈。
 
-This last scene shows you what will happen at the end of the harvest: the famous Calabrian macaroni-eating competition! Signor Fratelli, the present champion, has won it every year since 1991. And that ends our special bulletin for today, Thursday, April 1st. We're now going back to the studio.'
+This last scene shows you what will happen at the end of the harvest: the famous Calabrian Calabrian macaroni-eating competition!
+最后一个镜头向你们展示了收获季节结束时将要发生的事情：著名的卡拉布里亚通心粉大赛！
+Signor Fratelli, the present champion, has won it every year since 1991.
+现任冠军弗拉泰利先生自1991年以来，每年都赢得了比赛。
+And that ends our special bulletin for today, Thursday, April 1st.
+今天的特别简报到此结束，今天是4月1日，星期四。
+We're now going back to the studio.'
+我们现在回到演播室。
+
 
 ---
 
