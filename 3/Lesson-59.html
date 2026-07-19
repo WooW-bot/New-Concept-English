@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 59: Collecting - 智能跟读课本</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-zh: #cbd5e1;
+            --accent-color: #38bdf8;
+            --accent-hover: #0ea5e9;
+            --highlight-bg: rgba(56, 189, 248, 0.15);
+            --highlight-border: #38bdf8;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.08) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(99, 102, 241, 0.08) 0px, transparent 50%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem 1rem;
+        }
+
+        header {
+            width: 100%;
+            max-width: 900px;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        /* 控制面板 */
+        .control-panel {
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            width: 100%;
+            max-width: 900px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .control-label {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        select, input[type="range"] {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--card-border);
+            border-radius: 8px;
+            padding: 0.6rem;
+            color: var(--text-primary);
+            outline: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        select:focus {
+            border-color: var(--accent-color);
+        }
+
+        .btn-panel {
+            display: flex;
+            gap: 0.8rem;
+            align-items: flex-end;
+        }
+
+        button {
+            flex: 1;
+            background: var(--accent-color);
+            color: #0f172a;
+            border: none;
+            border-radius: 8px;
+            padding: 0.7rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.4rem;
+        }
+
+        button:hover {
+            background: var(--accent-hover);
+            transform: translateY(-1px);
+        }
+
+        button.secondary {
+            background: rgba(148, 163, 184, 0.1);
+            color: var(--text-primary);
+            border: 1px solid var(--card-border);
+        }
+
+        button.secondary:hover {
+            background: rgba(148, 163, 184, 0.2);
+        }
+
+        /* 句子列表 */
+        .text-container {
+            width: 100%;
+            max-width: 900px;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .sentence-block {
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 1.2rem;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .sentence-block:hover {
+            transform: scale(1.01) translateY(-2px);
+            border-color: rgba(56, 189, 248, 0.3);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .sentence-block.active {
+            background: var(--highlight-bg);
+            border-color: var(--highlight-border);
+            box-shadow: 0 0 20px rgba(56, 189, 248, 0.15);
+        }
+
+        .sentence-block::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 4px;
+            background: var(--accent-color);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .sentence-block.active::before {
+            opacity: 1;
+        }
+
+        .en {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 0.5rem;
+            font-weight: 400;
+            letter-spacing: 0.01em;
+            color: var(--text-primary);
+        }
+
+        .sentence-block.active .en {
+            color: #fff;
+            font-weight: 500;
+        }
+
+        .zh {
+            font-size: 0.95rem;
+            color: var(--text-zh);
+            line-height: 1.5;
+        }
+
+        /* 朗读进度条 */
+        .progress-bar {
+            height: 3px;
+            background: var(--accent-color);
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0%;
+            transition: width 0.1s linear;
+        }
+
+        /* 播放提示悬浮球 */
+        .speak-indicator {
+            position: absolute;
+            right: 1.2rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: rgba(56, 189, 248, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--accent-color);
+            opacity: 0;
+            transition: all 0.3s ease;
+        }
+
+        .sentence-block:hover .speak-indicator {
+            opacity: 1;
+        }
+
+        .sentence-block.active .speak-indicator {
+            opacity: 1;
+            background: var(--accent-color);
+            color: #0f172a;
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: translateY(-50%) scale(1); }
+            50% { transform: translateY(-50%) scale(1.1); }
+            100% { transform: translateY(-50%) scale(1); }
+        }
+
+        .badge {
+            background: rgba(56, 189, 248, 0.15);
+            color: var(--accent-color);
+            font-size: 0.75rem;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            margin-bottom: 0.5rem;
+            display: inline-block;
+            font-weight: 600;
+        }
+
+        /* 隐藏的辅助标签 */
+        .checkbox-container {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            cursor: pointer;
+        }
+
+        .checkbox-container input {
+            cursor: pointer;
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .control-panel { grid-template-columns: 1fr; }
+            .en { font-size: 1.1rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <span class="badge">New Concept English 3</span>
+        <h1>Lesson 59: Collecting</h1>
+        <p class="subtitle">点击任意句子即可开始逐句朗读或进行跟读训练</p>
+    </header>
+
+    <section class="control-panel">
+        <div class="control-group">
+            <label class="control-label" for="voice-select">选择发音人 (Voice)</label>
+            <select id="voice-select">
+                <option value="">正在加载系统语音库...</option>
+            </select>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="rate-range">语速 (Speed): <span id="rate-value">1.0x</span></label>
+            <input type="range" id="rate-range" min="0.5" max="2" step="0.1" value="1.0">
+        </div>
+        <div class="control-group" style="justify-content: center;">
+            <label class="checkbox-container">
+                <input type="checkbox" id="auto-play-next" checked>
+                自动播放下一句
+            </label>
+            <label class="checkbox-container">
+                <input type="checkbox" id="shadow-mode">
+                跟读模式 (播放后暂停供您模仿)
+            </label>
+        </div>
+        <div class="control-group btn-panel">
+            <button id="stop-btn" class="secondary">
+                <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M5 3.5h6A1.5 1.5 0 0 1 12.5 5v6a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 11V5A1.5 1.5 0 0 1 5 3.5z"/></svg>
+                停止播放
+            </button>
+        </div>
+    </section>
+
+    <main class="text-container" id="text-container">
+        <!-- 句子将被 JS 渲染在此处 -->
+    </main>
+
+    <script>
+        const articles = [
+            {
+                en: "People tend to amass possessions, sometimes without being aware of doing so.",
+                zh: "人们往往会积攒物品，有时甚至自己都没有意识到。"
+            },
+            {
+                en: "Indeed they can have a delightful surprise when they find something useful which they did not know they owned.",
+                zh: "事实上，当他们发现自己竟拥有某件有用的东西而此前却一无所知时，会感到一种意外的惊喜。"
+            },
+            {
+                en: "Those who never have to move house become indiscriminate collectors of what can only be described as clutter.",
+                zh: "那些从不需要搬家的人，会不加选择地收集各种只能被称作“杂物”的东西。"
+            },
+            {
+                en: "They leave unwanted objects in drawers, cupboards and attics for years, in the belief that they may one day need just those very things.",
+                zh: "他们把不需要的物品留在抽屉、橱柜和阁楼里，一放就是多年，总以为有一天会用得上这些东西。"
+            },
+            {
+                en: "As they grow old, people also accumulate belongings for two other reasons, lack of physical and mental energy, both of which are essential in turning out and throwing away, and sentiment.",
+                zh: "随着年龄的增长，人们还会因为另外两个原因而积攒物品：一是缺乏清理和丢弃物品所必需的精力和体力，二是出于情感因素。"
+            },
+            {
+                en: "Things owned for a long time are full of associations with the past, perhaps with relatives who are dead, and so they gradually acquire a value beyond their true worth.",
+                zh: "长期拥有的物品充满了与过去的回忆，或许是与已故亲人的联系，因此它们逐渐获得了一种超越其本身价值的意义。"
+            },
+            {
+                en: "Some things are collected deliberately in the home in an attempt to avoid waste.",
+                zh: "有些东西被刻意地留在家里，是为了避免浪费。"
+            },
+            {
+                en: "Among these I would list string and brown paper, kept by thrifty people when a parcel has been opened, to save buying these two requisites.",
+                zh: "在这些东西中，我会列出绳子和包装纸，节俭的人在拆开包裹后会把它们留下来，以省去购买这两样必需品的开销。"
+            },
+            {
+                en: "Collecting small items can easily become a mania.",
+                zh: "收集小物件很容易变成一种癖好。"
+            },
+            {
+                en: "I know someone who always cuts sketches out from newspapers of model clothes that she would like to buy if she had the money.",
+                zh: "我认识一个人，她总是把报纸上那些她有钱就想买的时装草图剪下来。"
+            },
+            {
+                en: "As she is not rich, the chances that she will ever be able to afford such purchases are remote; but she is never sufficiently strongminded to be able to stop the practice.",
+                zh: "由于她并不富有，她能买得起这些东西的可能性微乎其微；但她又不够坚决，无法停止这种做法。"
+            },
+            {
+                en: "It is a harmless habit, but it litters up her desk to such an extent that every time she opens it, loose bits of paper fall out in every direction.",
+                zh: "这是一种无害的习惯，但却把她的书桌弄得乱七八糟，以至于每次她打开书桌，零散的纸片就会四处散落。"
+            },
+            {
+                en: "Collecting as a serious hobby is quite different and has many advantages.",
+                zh: "作为一种严肃的爱好，收藏则完全不同，而且有很多好处。"
+            },
+            {
+                en: "It provides relaxation for leisure hours, as just looking at one's treasures is always a joy.",
+                zh: "它为闲暇时光提供了放松，因为仅仅是看着自己的宝贝总是一种乐趣。"
+            },
+            {
+                en: "One does not have to go outside for amusement, since the collection is housed at home.",
+                zh: "人们不必出门寻找娱乐，因为收藏品就存放在家里。"
+            },
+            {
+                en: "Whatever it consists of, stamps, records, first editions of books, china, glass, antique furniture, pictures, model cars, stuffed birds, toy animals, there is always something to do in connection with it, from finding the right place for the latest addition, to verifying facts in reference books.",
+                zh: "无论收藏的是什么——邮票、唱片、书籍初版、瓷器、玻璃制品、古董家具、画作、汽车模型、鸟类标本还是玩具动物——总有与之相关的事情可做，从为新添的藏品寻找合适的位置，到在参考书中核实相关事实。"
+            },
+            {
+                en: "This hobby educates one not only in the chosen subject, but also in general matters which have some bearing on it.",
+                zh: "这种爱好不仅能让人在所选领域获得知识，还能让人了解与之相关的一般性知识。"
+            },
+            {
+                en: "There are also other benefits.",
+                zh: "还有其他好处。"
+            },
+            {
+                en: "One wants to meet like-minded collectors, to get advice, to compare notes, to exchange articles, to show off the latest find.",
+                zh: "人们想要结识志同道合的收藏者，寻求建议、交流心得、交换藏品、炫耀最新的收获。"
+            },
+            {
+                en: "So one's circle of friends grows.",
+                zh: "于是，朋友圈子就扩大了。"
+            },
+            {
+                en: "Soon the hobby leads to travel, perhaps to a meeting in another town, possibly a trip abroad in search of a rare specimen, for collectors are not confined to any one country.",
+                zh: "很快，这种爱好会促使人们去旅行，或许是去另一个城市参加聚会，或许是去国外寻找稀有的藏品，因为收藏者并不局限于任何一个国家。"
+            },
+            {
+                en: "Over the years, one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences.",
+                zh: "多年以后，一个人很可能会成为自己爱好领域的权威，并很可能被邀请在小型聚会上做非正式演讲，如果成功的话，还会被邀请向更多的听众演讲。"
+            },
+            {
+                en: "In this way self-confidence grows, first from mastering a subject, then from being able to talk about it.",
+                zh: "通过这种方式，自信心增强了，首先来自于对某一学科的精通，然后来自于能够谈论它。"
+            },
+            {
+                en: "Collecting, by occupying spare time so constructively, makes a person contented, with no time for boredom.",
+                zh: "收藏通过如此有建设性地占用业余时间，使人感到满足，没有时间去感到无聊。"
+            }
+        ];
+
+        const textContainer = document.getElementById('text-container');
+        const voiceSelect = document.getElementById('voice-select');
+        const rateRange = document.getElementById('rate-range');
+        const rateValue = document.getElementById('rate-value');
+        const autoPlayNextCheckbox = document.getElementById('auto-play-next');
+        const shadowModeCheckbox = document.getElementById('shadow-mode');
+        const stopBtn = document.getElementById('stop-btn');
+
+        let synth = window.speechSynthesis;
+        let voices = [];
+        let currentUtterance = null;
+        let activeIndex = -1;
+
+        // 渲染文本块
+        function renderText() {
+            textContainer.innerHTML = '';
+            articles.forEach((item, index) => {
+                const block = document.createElement('div');
+                block.className = 'sentence-block';
+                block.dataset.index = index;
+                block.innerHTML = `
+                    <p class="en">${item.en}</p>
+                    <p class="zh">${item.zh}</p>
+                    <div class="speak-indicator">
+                        <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M11.536 14.01A8.473 8.473 0 0 0 14.026 8a8.473 8.473 0 0 0-2.49-6.01l-.708.707A7.476 7.476 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z"/><path d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.483 5.483 0 0 1 11.025 8a5.483 5.483 0 0 1-1.61 3.89l.706.706z"/><path d="M8.707 11.182A4.486 4.486 0 0 0 10.025 8a4.486 4.486 0 0 0-1.318-3.182L8 5.525A3.489 3.489 0 0 1 9.025 8 3.49 3.49 0 0 1 8 10.475l.707.707zM6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06z"/></svg>
+                    </div>
+                    <div class="progress-bar"></div>
+                `;
+                
+                block.addEventListener('click', () => {
+                    speak(index);
+                });
+                
+                textContainer.appendChild(block);
+            });
+        }
+
+        // 加载语音库
+        function loadVoices() {
+            voices = synth.getVoices();
+            voiceSelect.innerHTML = '';
+            
+            // 筛选出英文语音，并按照美音/英音排序
+            const enVoices = voices.filter(v => v.lang.toLowerCase().startsWith('en'));
+            
+            if (enVoices.length === 0) {
+                const opt = document.createElement('option');
+                opt.value = "";
+                opt.textContent = "未找到英文语音包，使用系统默认发音";
+                voiceSelect.appendChild(opt);
+                return;
+            }
+
+            enVoices.forEach(voice => {
+                const option = document.createElement('option');
+                option.value = voice.name;
+                option.textContent = `${voice.name} (${voice.lang})`;
+                // 默认选择美音 Google US English 或 Microsoft David
+                if (voice.name.includes('Google US English') || voice.name.includes('David') || voice.name.includes('Samantha') || voice.name.includes('Daniel')) {
+                    option.selected = true;
+                }
+                voiceSelect.appendChild(option);
+            });
+        }
+
+        // 朗读指定句子
+        function speak(index) {
+            synth.cancel(); // 停止当前正在播放的声音
+
+            if (index < 0 || index >= articles.length) {
+                setActiveBlock(-1);
+                return;
+            }
+
+            setActiveBlock(index);
+
+            const sentence = articles[index].en;
+            currentUtterance = new SpeechSynthesisUtterance(sentence);
+            
+            // 设置发音人
+            const selectedVoiceName = voiceSelect.value;
+            if (selectedVoiceName) {
+                const voice = voices.find(v => v.name === selectedVoiceName);
+                if (voice) currentUtterance.voice = voice;
+            }
+
+            // 设置语速
+            currentUtterance.rate = parseFloat(rateRange.value);
+
+            // 朗读事件监听
+            const block = document.querySelector(`.sentence-block[data-index="${index}"]`);
+            const progressBar = block.querySelector('.progress-bar');
+            
+            currentUtterance.onboundary = function(event) {
+                if (event.name === 'word') {
+                    // 近似估计字进度
+                    const percent = (event.charIndex / sentence.length) * 100;
+                    progressBar.style.width = `${percent}%`;
+                }
+            };
+
+            currentUtterance.onend = function() {
+                progressBar.style.width = '0%';
+                
+                // 跟读模式：播放完后不自动播放下一句，而是等待用户跟读
+                if (shadowModeCheckbox.checked) {
+                    // 跟读模式下只高亮，不自动下一句
+                    return;
+                }
+
+                // 自动播放下一句
+                if (autoPlayNextCheckbox.checked) {
+                    setTimeout(() => {
+                        // 如果在等待期间没有被用户手动打断
+                        if (activeIndex === index) {
+                            speak(index + 1);
+                        }
+                    }, 1200); // 间隔1.2秒，给用户缓冲和短暂停顿时间
+                } else {
+                    setActiveBlock(-1);
+                }
+            };
+
+            currentUtterance.onerror = function() {
+                progressBar.style.width = '0%';
+                setActiveBlock(-1);
+            };
+
+            synth.speak(currentUtterance);
+        }
+
+        // 设置激活句子块
+        function setActiveBlock(index) {
+            activeIndex = index;
+            document.querySelectorAll('.sentence-block').forEach((block, i) => {
+                const progressBar = block.querySelector('.progress-bar');
+                progressBar.style.width = '0%';
+                if (i === index) {
+                    block.classList.add('active');
+                    // 滚动至视野中
+                    block.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                } else {
+                    block.classList.remove('active');
+                }
+            });
+        }
+
+        // 事件监听设置
+        rateRange.addEventListener('input', () => {
+            rateValue.textContent = `${rateRange.value}x`;
+            // 如果正在朗读，重新朗读当前句子以应用新语速
+            if (synth.speaking && activeIndex !== -1) {
+                speak(activeIndex);
+            }
+        });
+
+        stopBtn.addEventListener('click', () => {
+            synth.cancel();
+            setActiveBlock(-1);
+        });
+
+        // 自动加载语音（解决 Chrome 和 Safari 的异步加载问题）
+        if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = loadVoices;
+        }
+
+        // 页面初始化
+        renderText();
+        setTimeout(loadVoices, 200);
+    </script>
+</body>
+</html>
