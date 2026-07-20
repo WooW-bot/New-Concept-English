@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lesson 59: Collecting - 智能跟读课本</title>
+    <title>Lesson 58: A Spot of Bother - 智能跟读课本</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -150,280 +150,114 @@
 
         input[type="range"]::-webkit-slider-thumb:hover {
             transform: scale(1.2);
+            background: var(--text-primary);
         }
 
-        /* 模式选项行 */
         .modes-row {
             display: flex;
             flex-wrap: wrap;
             gap: 1.5rem;
-            padding-top: 1rem;
+            padding-top: 0.4rem;
             border-top: 1px solid rgba(255, 255, 255, 0.06);
         }
 
-        /* Removed btn-panel classes since stop button is in player bottom bar */
-
-        button {
-            flex: 1;
-            background: var(--accent-color);
-            color: #0f172a;
-            border: none;
-            border-radius: 8px;
-            padding: 0.7rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
+        .checkbox-container {
             display: flex;
             align-items: center;
-            justify-content: center;
-            gap: 0.4rem;
-        }
-
-        button:hover {
-            background: var(--accent-hover);
-            transform: translateY(-1px);
-        }
-
-        button.secondary {
-            background: rgba(148, 163, 184, 0.1);
-            color: var(--text-primary);
-            border: 1px solid var(--card-border);
-        }
-
-        button.secondary:hover {
-            background: rgba(148, 163, 184, 0.2);
-        }
-
-        /* 进度展示面板 */
-        .progress-panel {
-            background: rgba(15, 23, 42, 0.92);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 16px 16px 0 0;
-            padding: 0;
-            width: 100%;
-            max-width: 900px;
-            position: fixed;
-            bottom: 0;
-            left: 50%;
-            transform: translateX(-50%);
-            z-index: 1000;
-            display: flex;
-            flex-direction: column;
-            box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.5);
-            overflow: hidden;
-        }
-
-        .overall-progress-container {
-            width: 100%;
-            height: 4px;
-            background: rgba(255, 255, 255, 0.1);
-            position: relative;
-        }
-
-        .overall-progress-bar {
-            height: 100%;
-            width: 0%;
-            background: linear-gradient(to right, var(--accent-color), #818cf8);
-            transition: width 0.3s ease;
-        }
-
-        .progress-controls-row {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0.8rem 1.5rem;
-            gap: 1rem;
-        }
-
-        .time-display {
-            font-size: 1rem;
-            font-weight: 600;
-            color: var(--text-primary);
-            font-family: monospace;
-            white-space: nowrap;
-        }
-
-        .media-controls {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-        }
-
-        .media-btn {
-            background: transparent;
-            border: none;
-            color: var(--text-primary);
-            cursor: pointer;
-            padding: 8px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.2s ease;
-            width: 40px;
-            height: 40px;
-        }
-
-        .media-btn:hover {
-            background: rgba(255, 255, 255, 0.1);
-            color: var(--accent-color);
-            transform: scale(1.1);
-        }
-
-        .media-btn:active {
-            transform: scale(0.95);
-        }
-
-        #play-btn {
-            background: var(--accent-color);
-            color: #0f172a;
-        }
-
-        #play-btn:hover {
-            background: var(--accent-hover);
-            color: #0f172a;
-        }
-
-        .status-indicator {
-            font-size: 0.85rem;
+            gap: 0.5rem;
+            font-size: 0.9rem;
             color: var(--text-secondary);
-            text-align: right;
-            min-width: 80px;
+            cursor: pointer;
+            user-select: none;
+            transition: color 0.2s ease;
         }
 
-        /* 句子列表 */
+        .checkbox-container:hover {
+            color: var(--text-primary);
+        }
+
+        .checkbox-container input[type="checkbox"] {
+            accent-color: var(--accent-color);
+            width: 15px;
+            height: 15px;
+            cursor: pointer;
+        }
+
+        /* 课文主体 */
         .text-container {
             width: 100%;
             max-width: 900px;
             display: flex;
             flex-direction: column;
-            gap: 1rem;
+            gap: 1.2rem;
+            margin-bottom: 2rem;
         }
 
         .sentence-block {
             background: var(--card-bg);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
             border: 1px solid var(--card-border);
-            border-radius: 12px;
-            padding: 1.2rem;
+            border-radius: 14px;
+            padding: 1.2rem 1.5rem;
             cursor: pointer;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
 
         .sentence-block:hover {
-            transform: scale(1.01) translateY(-2px);
+            transform: translateY(-2px);
             border-color: rgba(56, 189, 248, 0.3);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+            background: rgba(30, 41, 59, 0.9);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
         }
 
         .sentence-block.active {
-            background: var(--highlight-bg);
+            background: rgba(30, 41, 59, 0.95);
             border-color: var(--highlight-border);
             box-shadow: 0 0 20px rgba(56, 189, 248, 0.15);
         }
 
-        .sentence-block::before {
+        .sentence-block.active::before {
             content: '';
             position: absolute;
             left: 0;
             top: 0;
-            height: 100%;
+            bottom: 0;
             width: 4px;
             background: var(--accent-color);
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-
-        .sentence-block.active::before {
-            opacity: 1;
-        }
-
-        /* 句子结构语法分析样式 */
-        .syntax-toggle {
-            align-self: flex-start;
-            font-size: 0.8rem;
-            color: var(--accent-color);
-            background: rgba(56, 189, 248, 0.08);
-            border: 1px dashed rgba(56, 189, 248, 0.3);
-            border-radius: 6px;
-            padding: 4px 10px;
-            cursor: pointer;
-            margin-top: 4px;
-            user-select: none;
-            transition: all 0.2s ease;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-
-        .syntax-toggle:hover {
-            background: rgba(56, 189, 248, 0.15);
-            border-style: solid;
-        }
-
-        .syntax-content {
-            display: none;
-            font-size: 0.9rem;
-            line-height: 1.5;
-            color: var(--text-zh);
-            background: rgba(15, 23, 42, 0.3);
-            border-left: 3px solid var(--accent-color);
-            padding: 10px 12px;
-            border-radius: 4px;
-            margin-top: 6px;
-            width: 100%;
-            animation: fadeIn 0.3s ease;
-        }
-
-        .syntax-content p {
-            margin-bottom: 6px;
-        }
-
-        .syntax-content ul {
-            padding-left: 18px;
-        }
-
-        .syntax-content li {
-            margin-bottom: 4px;
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(-5px); }
-            to { opacity: 1; transform: translateY(0); }
+            border-radius: 2px 0 0 2px;
         }
 
         .en {
-            font-size: 1.2rem;
-            line-height: 1.6;
-            margin-bottom: 0.5rem;
+            font-size: 1.25rem;
+            line-height: 1.7;
             font-weight: 400;
-            letter-spacing: 0.01em;
             color: var(--text-primary);
         }
 
-        .sentence-block.active .en {
-            color: #fff;
+        .zh {
+            font-size: 1.05rem;
+            line-height: 1.6;
+            color: var(--text-zh);
+            font-weight: 300;
         }
 
-        /* 单个单词交互样式 */
         .word {
             display: inline-block;
             cursor: pointer;
-            transition: all 0.15s ease;
             border-radius: 4px;
             padding: 0 2px;
-            margin: 0 -1px;
+            transition: all 0.15s ease;
         }
 
         .word:hover {
+            background-color: var(--highlight-bg);
             color: var(--accent-color);
-            background: rgba(56, 189, 248, 0.15);
-            text-decoration: underline;
+            transform: translateY(-1px);
         }
 
         /* 悬浮单词释义卡片 */
@@ -489,103 +323,202 @@
             font-weight: 400;
         }
 
-        .word.word-highlight {
-            color: #0f172a !important;
-            background: var(--accent-color) !important;
+        .word-highlight {
+            color: var(--accent-color);
             font-weight: 600;
-            box-shadow: 0 0 8px var(--accent-color);
         }
 
-        .zh {
-            font-size: 0.95rem;
-            color: var(--text-zh);
-            line-height: 1.5;
-        }
-
-        /* 朗读进度条 */
+        /* 隐藏单句底部的进度条，跟读时无需显示 */
         .progress-bar {
             display: none;
         }
 
-        /* 播放提示悬浮球 */
         .speak-indicator {
             position: absolute;
             right: 1.2rem;
             top: 50%;
-            transform: translateY(-50%);
-            width: 32px;
-            height: 32px;
-            border-radius: 50%;
-            background: rgba(56, 189, 248, 0.1);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: var(--accent-color);
+            transform: translateY(-50%) scale(0.8);
             opacity: 0;
+            color: var(--accent-color);
             transition: all 0.3s ease;
-        }
-
-        .sentence-block:hover .speak-indicator {
-            opacity: 1;
         }
 
         .sentence-block.active .speak-indicator {
             opacity: 1;
-            background: var(--accent-color);
-            color: #0f172a;
-            animation: pulse 1.5s infinite;
+            transform: translateY(-50%) scale(1);
         }
 
-        @keyframes pulse {
-            0% { transform: translateY(-50%) scale(1); }
-            50% { transform: translateY(-50%) scale(1.1); }
-            100% { transform: translateY(-50%) scale(1); }
-        }
-
-        .badge {
-            background: rgba(56, 189, 248, 0.15);
+        /* 句子结构语法分析样式 */
+        .syntax-toggle {
+            align-self: flex-start;
+            font-size: 0.8rem;
             color: var(--accent-color);
-            font-size: 0.75rem;
-            padding: 0.2rem 0.5rem;
-            border-radius: 4px;
-            margin-bottom: 0.5rem;
-            display: inline-block;
-            font-weight: 600;
-        }
-
-        .checkbox-container {
-            display: flex;
-            align-items: center;
-            gap: 0.6rem;
-            color: var(--text-secondary);
-            font-size: 0.85rem;
+            background: rgba(56, 189, 248, 0.08);
+            border: 1px dashed rgba(56, 189, 248, 0.3);
+            border-radius: 6px;
+            padding: 4px 10px;
             cursor: pointer;
-            transition: color 0.2s ease;
+            margin-top: 4px;
+            user-select: none;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
         }
 
-        .checkbox-container:hover {
+        .syntax-toggle:hover {
+            background: rgba(56, 189, 248, 0.15);
+            border-style: solid;
+        }
+
+        .syntax-content {
+            display: none;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            color: var(--text-zh);
+            background: rgba(15, 23, 42, 0.3);
+            border-left: 3px solid var(--accent-color);
+            padding: 10px 12px;
+            border-radius: 4px;
+            margin-top: 6px;
+            width: 100%;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .syntax-content p {
+            margin-bottom: 6px;
+        }
+
+        .syntax-content ul {
+            padding-left: 18px;
+        }
+
+        .syntax-content li {
+            margin-bottom: 4px;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* 底部悬浮媒体控制中心 */
+        .progress-panel {
+            position: fixed;
+            bottom: 1.2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            width: calc(100% - 2rem);
+            max-width: 700px;
+            background: rgba(15, 23, 42, 0.75);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 1rem 1.5rem;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+            animation: slideUp 0.5s ease;
+        }
+
+        @keyframes slideUp {
+            from { transform: translate(-50%, 100px); opacity: 0; }
+            to { transform: translate(-50%, 0); opacity: 1; }
+        }
+
+        .overall-progress-container {
+            width: 100%;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .overall-progress-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, var(--accent-color), #818cf8);
+            transition: width 0.1s linear;
+        }
+
+        .progress-controls-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .time-display {
+            font-size: 0.95rem;
+            font-variant-numeric: tabular-nums;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .time-display span {
             color: var(--text-primary);
         }
 
-        .checkbox-container input {
-            accent-color: var(--accent-color);
-            cursor: pointer;
-            width: 15px;
-            height: 15px;
+        .media-controls {
+            display: flex;
+            gap: 1.2rem;
         }
 
-        @media (max-width: 768px) {
-            .progress-panel { flex-direction: column; align-items: stretch; gap: 0.8rem; border-radius: 0; }
+        .media-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            cursor: pointer;
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+        }
+
+        .media-btn:hover {
+            color: var(--accent-color);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .media-btn#play-btn {
+            background: var(--accent-color);
+            color: var(--bg-color);
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.3);
+        }
+
+        .media-btn#play-btn:hover {
+            background: var(--accent-hover);
+            transform: scale(1.05);
+        }
+
+        .status-indicator {
+            font-size: 0.85rem;
+            color: var(--accent-color);
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .settings-row { grid-template-columns: 1fr 1fr; }
             .modes-row { gap: 1rem; }
+            .sentence-block { padding: 1rem; }
+            .en { font-size: 1.1rem; }
+            .zh { font-size: 0.95rem; }
         }
     </style>
 </head>
 <body>
 
     <header>
-        <span class="badge">New Concept English 3</span>
-        <h1>Lesson 59: Collecting</h1>
-        <p class="subtitle">点击整句可进行句意朗读；点击任意单词可单独听其发音</p>
+        <h1>Lesson 58: A Spot of Bother</h1>
+        <p class="subtitle">第 58 课：一点小麻烦</p>
     </header>
 
     <section class="control-panel">
@@ -635,6 +568,10 @@
         </div>
     </section>
 
+    <main class="text-container" id="text-container">
+        <!-- 句子将被 JS 渲染在此处 -->
+    </main>
+
     <section class="progress-panel">
         <div class="overall-progress-container">
             <div class="overall-progress-bar" id="overall-progress-bar"></div>
@@ -660,136 +597,246 @@
         </div>
     </section>
 
-    <main class="text-container" id="text-container">
-        <!-- 句子将被 JS 渲染在此处 -->
-    </main>
-
     <script>
         const articles = [
             {
-                en: "Lesson 59: Collecting",
-                zh: "第 59 课：收藏"
+                en: "Lesson 58: A Spot of Bother",
+                zh: "第 58 课：一点小麻烦"
             },
             {
-                en: "People tend to amass possessions, sometimes without being aware of doing so.",
-                zh: "人们往往会积攒物品，有时甚至自己都没有意识到。"
-            },
-            {
-                en: "Indeed they can have a delightful surprise when they find something useful which they did not know they owned.",
-                zh: "事实上，当他们发现自己竟拥有某件有用的东西而此前却一无所知时，会感到一种意外的惊喜。"
-            },
-            {
-                en: "Those who never have to move house become indiscriminate collectors of what can only be described as clutter.",
-                zh: "那些从不需要搬家的人，会不加选择地收集各种只能被称作“杂物”的东西。"
-            },
-            {
-                en: "They leave unwanted objects in drawers, cupboards and attics for years, in the belief that they may one day need just those very things.",
-                zh: "他们把不需要的物品留在抽屉、橱柜和阁楼里，一放就是多年，总以为有一天会用得上这些东西。"
-            },
-            {
-                en: "As they grow old, people also accumulate belongings for two other reasons, lack of physical and mental energy, both of which are essential in turning out and throwing away, and sentiment.",
-                zh: "随着年龄的增长，人们还会因为另外两个原因而积攒物品：一是缺乏清理和丢弃物品所必需的精力和体力，二是出于情感因素。"
-            },
-            {
-                en: "Things owned for a long time are full of associations with the past, perhaps with relatives who are dead, and so they gradually acquire a value beyond their true worth.",
-                zh: "长期拥有的物品充满了与过去的回忆，或许是与已故亲人的联系，因此它们逐渐获得了一种超越其本身价值的意义。"
-            },
-            {
-                en: "Some things are collected deliberately in the home in an attempt to avoid waste.",
-                zh: "有些东西被刻意地留在家里，是为了避免浪费。"
-            },
-            {
-                en: "Among these I would list string and brown paper, kept by thrifty people when a parcel has been opened, to save buying these two requisites.",
-                zh: "在这些东西中，我会列出绳子和包装纸，节俭的人在拆开包裹后会把它们留下来，以省去购买这两样必需品的开销。"
-            },
-            {
-                en: "Collecting small items can easily become a mania.",
-                zh: "收集小物件很容易变成一种癖好。"
-            },
-            {
-                en: "I know someone who always cuts sketches out from newspapers of model clothes that she would like to buy if she had the money.",
-                zh: "我认识一个人，她总是把报纸上那些她有钱就想买的时装草图剪下来。"
-            },
-            {
-                en: "As she is not rich, the chances that she will ever be able to afford such purchases are remote; but she is never sufficiently strongminded to be able to stop the practice.",
-                zh: "由于她并不富有，她能买得起这些东西的可能性微乎其微；但她又不够坚决，无法停止这种做法。"
-            },
-            {
-                en: "It is a harmless habit, but it litters up her desk to such an extent that every time she opens it, loose bits of paper fall out in every direction.",
-                zh: "这是一种无害的习惯，但却把她的书桌弄得乱七八糟，以至于每次她打开书桌，零散的纸片就会四处散落。"
-            },
-            {
-                en: "Collecting as a serious hobby is quite different and has many advantages.",
-                zh: "作为一种严肃的爱好，收藏则完全不同，而且有很多好处。"
-            },
-            {
-                en: "It provides relaxation for leisure hours, as just looking at one's treasures is always a joy.",
-                zh: "它为闲暇时光提供了放松，因为仅仅是看着自己的宝贝总是一种乐趣。"
-            },
-            {
-                en: "One does not have to go outside for amusement, since the collection is housed at home.",
-                zh: "人们不必出门寻找娱乐，因为收藏品就存放在家里。",
+                en: "The old lady was glad to be back at the block of flats where she lived.",
+                zh: "这位老太太很高兴回到了她居住的那栋公寓楼。",
                 syntax: {
-                    main: "One (主语) + does not have to go (谓语) + outside (状语)",
+                    main: "The old lady (主语) + was (系动词) + glad (表语)",
                     components: [
-                        { part: "for amusement", role: "目的状语。" },
-                        { part: "since the collection is housed at home", role: "since 引导原因状语从句。其中 is housed 为被动语态。" }
+                        { part: "to be back...", role: "不定式短语作原因状语，修饰形容词 glad。" },
+                        { part: "where she lived", role: "定语从句，修饰 flats。其中 where 为关系副词，在从句中作地点状语。" }
                     ]
                 }
             },
             {
-                en: "Whatever it consists of, stamps, records, first editions of books, china, glass, antique furniture, pictures, model cars, stuffed birds, toy animals, there is always something to do in connection with it, from finding the right place for the latest addition, to verifying facts in reference books.",
-                zh: "无论收藏的是什么——邮票、唱片、书籍初版、瓷器、玻璃制品、古董家具、画作、汽车模型、鸟类标本还是玩具动物——总有与之相关的事情可做，从为新添的藏品寻找合适的位置，到在参考书中核实相关事实。",
+                en: "Her shopping had tired her and her basket had grown heavier with every step of the way home.",
+                zh: "购物使她感到疲惫，而且回家的路上，她每走一步，篮子就显得越发沉重。",
                 syntax: {
-                    main: "there (引导词) + is (谓语) + something (主语) + to do (后置定语)",
+                    main: "由 and 连接的两个并列分句",
                     components: [
-                        { part: "Whatever it consists of...", role: "Whatever 引导让步状语从句， staps... 等名词为其同位语。" },
-                        { part: "in connection with it", role: "介词短语作后置定语修饰 something。" },
-                        { part: "from finding... to verifying...", role: "介词短语作补充状语，表示范围的延伸。" }
+                        { part: "分句1：Her shopping had tired her", role: "主谓宾结构。shopping (主) + had tired (谓) + her (宾)。" },
+                        { part: "分句2：her basket had grown heavier", role: "主系表结构。basket (主) + had grown (系) + heavier (表)。" },
+                        { part: "with every step...", role: "介词短语作状语，表示伴随状态及程度变化。" }
                     ]
                 }
             },
             {
-                en: "This hobby educates one not only in the chosen subject, but also in general matters which have some bearing on it.",
-                zh: "这种爱好不仅能让人在所选领域获得知识，还能让人了解与之相关的一般性知识。",
+                en: "In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor, both were forgotten in her sudden discovery that her front door was open.",
+                zh: "在电梯里，她想着午饭和好好休息一下；但当她在自己那一层走出电梯时，她突然发现房门大开，于是把这两件事全忘了。",
                 syntax: {
-                    main: "This hobby (主语) + educates (谓语) + one (宾语)",
+                    main: "由 but 连接的并列复合句",
                     components: [
-                        { part: "not only in the chosen subject, but also in general matters", role: "并列结构作范围状语。" },
-                        { part: "which have some bearing on it", role: "which 引导定语从句，修饰 general matters。" }
+                        { part: "主句1：her thoughts were on lunch...", role: "thoughts (主) + were (谓) + on lunch... (状)。" },
+                        { part: "主句2：both were forgotten...", role: "both (主) + were forgotten (谓，被动语态)。" },
+                        { part: "when she got out...", role: "时间状语从句，修饰主句2。" },
+                        { part: "that her front door was open", role: "同位语从句，解释说明名词 discovery 的具体内容。" }
                     ]
                 }
             },
             {
-                en: "There are also other benefits.",
-                zh: "还有其他好处。",
+                en: "She was thinking that she must reprimand her home help the next morning for such a monstrous piece of negligence, when she remembered that she had gone shopping after the home help had left and she knew that she had turned both keys in their locks.",
+                zh: "她正想着第二天早上一定要责备她的家政助理如此粗心大意，这时她想起自己是在家政助理离开后才去购物的，而且她记得自己当时把两把锁都锁上了。",
                 syntax: {
-                    main: "There (引导词) + are (谓语) + other benefits (主语)"
+                    main: "She (主) + was thinking (谓) + that宾语从句",
+                    components: [
+                        { part: "that she must reprimand...", role: "作 thinking 的宾语从句。" },
+                        { part: "when she remembered...", role: "when 引导时间状语从句，表示“就在这时（突然发生某事）”。" },
+                        { part: "that she had gone shopping...", role: "作 remembered 的宾语从句。" },
+                        { part: "after the home help had left", role: "时间状语从句，修饰 had gone shopping。" },
+                        { part: "and she knew that...", role: "并列的从属主句。that 从句作 knew 的宾语从句。" }
+                    ]
                 }
             },
             {
-                en: "One wants to meet like-minded collectors, to get advice, to compare notes, to exchange articles, to show off the latest find.",
-                zh: "人们想要结识志同道合的收藏者，寻求建议、交流心得、交换藏品、炫耀最新的收获。"
+                en: "She walked slowly into the hall and at once noticed that all the room doors were open, yet following her regular practice she had shut them before going out.",
+                zh: "她慢慢走进门厅，立刻注意到所有的房门都开着，然而按照惯例，她在出门前是把它们都关好的。",
+                syntax: {
+                    main: "由 yet 连接的并列句",
+                    components: [
+                        { part: "分句1：She walked... and noticed that...", role: "walked 与 noticed 是并列谓语，that 从句作 noticed 的宾语从句。" },
+                        { part: "分句2：she had shut them before going out", role: "she (主) + had shut (谓) + them (宾)。" },
+                        { part: "following her regular practice", role: "现在分词短语作伴随状语。" },
+                        { part: "before going out", role: "介词短语作时间状语。" }
+                    ]
+                }
             },
             {
-                en: "So one's circle of friends grows.",
-                zh: "于是，朋友圈子就扩大了。"
+                en: "Looking into the drawing room, she saw a scene of confusion over by her writing desk.",
+                zh: "她朝客厅里望去，看到写字台那边一片狼藉。",
+                syntax: {
+                    main: "she (主) + saw (谓) + a scene of confusion (宾)",
+                    components: [
+                        { part: "Looking into...", role: "现在分词短语作时间/伴随状语。" },
+                        { part: "over by her writing desk", role: "介词短语作后置定语，修饰 confusion。" }
+                    ]
+                }
             },
             {
-                en: "Soon the hobby leads to travel, perhaps to a meeting in another town, possibly a trip abroad in search of a rare specimen, for collectors are not confined to any one country.",
-                zh: "很快，这种爱好会促使人们去旅行，或许是去另一个城市参加聚会，或许是去国外寻找稀有的藏品，因为收藏者并不局限于任何一个国家。"
+                en: "It was as clear as daylight then that burglars had forced an entry during her absence.",
+                zh: "那时她完全明白了，在她外出期间，窃贼强行闯入了家中。",
+                syntax: {
+                    main: "It (形式主语) + was (系) + as clear as daylight (表) + that主语从句 (真正主语)",
+                    components: [
+                        { part: "that burglars had forced...", role: "that 引导的从句是真正的主语，it 仅作形式主语。" },
+                        { part: "during her absence", role: "介词短语作时间状语。" }
+                    ]
+                }
             },
             {
-                en: "Over the years, one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences.",
-                zh: "多年以后，一个人很可能会成为自己爱好领域的权威，并很可能被邀请在小型聚会上做非正式演讲，如果成功的话，还会被邀请向更多的听众演讲。"
+                en: "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement.",
+                zh: "她的第一反应是到各个房间去搜寻窃贼，但随后她觉得以自己的年纪，找个人陪同会更稳妥些，于是她去地下室找来了门房。",
+                syntax: {
+                    main: "由 but 和 so 连接的并列复合句",
+                    components: [
+                        { part: "分句1：Her first impulse was to go...", role: "to go round... 不定式短语作表语；looking for... 现在分词作目的状语。" },
+                        { part: "分句2：she decided that...", role: "that 从句作 decided 的宾语从句。从句中 it 为形式主语，真正主语是 to have someone with her。" },
+                        { part: "分句3：she went to fetch the porter...", role: "so 引导结果状语分句。to fetch... 不定式短语作目的状语。" }
+                    ]
+                }
             },
             {
-                en: "In this way self-confidence grows, first from mastering a subject, then from being able to talk about it.",
-                zh: "通过这种方式，自信心增强了，首先来自于对某一学科的精通，然后来自于能够谈论它。"
+                en: "By this time her legs were beginning to tremble, so she sat down and accepted a cup of very strong tea, while he telephoned the police.",
+                zh: "这时她的双腿开始发抖，于是她坐下来喝了一杯浓茶，而门房则打电话报了警。",
+                syntax: {
+                    main: "由 so 引导的并列结果句",
+                    components: [
+                        { part: "分句1：her legs were beginning to tremble", role: "legs (主) + were beginning (谓) + to tremble (宾，不定式)。" },
+                        { part: "分句2：she sat down and accepted a cup...", role: "she (主) + 并列谓语 (sat down, accepted) + cup (宾)。" },
+                        { part: "while he telephoned...", role: "while 引导时间状语从句，表示对比或伴随动作。" }
+                    ]
+                }
             },
             {
-                en: "Collecting, by occupying spare time so constructively, makes a person contented, with no time for boredom.",
-                zh: "收藏通过如此有建设性地占用业余时间，使人感到满足，没有时间去感到无聊。"
+                en: "Then, her composure regained, she was ready to set off with the porter's assistance to search for any intruders who might still be lurking in her flat.",
+                zh: "随后，她恢复了镇定，准备在门房的协助下出发，搜寻可能仍潜伏在她公寓里的入侵者。",
+                syntax: {
+                    main: "she (主) + was (系) + ready (表) + to set off (状)",
+                    components: [
+                        { part: "her composure regained", role: "独立主格结构，表示伴随状态或时间。" },
+                        { part: "to search for...", role: "不定式短语作目的状语。" },
+                        { part: "who might still be lurking...", role: "who 引导定语从句，修饰先行词 intruders。" }
+                    ]
+                }
+            },
+            {
+                en: "They went through the rooms, being careful to touch nothing, as they did not want to hinder the police in their search for fingerprints.",
+                zh: "他们走遍了各个房间，小心翼翼地什么都不碰，因为他们不想妨碍警察寻找指纹。",
+                syntax: {
+                    main: "They (主) + went through (谓) + the rooms (宾)",
+                    components: [
+                        { part: "being careful to touch nothing", role: "现在分词短语作伴随状语。" },
+                        { part: "as they did not want...", role: "as 引导原因状语从句。" },
+                        { part: "in their search for...", role: "介词短语作后置定语或目的状语。" }
+                    ]
+                }
+            },
+            {
+                en: "The chaos was inconceivable.",
+                zh: "屋里乱得难以想象。",
+                syntax: {
+                    main: "The chaos (主) + was (系) + inconceivable (表)"
+                }
+            },
+            {
+                en: "She had lived in the flat for thirty years and was a veritable magpie at hoarding: and it seemed as though everything she possessed had been tossed out and turned over and over.",
+                zh: "她在这套公寓里住了三十年，是个十足的“积攒狂”：看起来她所有的东西都被翻了出来，翻得底朝天。",
+                syntax: {
+                    main: "由并列连接符 : 连接的并列复合句",
+                    components: [
+                        { part: "分句1：She had lived... and was...", role: "She 为主语，had lived (谓) 与 was (系) 并列。for thirty years 作时间状语。" },
+                        { part: "分句2：it seemed as though...", role: "it (主) + seemed (谓) + as though 引导的表语从句。" },
+                        { part: "everything she possessed had been...", role: "she possessed 是省略了关系代词的定语从句，修饰 everything。" }
+                    ]
+                }
+            },
+            {
+                en: "At least sorting out the things she should have discarded years ago was now being made easier for her.",
+                zh: "至少，清理那些她多年前就该扔掉的东西现在变得容易了。",
+                syntax: {
+                    main: "sorting out... (动名词作主语) + was now being made (谓，进行被动) + easier (表，宾补移位)",
+                    components: [
+                        { part: "sorting out the things", role: "动名词短语在主句中作主语。" },
+                        { part: "she should have discarded...", role: "定语从句修饰 things。should have + 过去分词表示“本该做某事（但没做）”，带虚拟语气。" }
+                    ]
+                }
+            },
+            {
+                en: "Then a police inspector arrived with a constable and she told them of her discovery of the ransacked flat.",
+                zh: "接着，一位警督带着一名警员赶到了，她向他们讲述了自己发现公寓被洗劫一事。",
+                syntax: {
+                    main: "由 and 连接的并列主从句",
+                    components: [
+                        { part: "分句1：a police inspector arrived", role: "arrived (谓)，with a constable 作伴随状语。" },
+                        { part: "分句2：she told them of...", role: "she (主) + told (谓) + them (宾) + of her discovery (状)。" }
+                    ]
+                }
+            },
+            {
+                en: "The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby proving that the burglars had either used skeleton keys or entered over the balcony.",
+                zh: "警督开始寻找指纹，而警员则检查了前门的锁是否被撬过，从而证明窃贼要么是用了万能钥匙，要么是从阳台闯入的。",
+                syntax: {
+                    main: "The inspector (主) + began (谓) + to look for... (宾)",
+                    components: [
+                        { part: "while the constable checked...", role: "while 引导时间/对比状语从句。" },
+                        { part: "that the front door locks...", role: "that 引导宾语从句作 checked 的宾语。" },
+                        { part: "thereby proving that...", role: "现在分词短语作伴随结果状语。that 从句作 proving 的宾语从句。" }
+                    ]
+                }
+            },
+            {
+                en: "There was no trace of fingerprints, but the inspector found a dirty red bundle that contained jewellery which the old lady said was not hers.",
+                zh: "现场没有留下指纹，但警督发现了一个肮脏的红色包裹，里面装着一些珠宝，老太太说那不是她的。",
+                syntax: {
+                    main: "由 but 连接的并列句",
+                    components: [
+                        { part: "分句1：There was no trace...", role: "there be 存在句，no trace 为主语。" },
+                        { part: "分句2：the inspector found a bundle", role: "inspector (主) + found (谓) + bundle (宾)。" },
+                        { part: "that contained jewellery...", role: "that 引导定语从句，修饰 bundle。" },
+                        { part: "which the old lady said was not hers", role: "which 引导定语从句修饰 jewellery，其中 the old lady said 为插入语。" }
+                    ]
+                }
+            },
+            {
+                en: "So their entry into this flat was apparently not the burglars' first job that day and they must have been disturbed.",
+                zh: "看来他们闯入这套公寓显然不是当天作的第一起案子，而且他们一定是被人惊动了。",
+                syntax: {
+                    main: "由 and 连接的并列句",
+                    components: [
+                        { part: "分句1：their entry... was not the first job", role: "entry (主) + was (系) + job (表)。into this flat 作定语。" },
+                        { part: "分句2：they must have been disturbed", role: "they (主) + must have been disturbed (推测性被动谓语)。" }
+                    ]
+                }
+            },
+            {
+                en: "The inspector then asked the old lady to try to check what was missing by the next day, and advised her not to stay alone in the flat for a few nights.",
+                zh: "警督随后请老太太尽量在第二天前核对一下丢失了什么东西，并建议她这几天晚上不要独自待在公寓里。",
+                syntax: {
+                    main: "The inspector (主) + 并列谓语 (asked, advised)",
+                    components: [
+                        { part: "asked the old lady to try...", role: "the old lady (宾) + to try... (宾补，复合宾语结构)。" },
+                        { part: "what was missing", role: "宾语从句，作 check 的宾语。" },
+                        { part: "advised her not to stay...", role: "her (宾) + not to stay... (宾补)。" }
+                    ]
+                }
+            },
+            {
+                en: "The old lady thought he was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she described as a little spot of bother.",
+                zh: "老太太觉得他真是个爱操心的人，但既然门房也同意他的看法，她便给女儿打了电话，请她来帮自己处理她所说的“一点小麻烦”。",
+                syntax: {
+                    main: "由 but 连接的并列复合句",
+                    components: [
+                        { part: "分句1：The old lady thought...", role: "thought 的宾语是省略了 that 的宾语从句 he was a fussy creature。" },
+                        { part: "since the porter agreed...", role: "since 引导原因状语从句。" },
+                        { part: "分句2：she rang up... and asked for...", role: "she (主) + 并列谓语 (rang up, asked for) + 宾语。" },
+                        { part: "in what she described as...", role: "what 引导的名词性从句，作介词 in 的宾语。" }
+                    ]
+                }
             }
         ];
 
@@ -1237,6 +1284,7 @@
             synth.speak(currentUtterance);
         }
 
+        // 激活状态句块高亮与滚动定位
         function setActiveBlock(index) {
             activeIndex = index;
             document.querySelectorAll('.sentence-block').forEach((block, i) => {
