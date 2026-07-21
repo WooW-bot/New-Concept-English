@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 57: Back in the Old Country - 智能跟读课本</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-zh: #cbd5e1;
+            --accent-color: #38bdf8;
+            --accent-hover: #0ea5e9;
+            --highlight-bg: rgba(56, 189, 248, 0.15);
+            --highlight-border: #38bdf8;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.08) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(99, 102, 241, 0.08) 0px, transparent 50%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem 1rem 6.5rem 1rem;
+        }
+
+        header {
+            width: 100%;
+            max-width: 900px;
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        /* 课文主体 */
+        .text-container {
+            width: 100%;
+            max-width: 900px;
+            display: flex;
+            flex-direction: column;
+            gap: 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        .sentence-block {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 14px;
+            padding: 1.2rem 1.5rem;
+            
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .sentence-block.active {
+            background: rgba(56, 189, 248, 0.12);
+            border-color: var(--accent-color);
+            box-shadow: 0 0 20px rgba(56, 189, 248, 0.2), 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        .sentence-block.active::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(to bottom, #38bdf8, #818cf8);
+            border-radius: 4px 0 0 4px;
+        }
+
+        .en {
+            font-size: 1.25rem;
+            line-height: 1.7;
+            font-weight: 400;
+            color: var(--text-primary);
+        }
+
+        .zh {
+            font-size: 1.05rem;
+            line-height: 1.6;
+            color: var(--text-zh);
+            font-weight: 300;
+        }
+
+        .word {
+            display: inline-block;
+            
+            border-radius: 4px;
+            padding: 0 2px;
+            transition: all 0.15s ease;
+            cursor: pointer;
+        }
+
+        .word:hover {
+            background-color: var(--highlight-bg);
+            color: var(--accent-color);
+            transform: translateY(-1px);
+        }
+
+        /* 悬浮单词释义卡片 */
+        .dict-tooltip {
+            position: absolute;
+            background: rgba(15, 23, 42, 0.98);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 10px;
+            padding: 10px 14px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+            color: var(--text-primary);
+            z-index: 2000;
+            pointer-events: none;
+            display: none;
+            opacity: 0;
+            transform: translateY(5px);
+            transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1), transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            min-width: 180px;
+            max-width: 260px;
+            line-height: 1.4;
+        }
+        
+        .dict-tooltip.visible {
+            display: block;
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .dict-word-row {
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+            margin-bottom: 4px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            padding-bottom: 4px;
+        }
+
+        .dict-tooltip-word {
+            font-weight: 700;
+            color: var(--accent-color);
+            font-size: 1.05rem;
+        }
+
+        .dict-tooltip-ipa {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .dict-tooltip-pos {
+            font-size: 0.75rem;
+            color: #818cf8;
+            font-style: italic;
+            margin-bottom: 6px;
+            font-weight: 500;
+        }
+
+        .dict-tooltip-trans {
+            color: var(--text-zh);
+            font-size: 0.9rem;
+            font-weight: 400;
+        }
+
+        /* 句子结构语法分析样式 */
+        .syntax-toggle {
+            align-self: flex-start;
+            font-size: 0.8rem;
+            color: var(--accent-color);
+            background: rgba(56, 189, 248, 0.08);
+            border: 1px dashed rgba(56, 189, 248, 0.3);
+            border-radius: 6px;
+            padding: 4px 10px;
+            
+            margin-top: 4px;
+            user-select: none;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            cursor: pointer;
+        }
+
+        .syntax-toggle:hover {
+            background: rgba(56, 189, 248, 0.15);
+            border-style: solid;
+        }
+
+        .syntax-content {
+            display: none;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            color: var(--text-zh);
+            background: rgba(15, 23, 42, 0.3);
+            border-left: 3px solid var(--accent-color);
+            padding: 10px 12px;
+            border-radius: 4px;
+            margin-top: 6px;
+            width: 100%;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .syntax-content p {
+            margin-bottom: 6px;
+        }
+
+        .syntax-content ul {
+            padding-left: 18px;
+        }
+
+        .syntax-content li {
+            margin-bottom: 4px;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* 底部悬浮媒体控制中心 */
+        .progress-panel {
+            position: fixed;
+            bottom: 1.2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            width: calc(100% - 2rem);
+            max-width: 700px;
+            background: rgba(15, 23, 42, 0.75);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 1rem 1.5rem;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+            animation: slideUp 0.5s ease;
+        }
+
+        @keyframes slideUp {
+            from { transform: translate(-50%, 100px); opacity: 0; }
+            to { transform: translate(-50%, 0); opacity: 1; }
+        }
+
+        .overall-progress-container {
+            width: 100%;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .overall-progress-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, var(--accent-color), #818cf8);
+            transition: width 0.1s linear;
+        }
+
+        .progress-controls-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .time-display {
+            font-size: 0.95rem;
+            font-variant-numeric: tabular-nums;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .time-display span {
+            color: var(--text-primary);
+        }
+
+        .media-controls {
+            display: flex;
+            gap: 1.2rem;
+        }
+
+        .media-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+
+        .media-btn:hover {
+            color: var(--accent-color);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .media-btn#play-btn {
+            background: var(--accent-color);
+            color: var(--bg-color);
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.3);
+        }
+
+        .media-btn#play-btn:hover {
+            background: var(--accent-hover);
+            transform: scale(1.05);
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .sentence-block { padding: 1rem; }
+            .en { font-size: 1.1rem; }
+            .zh { font-size: 0.95rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lesson 57: Back in the Old Country</h1>
+        <p class="subtitle">第 57 课：重返故乡</p>
+    </header>
+
+    <main class="text-container" id="text-container">
+        <!-- 句子将被 JS 渲染在此处 -->
+    </main>
+
+    <audio id="audio-player" src="Lesson-57.mp3"></audio>
+
+    <section class="progress-panel">
+        <div class="overall-progress-container" style="cursor: pointer;">
+            <div class="overall-progress-bar" id="overall-progress-bar"></div>
+        </div>
+        <div class="progress-controls-row">
+            <div class="time-display">
+                <span id="elapsed-time">00:00</span> / <span id="total-time">00:00</span>
+            </div>
+            <div class="media-controls" style="display: flex; gap: 8px;">
+                <button id="restart-btn" class="media-btn" title="从头重播" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.1); color: var(--text-primary);">
+                    <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"/><path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"/></svg>
+                </button>
+                <button id="play-btn" class="media-btn" title="播放/暂停">
+                    <svg id="play-icon" width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
+                    <svg id="pause-icon" style="display:none;" width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"/></svg>
+                </button>
+            </div>
+            <div class="skip-control" style="display: flex; align-items: center; gap: 12px;">
+                <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 4px;">
+                    <input type="checkbox" id="skip-question" checked style="cursor: pointer;"> 跳过课前指示与提问
+                </label>
+                <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 4px;">
+                    <input type="checkbox" id="loop-playback" checked style="cursor: pointer;"> 循环播放
+                </label>
+            </div>
+            <div class="speed-control" style="display: flex; align-items: center; gap: 8px;">
+                <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600;">倍速:</label>
+                <select id="speed-select" style="height: 30px; padding: 2px 6px; border-radius: 6px; background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(255,255,255,0.1); color: var(--text-primary); cursor: pointer;">
+                    <option value="0.5">0.5x</option>
+                    <option value="0.6">0.6x</option>
+                    <option value="0.7">0.7x</option>
+                    <option value="0.8">0.8x</option>
+                    <option value="0.9">0.9x</option>
+                    <option value="1.0" selected>1.0x</option>
+                </select>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        const articles = [
+            { start: 0, en: "Lesson 57: Back in the Old Country",
+                zh: "第 57 课：重返故乡"
+            },
+            { start: 13.98, en: "I stopped to let the car cool off and to study the map.",
+                zh: "我停下车，让发动机冷却一下，并研究起地图来。",
+                syntax: {
+                    main: "I (主语) + stopped (谓语)",
+                    components: [
+                        { part: "to let the car cool off", role: "不定式短语作目的状语。" },
+                        { part: "and to study the map", role: "并列的不定式短语作目的状语。" }
+                    ]
+                }
+            },
+            { start: 18.28, en: "I had expected to be near my objective by now, but everything still seemed alien to me.",
+                zh: "我本以为现在应该已经接近目的地了，但周围的一切对我来说依然十分陌生。",
+                syntax: {
+                    main: "由 but 连接的并列复合句",
+                    components: [
+                        { part: "分句1：I had expected to be near...", role: "had expected 表示过去本打算/期望做某事。" },
+                        { part: "分句2：everything still seemed alien to me", role: "everything (主) + seemed (系) + alien (表)。" }
+                    ]
+                }
+            },
+            { start: 25.73, en: "I was only five when my father had taken me abroad, and that was eighteen years ago.",
+                zh: "我父亲带我出国时我才五岁，那已经是十八年前的事了。",
+                syntax: {
+                    main: "由 and 连接的并列句",
+                    components: [
+                        { part: "分句1：I was only five when...", role: "when 引导时间状语从句。" },
+                        { part: "分句2：that was eighteen years ago", role: "that (主) + was (系) + eighteen years ago (表)。" }
+                    ]
+                }
+            },
+            { start: 32.35, en: "When my mother had died after a tragic accident, he did not quickly recover from the shock and loneliness.",
+                zh: "母亲在一场不幸的事故中去世后，父亲很久都没能从悲痛和孤独中恢复过来。",
+                syntax: {
+                    main: "he (主语) + did not quickly recover (谓语) + from the shock and loneliness (状语)",
+                    components: [
+                        { part: "When my mother had died...", role: "When 引导时间状语从句。" },
+                        { part: "after a tragic accident", role: "介词短语作时间状语。" }
+                    ]
+                }
+            },
+            { start: 40.37, en: "Everything around him was full of her presence, continually reopening the wound.",
+                zh: "他周围的一切都充满了母亲的影子，不断地揭开他的伤疤。",
+                syntax: {
+                    main: "Everything around him (主语) + was (系动词) + full of her presence (表语)",
+                    components: [
+                        { part: "continually reopening the wound", role: "现在分词短语作结果/伴随状语。" }
+                    ]
+                }
+            },
+            { start: 46.02, en: "So he decided to emigrate.",
+                zh: "于是他决定移居国外。",
+                syntax: {
+                    main: "he (主语) + decided (谓语) + to emigrate (宾语，不定式)"
+                }
+            },
+            { start: 48.41, en: "In the new country he became absorbed in making a new life for the two of us, so that he gradually ceased to grieve.",
+                zh: "在新的国家，他全身心地投入到为我们俩创造新生活中去，因此他逐渐不再那么悲伤了。",
+                syntax: {
+                    main: "he (主语) + became (系动词) + absorbed (表语)",
+                    components: [
+                        { part: "in making a new life...", role: "介词短语作状语。" },
+                        { part: "so that he gradually ceased to grieve", role: "so that 引导结果状语从句。" }
+                    ]
+                }
+            },
+            { start: 57.04, en: "He did not marry again and I was brought up without a woman's care; but I lacked for nothing, for he was both father and mother to me.",
+                zh: "他没有再婚，我是在没有女性照料的情况下长大的；但我什么都不缺，因为他既是我的父亲，也是我的母亲。",
+                syntax: {
+                    main: "由 but 和 for 连接的复杂并列复合句",
+                    components: [
+                        { part: "分句1：He did not marry again and I was brought up...", role: "并列句，含被动语态 were brought up。" },
+                        { part: "分句2：I lacked for nothing", role: "lacked for nothing (不缺少任何东西)。" },
+                        { part: "for he was both father and mother to me", role: "for 引导原因状语从句。" }
+                    ]
+                }
+            },
+            { start: 66.90, en: "He always meant to go back one day, but not to stay.",
+                zh: "他一直打算有一天回去看看，但不是为了定居。",
+                syntax: {
+                    main: "He (主语) + always meant (谓语) + to go back... (宾语)"
+                }
+            },
+            { start: 70.65, en: "His roots and mine had become too firmly embedded in the new land.",
+                zh: "他和我的根都已经深深地扎在了这片新的土地上。",
+                syntax: {
+                    main: "His roots and mine (主语) + had become (系动词) + embedded (表语)"
+                }
+            },
+            { start: 75.54, en: "But he wanted to see the old folk again and to visit my mother's grave.",
+                zh: "但他想再见见故乡的亲人，并去祭扫我母亲的坟墓。",
+                syntax: {
+                    main: "he (主语) + wanted (谓语) + to see... and to visit... (并列不定式作宾语)"
+                }
+            },
+            { start: 80.32, en: "He became mortally ill a few months before we had planned to go and, when he knew that he was dying, he made me promise to go on my own.",
+                zh: "在我们计划出发的前几个月，他得了绝症。当他知道自己快不行时，便让我答应他独自前往。",
+                syntax: {
+                    main: "由 and 连接的并列复合句",
+                    components: [
+                        { part: "分句1：He became mortally ill...", role: "became (系) + mortally ill (表)。before... 引导时间状语从句。" },
+                        { part: "分句2：he made me promise to go...", role: "when... 引导时间状语从句；that... 为 knew 的宾语从句；made me promise 为使役动词结构。" }
+                    ]
+                }
+            },
+            { start: 91.44, en: "I hired a car the day after landing and bought a comprehensive book of maps, which I found most helpful on the cross-country journey, but which I did not think I should need on the last stage.",
+                zh: "我抵达后的第二天就租了一辆车，并买了一本详尽的地图册。我觉得它在长途跋涉中非常有帮助，但认为在最后一段路程中应该用不着它。",
+                syntax: {
+                    main: "I (主语) + hired... and bought... (并列谓语)",
+                    components: [
+                        { part: "the day after landing", role: "时间状语。" },
+                        { part: "which I found most helpful...", role: "which 引导非限制性定语从句，修饰 book of maps。" },
+                        { part: "but which I did not think...", role: "并列的非限制性定语从句。" }
+                    ]
+                }
+            },
+            { start: 104.62, en: "It was not that I actually remembered anything at all.",
+                zh: "这并不是说我真的还记得什么。",
+                syntax: {
+                    main: "It (主语) + was not (系动词) + that从句 (表语从句)"
+                }
+            },
+            { start: 108.56, en: "But my father had described over and over again what we should see at every milestone after leaving the nearest town, so that I was positive I should recognize it as familiar territory.",
+                zh: "但父亲曾反复描述过我们离开最近的城镇后，在每一个里程碑处应该看到什么，所以我确信自己能认出那是熟悉的土地。",
+                syntax: {
+                    main: "my father (主) + had described (谓) + what从句 (宾)",
+                    components: [
+                        { part: "what we should see...", role: "what 引导宾语从句作 described 的宾语。" },
+                        { part: "so that I was positive...", role: "so that 引导结果状语从句；that省略从句作 positive 的宾语。" }
+                    ]
+                }
+            },
+            { start: 122.93, en: "Well, I had been wrong, for I was now lost.",
+                zh: "然而，我错了，因为我现在迷路了。",
+                syntax: {
+                    main: "I (主) + had been (系) + wrong (表)，for 引导原因状语从句"
+                }
+            },
+            { start: 127.74, en: "I looked at the map and then at the milometer.",
+                zh: "我看了看地图，又看了看里程表。",
+                syntax: {
+                    main: "I (主语) + looked at... and then at... (并列介词短语作状语)"
+                }
+            },
+            { start: 131.33, en: "I had come ten miles since leaving the town and at this point, according to my father, I should be looking at farms and cottages in a valley, with the spire of the church of our village showing in the far distance.",
+                zh: "离开城镇后我已经开了十英里，按照父亲的说法，此时我应该能看到山谷里的农场和村舍，远处还能看到我们村教堂的尖顶。",
+                syntax: {
+                    main: "由 and 连接的并列复合句",
+                    components: [
+                        { part: "分句1：I had come ten miles...", role: "since leaving... 作时间状语。" },
+                        { part: "分句2：I should be looking at farms and cottages...", role: "should be looking at 进行时表示期待。" },
+                        { part: "with the spire... showing...", role: "with 复合结构作伴随状语。" }
+                    ]
+                }
+            },
+            { start: 147.63, en: "I could see no valley, no farms, no cottages and no church spire-only a lake.",
+                zh: "我什么也没看见——没有山谷、农场、村舍，也没有教堂尖顶——只有一片湖。",
+                syntax: {
+                    main: "I (主语) + could see (谓语) + 多个排比否定宾语"
+                }
+            },
+            { start: 154.88, en: "I decided that I must have taken a wrong turning somewhere.",
+                zh: "我断定自己一定是在什么地方拐错了弯。",
+                syntax: {
+                    main: "I (主) + decided (谓) + that从句 (宾)",
+                    components: [
+                        { part: "must have taken...", role: "must have + 过去分词表示对过去情况的推测。" }
+                    ]
+                }
+            },
+            { start: 159.19, en: "So I drove back to the town and began to retrace the route, taking frequent glances at the map.",
+                zh: "于是我开车回到镇上，开始沿原路返回，并不时地查看地图。",
+                syntax: {
+                    main: "I (主语) + drove... and began... (并列谓语)",
+                    components: [
+                        { part: "taking frequent glances at the map", role: "现在分词短语作伴随状语。" }
+                    ]
+                }
+            },
+            { start: 166.44, en: "I landed up at the same corner.",
+                zh: "结果我又回到了同一个拐角处。",
+                syntax: {
+                    main: "I (主语) + landed up (谓语) + at the same corner (状语)"
+                }
+            },
+            { start: 169.18, en: "The curious thing was that the lake was not marked on the map.",
+                zh: "奇怪的是，地图上并没有标出这个湖。",
+                syntax: {
+                    main: "The curious thing (主语) + was (系动词) + that从句 (表语从句)"
+                }
+            },
+            { start: 173.27, en: "I felt as if I had stumbled into a nightmare country, as you sometimes do in dreams.",
+                zh: "我感觉自己仿佛闯入了一个噩梦般的国度，就像有时在梦中那样。",
+                syntax: {
+                    main: "I (主语) + felt (系动词)",
+                    components: [
+                        { part: "as if I had stumbled into...", role: "as if 引导表语/方式状语从句，含虚拟语气。" },
+                        { part: "as you sometimes do in dreams", role: "as 引导方式状语从句。" }
+                    ]
+                }
+            },
+            { start: 179.55, en: "And, as in a nightmare, there was nobody in sight to help me.",
+                zh: "而且，就像在噩梦中一样，视线所及之处空无一人，无法求助。",
+                syntax: {
+                    main: "there (引导词) + was (谓语) + nobody in sight (主语)",
+                    components: [
+                        { part: "to help me", role: "不定式作后置定语修饰 nobody。" }
+                    ]
+                }
+            },
+            { start: 184.43, en: "Fortunately for me, as I was wondering what to do next, there appeared on the horizon a man on horseback, riding in my direction.",
+                zh: "幸运的是，正当我不知所措时，地平线上出现了一个骑马的人，正朝我这个方向走来。",
+                syntax: {
+                    main: "there appeared on the horizon a man on horseback (倒装/存在句)",
+                    components: [
+                        { part: "as I was wondering...", role: "as 引导时间状语从句；what to do next 为疑问词+不定式作 宾语。" },
+                        { part: "riding in my direction", role: "现在分词短语作后置定语修饰 man。" }
+                    ]
+                }
+            },
+            { start: 194.01, en: "I waited till he came near, then I asked him the way to our old village.",
+                zh: "我等他走近，便向他打听去我们老村子的路。",
+                syntax: {
+                    main: "I waited... then I asked...",
+                    components: [
+                        { part: "till he came near", role: "till 引导时间状语从句。" },
+                        { part: "asked him the way...", role: "him (间接宾语) + the way (直接宾语)。" }
+                    ]
+                }
+            },
+            { start: 199.45, en: "He said that there was now no village.",
+                zh: "他说现在已经没有那个村子了。",
+                syntax: {
+                    main: "He (主语) + said (谓语) + that从句 (宾语从句)"
+                }
+            },
+            { start: 202.51, en: "I thought he must have misunderstood me, so I repeated its name.",
+                zh: "我以为他肯定听错了，于是又重复了一遍村名。",
+                syntax: {
+                    main: "由 so 连接的并列因果句",
+                    components: [
+                        { part: "I thought (that) he must have...", role: "must have + p.p. 表示对过去推测。" }
+                    ]
+                }
+            },
+            { start: 208.08, en: "This time he pointed to the lake.",
+                zh: "这一次，他指向了那片湖。",
+                syntax: {
+                    main: "This time (状语) + he (主语) + pointed to (谓语) + the lake (宾语)"
+                }
+            },
+            { start: 211.15, en: "The village no longer existed because it had been submerged, and all the valley too.",
+                zh: "村子不复存在了，因为它已经被淹没，整个山谷也一样。",
+                syntax: {
+                    main: "The village (主) + no longer existed (谓)，because 引导原因状语从句",
+                    components: [
+                        { part: "because it had been submerged", role: "原因状语从句（过去的过去，过去完成时被动语态）。" }
+                    ]
+                }
+            },
+            { start: 218.49, en: "The lake was not a natural one, but a man-made reservoir.",
+                zh: "这片湖并非天然形成，而是一座人工水库。",
+                syntax: {
+                    main: "The lake (主语) + was not... but... (表语结构，not... but...)"
+                }
+            }
+        ];
+
+        const textContainer = document.getElementById('text-container');
+        const audioPlayer = document.getElementById('audio-player');
+        const playBtn = document.getElementById('play-btn');
+        const playIcon = document.getElementById('play-icon');
+        const pauseIcon = document.getElementById('pause-icon');
+        const overallProgressContainer = document.querySelector('.overall-progress-container');
+        const overallProgressBar = document.getElementById('overall-progress-bar');
+        const elapsedTimeEl = document.getElementById('elapsed-time');
+        const totalTimeEl = document.getElementById('total-time');
+        const speedSelect = document.getElementById('speed-select');
+        const skipQuestionCheckbox = document.getElementById('skip-question');
+        const loopPlaybackCheckbox = document.getElementById('loop-playback');
+        let isSeekingSkip = false;
+
+        let currentActiveIndex = -1;
+        let singleSentenceEnd = null;
+
+        function formatTime(secs) {
+            if (isNaN(secs)) return '00:00';
+            const m = Math.floor(secs / 60).toString().padStart(2, '0');
+            const s = Math.floor(secs % 60).toString().padStart(2, '0');
+            return `${m}:${s}`;
+        }
+
+        function getEffectiveTimes() {
+            const rawCurrent = audioPlayer.currentTime || 0;
+            const rawDuration = audioPlayer.duration || 0;
+            const rate = audioPlayer.playbackRate || 1.0;
+            const isSkipping = skipQuestionCheckbox && skipQuestionCheckbox.checked;
+            
+            const headSkipDuration = 9.48; // 13.98 - 4.50
+            const textEndTime = 223.5;     // 课文最后一句朗读在 223.5s 结束，跳过后续的提示钟声与余音
+            const tailSkipDuration = rawDuration > textEndTime ? (rawDuration - textEndTime) : 4.89;
+            const totalSkipDuration = headSkipDuration + tailSkipDuration;
+
+            let effectiveCurrent = rawCurrent;
+            let effectiveDuration = isSkipping ? Math.max(0, rawDuration - totalSkipDuration) : rawDuration;
+
+            if (isSkipping) {
+                if (rawCurrent >= textEndTime) {
+                    effectiveCurrent = Math.max(0, rawDuration - totalSkipDuration);
+                } else if (rawCurrent >= 13.98) {
+                    effectiveCurrent = rawCurrent - headSkipDuration;
+                } else if (rawCurrent > 4.5) {
+                    effectiveCurrent = 4.5;
+                }
+            }
+
+            return {
+                current: effectiveCurrent / rate,
+                duration: effectiveDuration / rate,
+                pct: effectiveDuration > 0 ? Math.min(100, (effectiveCurrent / effectiveDuration) * 100) : 0
+            };
+        }
+
+        function updateTimeDisplays() {
+            const times = getEffectiveTimes();
+            overallProgressBar.style.width = `${times.pct}%`;
+            elapsedTimeEl.textContent = formatTime(times.current);
+            totalTimeEl.textContent = formatTime(times.duration);
+        }
+
+        function handlePlaybackEnd() {
+            singleSentenceEnd = null;
+            if (loopPlaybackCheckbox && loopPlaybackCheckbox.checked) {
+                audioPlayer.currentTime = 0;
+                audioPlayer.play();
+            } else {
+                audioPlayer.pause();
+                audioPlayer.currentTime = 0;
+                setActiveBlock(-1);
+                updateTimeDisplays();
+            }
+        }
+
+        audioPlayer.addEventListener('ended', () => {
+            handlePlaybackEnd();
+        });
+
+        audioPlayer.addEventListener('timeupdate', () => {
+            const current = audioPlayer.currentTime;
+
+            if (singleSentenceEnd !== null && current >= singleSentenceEnd) {
+                audioPlayer.pause();
+                singleSentenceEnd = null;
+                return;
+            }
+
+            const isSkipping = skipQuestionCheckbox && skipQuestionCheckbox.checked;
+            
+            // 1. 自动跳过 4.5s 到 13.98s 之间的 Listen to the tape 指令及课前提问部分 (节省跟读时间)
+            if (isSkipping && current >= 4.5 && current < 13.98 && !isSeekingSkip) {
+                isSeekingSkip = true;
+                audioPlayer.currentTime = 13.98;
+                setTimeout(() => { isSeekingSkip = false; }, 300);
+                return;
+            }
+
+            // 2. 结尾最后一句朗读完 (223.5s) 后：若开启跳过则直接跳过片尾提示钟声，触发播放结束/循环
+            if (isSkipping && current >= 223.5 && !audioPlayer.paused && !isSeekingSkip) {
+                isSeekingSkip = true;
+                handlePlaybackEnd();
+                setTimeout(() => { isSeekingSkip = false; }, 500);
+                return;
+            }
+
+            updateTimeDisplays();
+
+            let activeIdx = -1;
+            for (let i = 0; i < articles.length; i++) {
+                if (articles[i].start !== undefined && current >= articles[i].start) {
+                    activeIdx = i;
+                } else if (articles[i].start !== undefined && current < articles[i].start) {
+                    break;
+                }
+            }
+
+            if (activeIdx !== currentActiveIndex) {
+                currentActiveIndex = activeIdx;
+                setActiveBlock(currentActiveIndex);
+            }
+        });
+
+        skipQuestionCheckbox.addEventListener('change', () => {
+            updateTimeDisplays();
+        });
+
+        // seek on progress bar click
+        overallProgressContainer.addEventListener('click', (e) => {
+            singleSentenceEnd = null;
+            const rect = overallProgressContainer.getBoundingClientRect();
+            const clickX = e.clientX - rect.left;
+            const width = rect.width;
+            const pct = clickX / width;
+            const isSkipping = skipQuestionCheckbox && skipQuestionCheckbox.checked;
+            const headSkipDuration = 9.48;
+            const textEndTime = 223.5;
+            const rawDuration = audioPlayer.duration || 0;
+            const tailSkipDuration = rawDuration > textEndTime ? (rawDuration - textEndTime) : 4.89;
+            const totalSkipDuration = headSkipDuration + tailSkipDuration;
+
+            if (rawDuration > 0) {
+                let targetEffective = pct * (isSkipping ? Math.max(0, rawDuration - totalSkipDuration) : rawDuration);
+                let targetRaw = targetEffective;
+                if (isSkipping && targetEffective >= 4.5) {
+                    targetRaw = targetEffective + headSkipDuration;
+                }
+                audioPlayer.currentTime = targetRaw;
+            }
+        });
+
+        const restartBtn = document.getElementById('restart-btn');
+        restartBtn.addEventListener('click', () => {
+            singleSentenceEnd = null;
+            audioPlayer.currentTime = 0;
+            audioPlayer.play();
+        });
+
+        playBtn.addEventListener('click', () => {
+            singleSentenceEnd = null;
+            if (audioPlayer.paused) {
+                audioPlayer.play();
+            } else {
+                audioPlayer.pause();
+            }
+        });
+
+        audioPlayer.addEventListener('play', () => {
+            playIcon.style.display = 'none';
+            pauseIcon.style.display = 'block';
+        });
+
+        audioPlayer.addEventListener('pause', () => {
+            playIcon.style.display = 'block';
+            pauseIcon.style.display = 'none';
+        });
+
+        speedSelect.addEventListener('change', () => {
+            const rate = parseFloat(speedSelect.value);
+            audioPlayer.playbackRate = rate;
+            updateTimeDisplays();
+        });
+
+        function setActiveBlock(index) {
+            document.querySelectorAll('.sentence-block').forEach((block, i) => {
+                if (i === index) {
+                    block.classList.add('active');
+                    block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else {
+                    block.classList.remove('active');
+                }
+            });
+        }
+
+        const synth = window.speechSynthesis;
+        let voices = [];
+
+        function speakWord(wordText) {
+            synth.cancel();
+            const cleanWord = wordText.replace(/[^a-zA-Z0-9'-]/g, '');
+            const utterance = new SpeechSynthesisUtterance(cleanWord);
+            if (voices.length === 0) {
+                voices = synth.getVoices();
+            }
+            const samantha = voices.find(v => v.name.includes('Samantha'));
+            if (samantha) {
+                utterance.voice = samantha;
+            } else {
+                const enVoice = voices.find(v => v.lang.toLowerCase().startsWith('en'));
+                if (enVoice) utterance.voice = enVoice;
+            }
+            utterance.rate = 0.6;
+            synth.speak(utterance);
+        }
+
+        function renderSentenceHTML(text) {
+            const regex = /([a-zA-Z0-9]+(?:[-'][a-zA-Z0-9]+)*)|([^\s\w]+)|(\s+)/g;
+            let match;
+            let html = '';
+            
+            regex.lastIndex = 0;
+            while ((match = regex.exec(text)) !== null) {
+                const token = match[0];
+                const word = match[1];
+                const start = match.index;
+                const end = regex.lastIndex;
+                
+                if (word) {
+                    html += `<span class="word" data-start="${start}" data-end="${end}">${token}</span>`;
+                } else {
+                    html += `<span>${token}</span>`;
+                }
+            }
+            return html;
+        }
+
+        function renderText() {
+            textContainer.innerHTML = '';
+            articles.forEach((item, index) => {
+                const block = document.createElement('div');
+                block.className = 'sentence-block';
+                block.dataset.index = index;
+                
+                let syntaxHTML = '';
+                if (item.syntax) {
+                    syntaxHTML = `
+                        <div class="syntax-toggle">📌 语法分析 / Grammar Breakdown</div>
+                        <div class="syntax-content">
+                            <p><strong>句子主干：</strong>${item.syntax.main}</p>
+                            <ul>
+                                ${item.syntax.components ? item.syntax.components.map(c => `<li><strong>${c.part}</strong>: ${c.role}</li>`).join('') : ''}
+                            </ul>
+                        </div>
+                    `;
+                }
+
+                block.innerHTML = `
+                    <p class="en">${renderSentenceHTML(item.en)}</p>
+                    <p class="zh">${item.zh}</p>
+                    ${syntaxHTML}
+                `;
+
+                block.addEventListener('click', () => {
+                    if (item.start === undefined) return;
+                    const wasPlaying = !audioPlayer.paused;
+                    if (wasPlaying) {
+                        singleSentenceEnd = null;
+                        audioPlayer.currentTime = item.start;
+                        audioPlayer.play();
+                    } else {
+                        const nextItem = articles.slice(index + 1).find(it => it.start !== undefined);
+                        singleSentenceEnd = nextItem ? nextItem.start : (audioPlayer.duration || (item.start + 30));
+                        audioPlayer.currentTime = item.start;
+                        audioPlayer.play();
+                    }
+                });
+
+                block.querySelectorAll('.word').forEach(wordSpan => {
+                    wordSpan.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        speakWord(e.target.textContent);
+                    });
+                });
+
+                const toggleBtn = block.querySelector('.syntax-toggle');
+                if (toggleBtn) {
+                    toggleBtn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        const content = toggleBtn.nextElementSibling;
+                        if (content.style.display === 'block') {
+                            content.style.display = 'none';
+                            toggleBtn.innerHTML = '📌 语法分析 / Grammar Breakdown';
+                        } else {
+                            content.style.display = 'block';
+                            toggleBtn.innerHTML = '⚡️ 收起分析 / Close Breakdown';
+                        }
+                    });
+                }
+                
+                textContainer.appendChild(block);
+            });
+        }
+
+        /* 释义浮窗逻辑 */
+        const tooltip = document.createElement('div');
+        tooltip.className = 'dict-tooltip';
+        tooltip.innerHTML = `
+            <div class="dict-word-row">
+                <span class="dict-tooltip-word"></span>
+                <span class="dict-tooltip-ipa"></span>
+            </div>
+            <div class="dict-tooltip-pos"></div>
+            <div class="dict-tooltip-trans"></div>
+        `;
+        document.body.appendChild(tooltip);
+
+        let hoverTimeout = null;
+        let dictCache = {};
+
+        textContainer.addEventListener('mouseover', (e) => {
+            const wordSpan = e.target.closest('.word');
+            if (!wordSpan) return;
+
+            const word = wordSpan.textContent.replace(/[^a-zA-Z0-9'-]/g, '').toLowerCase();
+            if (!word) return;
+
+            clearTimeout(hoverTimeout);
+            hoverTimeout = setTimeout(() => {
+                showTooltip(wordSpan, word);
+            }, 300);
+        });
+
+        textContainer.addEventListener('mouseout', (e) => {
+            const wordSpan = e.target.closest('.word');
+            if (!wordSpan) return;
+            clearTimeout(hoverTimeout);
+            hideTooltip();
+        });
+
+        function showTooltip(target, word) {
+            const tooltipWord = tooltip.querySelector('.dict-tooltip-word');
+            const tooltipIpa = tooltip.querySelector('.dict-tooltip-ipa');
+            const tooltipPos = tooltip.querySelector('.dict-tooltip-pos');
+            const tooltipTrans = tooltip.querySelector('.dict-tooltip-trans');
+
+            tooltipWord.textContent = word;
+            tooltipIpa.textContent = "";
+            tooltipPos.textContent = "";
+            tooltipTrans.textContent = "正在查询...";
+            
+            tooltip.classList.add('visible');
+            adjustTooltipPosition(target);
+
+            if (dictCache[word]) {
+                const cached = dictCache[word];
+                tooltipIpa.textContent = cached.ipa;
+                tooltipPos.textContent = cached.pos;
+                tooltipTrans.textContent = cached.trans;
+                adjustTooltipPosition(target);
+            } else {
+                Promise.all([
+                    fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=${encodeURIComponent(word)}`).then(res => res.json()),
+                    fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`).then(res => res.json()).catch(() => null)
+                ])
+                .then(([transData, dictData]) => {
+                    const trans = transData[0][0][0];
+                    let ipa = "";
+                    let pos = "";
+                    
+                    if (dictData && dictData[0]) {
+                        ipa = dictData[0].phonetic || (dictData[0].phonetics && dictData[0].phonetics.find(p => p.text)?.text) || "";
+                        if (dictData[0].meanings) {
+                            const parts = dictData[0].meanings.map(m => m.partOfSpeech);
+                            pos = [...new Set(parts)].join(', ');
+                        }
+                    }
+                    
+                    const result = { ipa, pos, trans };
+                    dictCache[word] = result;
+                    
+                    if (tooltipWord.textContent === word) {
+                        tooltipIpa.textContent = ipa;
+                        tooltipPos.textContent = pos;
+                        tooltipTrans.textContent = trans;
+                        adjustTooltipPosition(target);
+                    }
+                })
+                .catch(() => {
+                    if (tooltipWord.textContent === word) {
+                        tooltipTrans.textContent = "查询失败";
+                    }
+                });
+            }
+        }
+
+        function adjustTooltipPosition(target) {
+            const rect = target.getBoundingClientRect();
+            const tooltipRect = tooltip.getBoundingClientRect();
+            const left = rect.left + (rect.width - tooltipRect.width) / 2 + window.scrollX;
+            const top = rect.top - tooltipRect.height - 8 + window.scrollY;
+            tooltip.style.left = `${Math.max(10, left)}px`;
+            tooltip.style.top = `${top}px`;
+        }
+
+        function hideTooltip() {
+            tooltip.classList.remove('visible');
+        }
+
+        renderText();
+    </script>
+</body>
+</html>

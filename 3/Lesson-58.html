@@ -87,7 +87,22 @@
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
 
-        
+        .sentence-block.active {
+            background: rgba(56, 189, 248, 0.12);
+            border-color: var(--accent-color);
+            box-shadow: 0 0 20px rgba(56, 189, 248, 0.2), 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        .sentence-block.active::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(to bottom, #38bdf8, #818cf8);
+            border-radius: 4px 0 0 4px;
+        }
 
         .en {
             font-size: 1.25rem;
@@ -649,6 +664,7 @@
         const speedSelect = document.getElementById('speed-select');
 
         let currentActiveIndex = -1;
+        let singleSentenceEnd = null;
 
         // format seconds to mm:ss
         function formatTime(secs) {
@@ -700,6 +716,7 @@
         }
 
         function handlePlaybackEnd() {
+            singleSentenceEnd = null;
             if (loopPlaybackCheckbox && loopPlaybackCheckbox.checked) {
                 audioPlayer.currentTime = 0;
                 audioPlayer.play();
@@ -718,6 +735,14 @@
         // update progress panel
         audioPlayer.addEventListener('timeupdate', () => {
             const current = audioPlayer.currentTime;
+
+            // 单句读模式：播完当前句子后自动暂停
+            if (singleSentenceEnd !== null && current >= singleSentenceEnd) {
+                audioPlayer.pause();
+                singleSentenceEnd = null;
+                return;
+            }
+
             const isSkipping = skipQuestionCheckbox && skipQuestionCheckbox.checked;
             
             // 1. 自动跳过 4.5s 到 14.7s 之间的 Listen to the tape 指令及课前提问部分 (节省跟读时间)
@@ -760,6 +785,7 @@
 
         // seek on progress bar click
         overallProgressContainer.addEventListener('click', (e) => {
+            singleSentenceEnd = null;
             const rect = overallProgressContainer.getBoundingClientRect();
             const clickX = e.clientX - rect.left;
             const width = rect.width;
@@ -782,12 +808,14 @@
 
         const restartBtn = document.getElementById('restart-btn');
         restartBtn.addEventListener('click', () => {
+            singleSentenceEnd = null;
             audioPlayer.currentTime = 0;
             audioPlayer.play();
         });
 
         // play/pause audio
         playBtn.addEventListener('click', () => {
+            singleSentenceEnd = null;
             if (audioPlayer.paused) {
                 audioPlayer.play();
             } else {
@@ -896,8 +924,19 @@
 
                 // click block to play audio from sentence start
                 block.addEventListener('click', () => {
-                    audioPlayer.currentTime = item.start;
-                    audioPlayer.play();
+                    const wasPlaying = !audioPlayer.paused;
+                    if (wasPlaying) {
+                        // 正在播放：点击具体的句子自动从句首往后读（连续播放）
+                        singleSentenceEnd = null;
+                        audioPlayer.currentTime = item.start;
+                        audioPlayer.play();
+                    } else {
+                        // 当前没有播放：点击句子只读这一句内容
+                        const nextItem = articles[index + 1];
+                        singleSentenceEnd = nextItem ? nextItem.start : (audioPlayer.duration || (item.start + 30));
+                        audioPlayer.currentTime = item.start;
+                        audioPlayer.play();
+                    }
                 });
 
                 block.querySelectorAll('.word').forEach(wordSpan => {
