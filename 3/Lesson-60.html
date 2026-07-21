@@ -37,7 +37,7 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            padding: 2rem 1rem 6.5rem 1rem;
+            padding: 2rem 1rem;
         }
 
         header {
@@ -62,237 +62,6 @@
             margin-bottom: 1.5rem;
         }
 
-        /* 控制面板 */
-        .control-panel {
-            background: rgba(30, 41, 59, 0.4);
-            border: 1px solid rgba(255, 255, 255, 0.06);
-            border-radius: 16px;
-            padding: 1.2rem;
-            width: 100%;
-            max-width: 900px;
-            display: flex;
-            flex-direction: column;
-            gap: 1.2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
-        }
-
-        .settings-row {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 1.2rem;
-        }
-
-        .control-group {
-            display: flex;
-            flex-direction: column;
-            gap: 0.4rem;
-        }
-
-        .control-label {
-            font-size: 0.8rem;
-            font-weight: 600;
-            color: var(--text-secondary);
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-
-        select {
-            background: rgba(15, 23, 42, 0.5);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            border-radius: 10px;
-            padding: 0.6rem;
-            color: var(--text-primary);
-            outline: none;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            font-size: 0.9rem;
-            height: 38px;
-        }
-
-        select:focus {
-            border-color: var(--accent-color);
-            background: rgba(15, 23, 42, 0.7);
-        }
-
-        /* 自定义美化滑块 */
-        input[type="range"] {
-            -webkit-appearance: none;
-            width: 100%;
-            background: transparent;
-            border: none;
-            padding: 0;
-            height: 38px;
-            display: flex;
-            align-items: center;
-            outline: none;
-        }
-
-        input[type="range"]::-webkit-slider-runnable-track {
-            width: 100%;
-            height: 6px;
-            cursor: pointer;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 3px;
-        }
-
-        input[type="range"]::-webkit-slider-thumb {
-            height: 16px;
-            width: 16px;
-            border-radius: 50%;
-            background: var(--accent-color);
-            cursor: pointer;
-            -webkit-appearance: none;
-            margin-top: -5px;
-            transition: transform 0.1s ease;
-            box-shadow: 0 0 8px rgba(56, 189, 248, 0.5);
-        }
-
-        input[type="range"]::-webkit-slider-thumb:hover {
-            transform: scale(1.2);
-        }
-
-        /* 模式选项行 */
-        .modes-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1.5rem;
-            padding-top: 1rem;
-            border-top: 1px solid rgba(255, 255, 255, 0.06);
-        }
-
-        /* Removed btn-panel classes since stop button is in player bottom bar */
-
-        button {
-            flex: 1;
-            background: var(--accent-color);
-            color: #0f172a;
-            border: none;
-            border-radius: 8px;
-            padding: 0.7rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.4rem;
-        }
-
-        button:hover {
-            background: var(--accent-hover);
-            transform: translateY(-1px);
-        }
-
-        button.secondary {
-            background: rgba(148, 163, 184, 0.1);
-            color: var(--text-primary);
-            border: 1px solid var(--card-border);
-        }
-
-        button.secondary:hover {
-            background: rgba(148, 163, 184, 0.2);
-        }
-
-        /* 进度展示面板 */
-        .progress-panel {
-            background: rgba(15, 23, 42, 0.92);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 16px 16px 0 0;
-            padding: 0;
-            width: 100%;
-            max-width: 900px;
-            position: fixed;
-            bottom: 0;
-            left: 50%;
-            transform: translateX(-50%);
-            z-index: 1000;
-            display: flex;
-            flex-direction: column;
-            box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.5);
-            overflow: hidden;
-        }
-
-        .overall-progress-container {
-            width: 100%;
-            height: 4px;
-            background: rgba(255, 255, 255, 0.1);
-            position: relative;
-        }
-
-        .overall-progress-bar {
-            height: 100%;
-            width: 0%;
-            background: linear-gradient(to right, var(--accent-color), #818cf8);
-            transition: width 0.3s ease;
-        }
-
-        .progress-controls-row {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0.8rem 1.5rem;
-            gap: 1rem;
-        }
-
-        .time-display {
-            font-size: 1rem;
-            font-weight: 600;
-            color: var(--text-primary);
-            font-family: monospace;
-            white-space: nowrap;
-        }
-
-        .media-controls {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-        }
-
-        .media-btn {
-            background: transparent;
-            border: none;
-            color: var(--text-primary);
-            cursor: pointer;
-            padding: 8px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.2s ease;
-            width: 40px;
-            height: 40px;
-        }
-
-        .media-btn:hover {
-            background: rgba(255, 255, 255, 0.1);
-            color: var(--accent-color);
-            transform: scale(1.1);
-        }
-
-        .media-btn:active {
-            transform: scale(0.95);
-        }
-
-        #play-btn {
-            background: var(--accent-color);
-            color: #0f172a;
-        }
-
-        #play-btn:hover {
-            background: var(--accent-hover);
-            color: #0f172a;
-        }
-
-        .status-indicator {
-            font-size: 0.85rem;
-            color: var(--text-secondary);
-            text-align: right;
-            min-width: 80px;
-        }
-
         /* 句子列表 */
         .text-container {
             width: 100%;
@@ -309,39 +78,13 @@
             border: 1px solid var(--card-border);
             border-radius: 12px;
             padding: 1.2rem;
-            cursor: pointer;
+            
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             overflow: hidden;
         }
 
-        .sentence-block:hover {
-            transform: scale(1.01) translateY(-2px);
-            border-color: rgba(56, 189, 248, 0.3);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
-        }
-
-        .sentence-block.active {
-            background: var(--highlight-bg);
-            border-color: var(--highlight-border);
-            box-shadow: 0 0 20px rgba(56, 189, 248, 0.15);
-        }
-
-        .sentence-block::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            height: 100%;
-            width: 4px;
-            background: var(--accent-color);
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-
-        .sentence-block.active::before {
-            opacity: 1;
-        }
+        
 
         /* 句子结构语法分析样式 */
         .syntax-toggle {
@@ -352,7 +95,7 @@
             border: 1px dashed rgba(56, 189, 248, 0.3);
             border-radius: 6px;
             padding: 4px 10px;
-            cursor: pointer;
+            
             margin-top: 4px;
             user-select: none;
             transition: all 0.2s ease;
@@ -413,7 +156,7 @@
         /* 单个单词交互样式 */
         .word {
             display: inline-block;
-            cursor: pointer;
+            
             transition: all 0.15s ease;
             border-radius: 4px;
             padding: 0 2px;
@@ -502,46 +245,6 @@
             line-height: 1.5;
         }
 
-        /* 朗读进度条 */
-        .progress-bar {
-            display: none;
-        }
-
-        /* 播放提示悬浮球 */
-        .speak-indicator {
-            position: absolute;
-            right: 1.2rem;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 32px;
-            height: 32px;
-            border-radius: 50%;
-            background: rgba(56, 189, 248, 0.1);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: var(--accent-color);
-            opacity: 0;
-            transition: all 0.3s ease;
-        }
-
-        .sentence-block:hover .speak-indicator {
-            opacity: 1;
-        }
-
-        .sentence-block.active .speak-indicator {
-            opacity: 1;
-            background: var(--accent-color);
-            color: #0f172a;
-            animation: pulse 1.5s infinite;
-        }
-
-        @keyframes pulse {
-            0% { transform: translateY(-50%) scale(1); }
-            50% { transform: translateY(-50%) scale(1.1); }
-            100% { transform: translateY(-50%) scale(1); }
-        }
-
         .badge {
             background: rgba(56, 189, 248, 0.15);
             color: var(--accent-color);
@@ -559,7 +262,7 @@
             gap: 0.6rem;
             color: var(--text-secondary);
             font-size: 0.85rem;
-            cursor: pointer;
+            
             transition: color 0.2s ease;
         }
 
@@ -569,7 +272,7 @@
 
         .checkbox-container input {
             accent-color: var(--accent-color);
-            cursor: pointer;
+            
             width: 15px;
             height: 15px;
         }
@@ -585,80 +288,12 @@
     <header>
         <span class="badge">New Concept English 3</span>
         <h1>Lesson 60: Too Early and Too Late</h1>
-        <p class="subtitle">点击整句可进行句意朗读；点击任意单词可单独听其发音</p>
+        <p class="subtitle">第 60 课：太值了</p>
     </header>
 
-    <section class="control-panel">
-        <div class="settings-row">
-            <div class="control-group">
-                <label class="control-label" for="voice-select">发音人 (Voice)</label>
-                <select id="voice-select">
-                    <option value="">正在加载系统语音库...</option>
-                </select>
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="rate-range">语速 (Speed): <span id="rate-value">0.8x</span></label>
-                <input type="range" id="rate-range" min="0.3" max="2" step="0.1" value="0.8">
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="delay-range">句间停顿 (Pause): <span id="delay-value">0ms</span></label>
-                <input type="range" id="delay-range" min="0" max="3000" step="100" value="0">
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="repeat-select">单句重复 (Repeat)</label>
-                <select id="repeat-select">
-                    <option value="1">只读 1 次 (No Repeat)</option>
-                    <option value="2">重复 2 次 (2x)</option>
-                    <option value="3">重复 3 次 (3x)</option>
-                    <option value="5">重复 5 次 (5x)</option>
-                    <option value="10">重复 10 次 (10x)</option>
-                </select>
-            </div>
-        </div>
-        <div class="modes-row">
-            <label class="checkbox-container">
-                <input type="checkbox" id="auto-play-next" checked>
-                自动播放下一句
-            </label>
-            <label class="checkbox-container">
-                <input type="checkbox" id="shadow-mode">
-                跟读模式 (播放后暂停)
-            </label>
-            <label class="checkbox-container">
-                <input type="checkbox" id="loop-lesson">
-                循环播放整课
-            </label>
-            <label class="checkbox-container">
-                <input type="checkbox" id="gradual-speed">
-                语速随重复渐进 (0.3x ➡️ 目标)
-            </label>
-        </div>
-    </section>
+    
 
-    <section class="progress-panel">
-        <div class="overall-progress-container">
-            <div class="overall-progress-bar" id="overall-progress-bar"></div>
-        </div>
-        <div class="progress-controls-row">
-            <div class="time-display">
-                <span id="elapsed-time">00:00</span> / <span id="total-time">00:00</span>
-            </div>
-            <div class="media-controls">
-                <button id="play-btn" class="media-btn" title="开始/恢复播放">
-                    <svg width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
-                </button>
-                <button id="pause-btn" class="media-btn" title="暂停播放">
-                    <svg width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"/></svg>
-                </button>
-                <button id="stop-btn" class="media-btn" title="停止播放">
-                    <svg width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M5 3.5h6A1.5 1.5 0 0 1 12.5 5v6a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 11V5A1.5 1.5 0 0 1 5 3.5z"/></svg>
-                </button>
-            </div>
-            <div class="status-indicator">
-                <span id="player-status">已停止</span>
-            </div>
-        </div>
-    </section>
+    
 
     <main class="text-container" id="text-container">
         <!-- 句子将被 JS 渲染在此处 -->
@@ -1039,116 +674,27 @@
             }
         ];
 
-        // 估计总单词数
-        const totalWords = articles.reduce((sum, item) => sum + item.en.split(/\s+/).filter(Boolean).length, 0);
-
         const textContainer = document.getElementById('text-container');
-        const voiceSelect = document.getElementById('voice-select');
-        const rateRange = document.getElementById('rate-range');
-        const rateValue = document.getElementById('rate-value');
-        const delayRange = document.getElementById('delay-range');
-        const delayValue = document.getElementById('delay-value');
-        const autoPlayNextCheckbox = document.getElementById('auto-play-next');
-        const shadowModeCheckbox = document.getElementById('shadow-mode');
-        const loopLessonCheckbox = document.getElementById('loop-lesson');
-        const repeatSelect = document.getElementById('repeat-select');
-        const gradualSpeedCheckbox = document.getElementById('gradual-speed');
-        const playBtn = document.getElementById('play-btn');
-        const pauseBtn = document.getElementById('pause-btn');
-        const stopBtn = document.getElementById('stop-btn');
-        const playerStatus = document.getElementById('player-status');
-        const elapsedTimeEl = document.getElementById('elapsed-time');
-        const totalTimeEl = document.getElementById('total-time');
-        const overallProgressBar = document.getElementById('overall-progress-bar');
 
-        let synth = window.speechSynthesis;
+        const synth = window.speechSynthesis;
         let voices = [];
-        let currentUtterance = null;
-        let activeIndex = -1;
-        
-        let timerInterval = null;
-        let elapsedSeconds = 0;
-        let currentRepeatIndex = 0;
 
-        // 格式化时间 mm:ss
-        function formatTime(secs) {
-            const m = Math.floor(secs / 60).toString().padStart(2, '0');
-            const s = (secs % 60).toString().padStart(2, '0');
-            return `${m}:${s}`;
-        }
-
-        // 计算单次重复对应的语速
-        function getRepeatSpeed(r, repeatCount, targetSpeed) {
-            if (!gradualSpeedCheckbox.checked || repeatCount <= 1) {
-                return targetSpeed;
+        function speakWord(wordText) {
+            synth.cancel();
+            const cleanWord = wordText.replace(/[^a-zA-Z0-9'-]/g, '');
+            const utterance = new SpeechSynthesisUtterance(cleanWord);
+            if (voices.length === 0) {
+                voices = synth.getVoices();
             }
-            const startSpeed = 0.3;
-            const endSpeed = targetSpeed;
-            if (r === 0) return startSpeed;
-            return startSpeed + (r / (repeatCount - 1)) * (endSpeed - startSpeed);
-        }
-
-        // 更新估计的总播放时间
-        function updateEstimatedTotalTime() {
-            const rate = parseFloat(rateRange.value);
-            const repeatCount = parseInt(repeatSelect.value);
-            const isGradual = gradualSpeedCheckbox.checked;
-            
-            const startIndex = (activeIndex === -1) ? 0 : activeIndex;
-            let activeArticles = [];
-            
-            if (activeIndex === -1) {
-                // 已停止状态：估算整课的总时间
-                activeArticles = articles;
+            const samantha = voices.find(v => v.name.includes('Samantha'));
+            if (samantha) {
+                utterance.voice = samantha;
             } else {
-                if (autoPlayNextCheckbox.checked) {
-                    // 自动连读开启：估算从当前句到课文结束的时间
-                    activeArticles = articles.slice(startIndex);
-                } else {
-                    // 自动连读关闭：仅估算当前单句的时间
-                    activeArticles = [articles[startIndex]];
-                }
+                const enVoice = voices.find(v => v.lang.toLowerCase().startsWith('en'));
+                if (enVoice) utterance.voice = enVoice;
             }
-            
-            const sessionWords = activeArticles.reduce((sum, item) => sum + item.en.split(/\s+/).filter(Boolean).length, 0);
-            
-            // 如果开启语速渐进，则使用平均语速来估计总时长
-            const startSpeed = 0.3;
-            const effectiveRate = (isGradual && repeatCount > 1) ? (startSpeed + rate) / 2 : rate;
-            
-            const speedWpm = 165 * effectiveRate;
-            const totalDelaySeconds = activeArticles.length * repeatCount * (parseInt(delayRange.value) / 1000);
-            const speakingSeconds = (sessionWords / speedWpm) * 60 * repeatCount;
-            const estimatedTotalSeconds = Math.max(1, Math.round(speakingSeconds + totalDelaySeconds));
-            
-            totalTimeEl.textContent = formatTime(estimatedTotalSeconds);
-        }
-
-        // 计时器控制
-        function startTimer() {
-            clearInterval(timerInterval);
-            timerInterval = setInterval(() => {
-                if (synth.speaking && !synth.paused) {
-                    elapsedSeconds++;
-                    elapsedTimeEl.textContent = formatTime(elapsedSeconds);
-                    
-                    const totalTimeText = totalTimeEl.textContent.split(':');
-                    const totalSecs = parseInt(totalTimeText[0]) * 60 + parseInt(totalTimeText[1]);
-                    const percent = Math.min((elapsedSeconds / totalSecs) * 100, 100);
-                    overallProgressBar.style.width = `${percent}%`;
-                }
-            }, 1000);
-        }
-
-        function stopTimer() {
-            clearInterval(timerInterval);
-        }
-
-        function resetTimer() {
-            stopTimer();
-            elapsedSeconds = 0;
-            elapsedTimeEl.textContent = "00:00";
-            overallProgressBar.style.width = "0%";
+            utterance.rate = 0.6;
+            synth.speak(utterance);
         }
 
         // 将英文句子格式化为带有字符偏移定位的单词<span>标签
@@ -1198,20 +744,8 @@
                     <p class="en">${renderSentenceHTML(item.en)}</p>
                     <p class="zh">${item.zh}</p>
                     ${syntaxHTML}
-                    <div class="speak-indicator">
-                        <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M11.536 14.01A8.473 8.473 0 0 0 14.026 8a8.473 8.473 0 0 0-2.49-6.01l-.708.707A7.476 7.476 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z"/><path d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.483 5.483 0 0 1 11.025 8a5.483 5.483 0 0 1-1.61 3.89l.706.706z"/><path d="M8.707 11.182A4.486 4.486 0 0 0 10.025 8a4.486 4.486 0 0 0-1.318-3.182L8 5.525A3.489 3.489 0 0 1 9.025 8 3.49 3.49 0 0 1 8 10.475l.707.707zM6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06z"/></svg>
-                    </div>
-                    <div class="progress-bar"></div>
                 `;
-                
-                block.addEventListener('click', () => {
-                    resetTimer();
-                    setActiveBlock(index);
-                    updateEstimatedTotalTime();
-                    startTimer();
-                    speak(index, true); // 手动点击触发
-                });
-                
+
                 block.querySelectorAll('.word').forEach(wordSpan => {
                     wordSpan.addEventListener('click', (e) => {
                         e.stopPropagation();
@@ -1238,329 +772,7 @@
             });
         }
 
-        // 朗读单个单词
-        function speakWord(wordText) {
-            synth.cancel();
-            stopTimer();
-            clearAllWordHighlights();
-            
-            const cleanWord = wordText.replace(/[^a-zA-Z0-9'-]/g, '');
-            const utterance = new SpeechSynthesisUtterance(cleanWord);
-            
-            const selectedVoiceName = voiceSelect.value;
-            if (selectedVoiceName) {
-                const voice = voices.find(v => v.name === selectedVoiceName);
-                if (voice) utterance.voice = voice;
-            }
-            
-            utterance.rate = parseFloat(rateRange.value);
-            synth.speak(utterance);
-        }
-
-        function clearAllWordHighlights() {
-            document.querySelectorAll('.word').forEach(w => {
-                w.classList.remove('word-highlight');
-            });
-        }
-
-        // 加载语音库
-        function loadVoices() {
-            voices = synth.getVoices();
-            voiceSelect.innerHTML = '';
-            
-            // 仅筛选 macOS 系统原生支持完美变慢的经典发音人，避开其他干扰项
-            const samantha = voices.find(v => v.name.includes('Samantha'));
-            const daniel = voices.find(v => v.name.includes('Daniel'));
-            
-            if (samantha) {
-                const opt = document.createElement('option');
-                opt.value = samantha.name;
-                opt.textContent = "美式发音 (Samantha)";
-                opt.selected = true;
-                voiceSelect.appendChild(opt);
-            }
-            
-            if (daniel) {
-                const opt = document.createElement('option');
-                opt.value = daniel.name;
-                opt.textContent = "英式发音 (Daniel)";
-                if (!samantha) opt.selected = true;
-                voiceSelect.appendChild(opt);
-            }
-
-            if (!samantha && !daniel) {
-                // 回退逻辑，防止特殊情况下发音人为空
-                const enVoices = voices.filter(v => v.lang.toLowerCase().startsWith('en'));
-                enVoices.forEach(voice => {
-                    const option = document.createElement('option');
-                    option.value = voice.name;
-                    option.textContent = voice.name;
-                    voiceSelect.appendChild(option);
-                });
-            }
-        }
-
-        // 朗读总控函数
-        function speak(index, isManual = false) {
-            if (isManual) {
-                synth.cancel();
-                currentRepeatIndex = 0;
-            }
-
-            if (index < 0 || index >= articles.length) {
-                setActiveBlock(-1);
-                stopTimer();
-                return;
-            }
-
-            const delay = parseInt(delayRange.value);
-            const repeatCount = parseInt(repeatSelect.value);
-            // 如果自动连读开启，停顿为0，且非跟读模式：使用原生浏览器队列，实现完美 0 延迟句间过渡
-            if (autoPlayNextCheckbox.checked && delay === 0 && !shadowModeCheckbox.checked) {
-                if (isManual) {
-                    for (let i = index; i < articles.length; i++) {
-                        for (let r = 0; r < repeatCount; r++) {
-                            queueSentence(i, r === repeatCount - 1, r, repeatCount);
-                        }
-                    }
-                    return;
-                }
-            }
-
-            // 否则使用普通的单句播放模式，并利用 setTimeout 实现停顿控制
-            playSingleSentence(index);
-        }
-
-        // 原生队列入队朗读（用于 0 延迟无缝朗读）
-        function queueSentence(i, isLastRepeat, repeatIndex, repeatCount) {
-            const sentence = articles[i].en;
-            const utterance = new SpeechSynthesisUtterance(sentence);
-            
-            const selectedVoiceName = voiceSelect.value;
-            if (selectedVoiceName) {
-                const voice = voices.find(v => v.name === selectedVoiceName);
-                if (voice) utterance.voice = voice;
-            }
-            const targetSpeed = parseFloat(rateRange.value);
-            utterance.rate = getRepeatSpeed(repeatIndex, repeatCount, targetSpeed);
-
-            utterance.onstart = () => {
-                setActiveBlock(i);
-            };
-
-            utterance.onboundary = function(event) {
-                if (event.name === 'word') {
-                    const charIndex = event.charIndex;
-                    const block = document.querySelector(`.sentence-block[data-index="${i}"]`);
-                    const progressBar = block.querySelector('.progress-bar');
-                    
-                    // 移除了单词级别的闪烁高亮，以防跟读时视觉干扰
-
-                    const percent = (charIndex / sentence.length) * 100;
-                    progressBar.style.width = `${percent}%`;
-                }
-            };
-
-            utterance.onend = function() {
-                const block = document.querySelector(`.sentence-block[data-index="${i}"]`);
-                const progressBar = block.querySelector('.progress-bar');
-                progressBar.style.width = '0%';
-                block.querySelectorAll('.word').forEach(w => w.classList.remove('word-highlight'));
-                
-                if (i === articles.length - 1 && isLastRepeat) {
-                    if (loopLessonCheckbox.checked) {
-                        setTimeout(() => {
-                            resetTimer();
-                            startTimer();
-                            speak(0, true);
-                        }, parseInt(delayRange.value) || 200);
-                    } else {
-                        setActiveBlock(-1);
-                        stopTimer();
-                        playerStatus.textContent = "已停止";
-                        updateEstimatedTotalTime();
-                    }
-                }
-            };
-
-            utterance.onerror = function() {
-                const block = document.querySelector(`.sentence-block[data-index="${i}"]`);
-                const progressBar = block.querySelector('.progress-bar');
-                progressBar.style.width = '0%';
-                block.querySelectorAll('.word').forEach(w => w.classList.remove('word-highlight'));
-                setActiveBlock(-1);
-                stopTimer();
-            };
-
-            synth.speak(utterance);
-        }
-
-        // 单句朗读模式
-        function playSingleSentence(index) {
-            setActiveBlock(index);
-
-            const sentence = articles[index].en;
-            currentUtterance = new SpeechSynthesisUtterance(sentence);
-            
-            const selectedVoiceName = voiceSelect.value;
-            if (selectedVoiceName) {
-                const voice = voices.find(v => v.name === selectedVoiceName);
-                if (voice) currentUtterance.voice = voice;
-            }
-
-            const targetSpeed = parseFloat(rateRange.value);
-            const repeatCount = parseInt(repeatSelect.value);
-            currentUtterance.rate = getRepeatSpeed(currentRepeatIndex, repeatCount, targetSpeed);
-
-            const block = document.querySelector(`.sentence-block[data-index="${index}"]`);
-            const progressBar = block.querySelector('.progress-bar');
-            
-            currentUtterance.onboundary = function(event) {
-                if (event.name === 'word') {
-                    const charIndex = event.charIndex;
-                    
-                    // 移除了单词级别的闪烁高亮，以防跟读时视觉干扰
-
-                    const percent = (charIndex / sentence.length) * 100;
-                    progressBar.style.width = `${percent}%`;
-                }
-            };
-
-            currentUtterance.onend = function() {
-                progressBar.style.width = '0%';
-                clearAllWordHighlights();
-                
-                if (shadowModeCheckbox.checked) {
-                    stopTimer();
-                    return;
-                }
-
-                const repeatTotal = parseInt(repeatSelect.value);
-                currentRepeatIndex++;
-
-                if (currentRepeatIndex < repeatTotal) {
-                    const delay = parseInt(delayRange.value);
-                    setTimeout(() => {
-                        if (activeIndex === index) {
-                            playSingleSentence(index);
-                        }
-                    }, delay);
-                } else {
-                    currentRepeatIndex = 0;
-                    if (autoPlayNextCheckbox.checked) {
-                        const delay = parseInt(delayRange.value);
-                        setTimeout(() => {
-                            if (activeIndex === index) {
-                                if (index + 1 < articles.length) {
-                                    speak(index + 1, false); // 自动播放下一句时不调用 cancel
-                                } else if (loopLessonCheckbox.checked) {
-                                    resetTimer();
-                                    startTimer();
-                                    speak(0, true); // 循环播放整课
-                                } else {
-                                    setActiveBlock(-1);
-                                    stopTimer();
-                                    playerStatus.textContent = "已停止";
-                                }
-                            }
-                        }, delay);
-                    } else {
-                        setActiveBlock(-1);
-                        stopTimer();
-                        playerStatus.textContent = "已停止";
-                        updateEstimatedTotalTime();
-                    }
-                }
-            };
-
-            currentUtterance.onerror = function() {
-                progressBar.style.width = '0%';
-                clearAllWordHighlights();
-                setActiveBlock(-1);
-                stopTimer();
-            };
-
-            synth.speak(currentUtterance);
-        }
-
-        function setActiveBlock(index) {
-            activeIndex = index;
-            document.querySelectorAll('.sentence-block').forEach((block, i) => {
-                const progressBar = block.querySelector('.progress-bar');
-                progressBar.style.width = '0%';
-                if (i === index) {
-                    block.classList.add('active');
-                    block.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                } else {
-                    block.classList.remove('active');
-                    block.querySelectorAll('.word').forEach(w => w.classList.remove('word-highlight'));
-                }
-            });
-        }
-
-        rateRange.addEventListener('input', () => {
-            rateValue.textContent = `${rateRange.value}x`;
-            updateEstimatedTotalTime();
-            if (synth.speaking && activeIndex !== -1) {
-                speak(activeIndex, true); // 调节语速时需要重新生成队列，视作手动触发
-            }
-        });
-
-        delayRange.addEventListener('input', () => {
-            delayValue.textContent = `${delayRange.value}ms`;
-            updateEstimatedTotalTime();
-        });
-
-        repeatSelect.addEventListener('change', () => {
-            updateEstimatedTotalTime();
-            if (synth.speaking && activeIndex !== -1) {
-                speak(activeIndex, true); // 切换重复次数需要重置播放队列，视作手动触发
-            }
-        });
-
-        gradualSpeedCheckbox.addEventListener('change', () => {
-            updateEstimatedTotalTime();
-            if (synth.speaking && activeIndex !== -1) {
-                speak(activeIndex, true); // 切换语速渐进时重置队列
-            }
-        });
-
-        playBtn.addEventListener('click', () => {
-            if (synth.paused) {
-                synth.resume();
-                playerStatus.textContent = "播放中";
-                startTimer();
-            } else if (!synth.speaking) {
-                const startIndex = activeIndex === -1 ? 0 : activeIndex;
-                resetTimer();
-                setActiveBlock(startIndex);
-                updateEstimatedTotalTime();
-                startTimer();
-                speak(startIndex, true);
-                playerStatus.textContent = "播放中";
-            }
-        });
-
-        pauseBtn.addEventListener('click', () => {
-            if (synth.speaking && !synth.paused) {
-                synth.pause();
-                playerStatus.textContent = "已暂停";
-                stopTimer();
-            }
-        });
-
-        stopBtn.addEventListener('click', () => {
-            synth.cancel();
-            clearAllWordHighlights();
-            resetTimer();
-            setActiveBlock(-1);
-            playerStatus.textContent = "已停止";
-            updateEstimatedTotalTime();
-        });
-
-        if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
-            speechSynthesis.onvoiceschanged = loadVoices;
-        }
+        renderText();
 
         // 释义浮窗逻辑
         const tooltip = document.createElement('div');
@@ -1669,8 +881,8 @@
         }
 
         renderText();
-        updateEstimatedTotalTime();
-        setTimeout(loadVoices, 200);
+        
+        
     </script>
 </body>
 </html>

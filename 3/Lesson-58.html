@@ -62,127 +62,6 @@
             margin-bottom: 1.5rem;
         }
 
-        /* 控制面板 */
-        .control-panel {
-            background: rgba(30, 41, 59, 0.4);
-            border: 1px solid rgba(255, 255, 255, 0.06);
-            border-radius: 16px;
-            padding: 1.2rem;
-            width: 100%;
-            max-width: 900px;
-            display: flex;
-            flex-direction: column;
-            gap: 1.2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
-        }
-
-        .settings-row {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 1.2rem;
-        }
-
-        .control-group {
-            display: flex;
-            flex-direction: column;
-            gap: 0.4rem;
-        }
-
-        .control-label {
-            font-size: 0.8rem;
-            font-weight: 600;
-            color: var(--text-secondary);
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-
-        select {
-            background: rgba(15, 23, 42, 0.5);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            border-radius: 10px;
-            padding: 0.6rem;
-            color: var(--text-primary);
-            outline: none;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            font-size: 0.9rem;
-            height: 38px;
-        }
-
-        select:focus {
-            border-color: var(--accent-color);
-            background: rgba(15, 23, 42, 0.7);
-        }
-
-        /* 自定义美化滑块 */
-        input[type="range"] {
-            -webkit-appearance: none;
-            width: 100%;
-            background: transparent;
-            border: none;
-            padding: 0;
-            height: 38px;
-            display: flex;
-            align-items: center;
-            outline: none;
-        }
-
-        input[type="range"]::-webkit-slider-runnable-track {
-            width: 100%;
-            height: 6px;
-            cursor: pointer;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 3px;
-        }
-
-        input[type="range"]::-webkit-slider-thumb {
-            height: 16px;
-            width: 16px;
-            border-radius: 50%;
-            background: var(--accent-color);
-            cursor: pointer;
-            -webkit-appearance: none;
-            margin-top: -5px;
-            transition: transform 0.1s ease;
-            box-shadow: 0 0 8px rgba(56, 189, 248, 0.5);
-        }
-
-        input[type="range"]::-webkit-slider-thumb:hover {
-            transform: scale(1.2);
-            background: var(--text-primary);
-        }
-
-        .modes-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1.5rem;
-            padding-top: 0.4rem;
-            border-top: 1px solid rgba(255, 255, 255, 0.06);
-        }
-
-        .checkbox-container {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            font-size: 0.9rem;
-            color: var(--text-secondary);
-            cursor: pointer;
-            user-select: none;
-            transition: color 0.2s ease;
-        }
-
-        .checkbox-container:hover {
-            color: var(--text-primary);
-        }
-
-        .checkbox-container input[type="checkbox"] {
-            accent-color: var(--accent-color);
-            width: 15px;
-            height: 15px;
-            cursor: pointer;
-        }
-
         /* 课文主体 */
         .text-container {
             width: 100%;
@@ -198,7 +77,7 @@
             border: 1px solid var(--card-border);
             border-radius: 14px;
             padding: 1.2rem 1.5rem;
-            cursor: pointer;
+            
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             overflow: hidden;
@@ -208,29 +87,7 @@
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
 
-        .sentence-block:hover {
-            transform: translateY(-2px);
-            border-color: rgba(56, 189, 248, 0.3);
-            background: rgba(30, 41, 59, 0.9);
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
-        }
-
-        .sentence-block.active {
-            background: rgba(30, 41, 59, 0.95);
-            border-color: var(--highlight-border);
-            box-shadow: 0 0 20px rgba(56, 189, 248, 0.15);
-        }
-
-        .sentence-block.active::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            bottom: 0;
-            width: 4px;
-            background: var(--accent-color);
-            border-radius: 2px 0 0 2px;
-        }
+        
 
         .en {
             font-size: 1.25rem;
@@ -248,7 +105,7 @@
 
         .word {
             display: inline-block;
-            cursor: pointer;
+            
             border-radius: 4px;
             padding: 0 2px;
             transition: all 0.15s ease;
@@ -329,24 +186,11 @@
         }
 
         /* 隐藏单句底部的进度条，跟读时无需显示 */
-        .progress-bar {
-            display: none;
-        }
+        
 
-        .speak-indicator {
-            position: absolute;
-            right: 1.2rem;
-            top: 50%;
-            transform: translateY(-50%) scale(0.8);
-            opacity: 0;
-            color: var(--accent-color);
-            transition: all 0.3s ease;
-        }
+        
 
-        .sentence-block.active .speak-indicator {
-            opacity: 1;
-            transform: translateY(-50%) scale(1);
-        }
+        
 
         /* 句子结构语法分析样式 */
         .syntax-toggle {
@@ -357,7 +201,7 @@
             border: 1px dashed rgba(56, 189, 248, 0.3);
             border-radius: 6px;
             padding: 4px 10px;
-            cursor: pointer;
+            
             margin-top: 4px;
             user-select: none;
             transition: all 0.2s ease;
@@ -470,7 +314,7 @@
             background: transparent;
             border: none;
             color: var(--text-secondary);
-            cursor: pointer;
+            
             width: 38px;
             height: 38px;
             border-radius: 50%;
@@ -521,59 +365,16 @@
         <p class="subtitle">第 58 课：一点小麻烦</p>
     </header>
 
-    <section class="control-panel">
-        <div class="settings-row">
-            <div class="control-group">
-                <label class="control-label" for="voice-select">发音人 (Voice)</label>
-                <select id="voice-select">
-                    <option value="">正在加载系统语音库...</option>
-                </select>
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="rate-range">语速 (Speed): <span id="rate-value">0.8x</span></label>
-                <input type="range" id="rate-range" min="0.3" max="2" step="0.1" value="0.8">
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="delay-range">句间停顿 (Pause): <span id="delay-value">0ms</span></label>
-                <input type="range" id="delay-range" min="0" max="3000" step="100" value="0">
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="repeat-select">单句重复 (Repeat)</label>
-                <select id="repeat-select">
-                    <option value="1">只读 1 次 (No Repeat)</option>
-                    <option value="2">重复 2 次 (2x)</option>
-                    <option value="3">重复 3 次 (3x)</option>
-                    <option value="5">重复 5 次 (5x)</option>
-                    <option value="10">重复 10 次 (10x)</option>
-                </select>
-            </div>
-        </div>
-        <div class="modes-row">
-            <label class="checkbox-container">
-                <input type="checkbox" id="auto-play-next" checked>
-                自动播放下一句
-            </label>
-            <label class="checkbox-container">
-                <input type="checkbox" id="shadow-mode">
-                跟读模式 (播放后暂停)
-            </label>
-            <label class="checkbox-container">
-                <input type="checkbox" id="loop-lesson">
-                循环播放整课
-            </label>
-            <label class="checkbox-container">
-                <input type="checkbox" id="gradual-speed">
-                语速随重复渐进 (0.3x ➡️ 目标)
-            </label>
-        </div>
-    </section>
+    
 
     <main class="text-container" id="text-container">
         <!-- 句子将被 JS 渲染在此处 -->
     </main>
 
+    <audio id="audio-player" src="Lesson-58.mp3"></audio>
+
     <section class="progress-panel">
-        <div class="overall-progress-container">
+        <div class="overall-progress-container" style="cursor: pointer;">
             <div class="overall-progress-bar" id="overall-progress-bar"></div>
         </div>
         <div class="progress-controls-row">
@@ -581,30 +382,33 @@
                 <span id="elapsed-time">00:00</span> / <span id="total-time">00:00</span>
             </div>
             <div class="media-controls">
-                <button id="play-btn" class="media-btn" title="开始/恢复播放">
-                    <svg width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
-                </button>
-                <button id="pause-btn" class="media-btn" title="暂停播放">
-                    <svg width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"/></svg>
-                </button>
-                <button id="stop-btn" class="media-btn" title="停止播放">
-                    <svg width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M5 3.5h6A1.5 1.5 0 0 1 12.5 5v6a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 11V5A1.5 1.5 0 0 1 5 3.5z"/></svg>
+                <button id="play-btn" class="media-btn" title="播放/暂停">
+                    <svg id="play-icon" width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
+                    <svg id="pause-icon" style="display:none;" width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"/></svg>
                 </button>
             </div>
-            <div class="status-indicator">
-                <span id="player-status">已停止</span>
+            <div class="speed-control" style="display: flex; align-items: center; gap: 8px;">
+                <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600;">倍速:</label>
+                <select id="speed-select" style="height: 30px; padding: 2px 6px; border-radius: 6px; background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(255,255,255,0.1); color: var(--text-primary); cursor: pointer;">
+                    <option value="0.5">0.5x</option>
+                    <option value="0.8">0.8x</option>
+                    <option value="1.0" selected>1.0x</option>
+                    <option value="1.25">1.25x</option>
+                    <option value="1.5">1.5x</option>
+                </select>
             </div>
         </div>
     </section>
 
+
+    
+
     <script>
         const articles = [
-            {
-                en: "Lesson 58: A Spot of Bother",
+            { start: 0, en: "Lesson 58: A Spot of Bother",
                 zh: "第 58 课：一点小麻烦"
             },
-            {
-                en: "The old lady was glad to be back at the block of flats where she lived.",
+            { start: 14.73, en: "The old lady was glad to be back at the block of flats where she lived.",
                 zh: "这位老太太很高兴回到了她居住的那栋公寓楼。",
                 syntax: {
                     main: "The old lady (主语) + was (系动词) + glad (表语)",
@@ -614,8 +418,7 @@
                     ]
                 }
             },
-            {
-                en: "Her shopping had tired her and her basket had grown heavier with every step of the way home.",
+            { start: 20.86, en: "Her shopping had tired her and her basket had grown heavier with every step of the way home.",
                 zh: "购物使她感到疲惫，而且回家的路上，她每走一步，篮子就显得越发沉重。",
                 syntax: {
                     main: "由 and 连接的两个并列分句",
@@ -626,8 +429,7 @@
                     ]
                 }
             },
-            {
-                en: "In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor, both were forgotten in her sudden discovery that her front door was open.",
+            { start: 28.27, en: "In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor, both were forgotten in her sudden discovery that her front door was open.",
                 zh: "在电梯里，她想着午饭和好好休息一下；但当她在自己那一层走出电梯时，她突然发现房门大开，于是把这两件事全忘了。",
                 syntax: {
                     main: "由 but 连接的并列复合句",
@@ -639,8 +441,7 @@
                     ]
                 }
             },
-            {
-                en: "She was thinking that she must reprimand her home help the next morning for such a monstrous piece of negligence, when she remembered that she had gone shopping after the home help had left and she knew that she had turned both keys in their locks.",
+            { start: 42.07, en: "She was thinking that she must reprimand her home help the next morning for such a monstrous piece of negligence, when she remembered that she had gone shopping after the home help had left and she knew that she had turned both keys in their locks.",
                 zh: "她正想着第二天早上一定要责备她的家政助理如此粗心大意，这时她想起自己是在家政助理离开后才去购物的，而且她记得自己当时把两把锁都锁上了。",
                 syntax: {
                     main: "She (主) + was thinking (谓) + that宾语从句",
@@ -653,8 +454,7 @@
                     ]
                 }
             },
-            {
-                en: "She walked slowly into the hall and at once noticed that all the room doors were open, yet following her regular practice she had shut them before going out.",
+            { start: 60.63, en: "She walked slowly into the hall and at once noticed that all the room doors were open, yet following her regular practice she had shut them before going out.",
                 zh: "她慢慢走进门厅，立刻注意到所有的房门都开着，然而按照惯例，她在出门前是把它们都关好的。",
                 syntax: {
                     main: "由 yet 连接的并列句",
@@ -666,8 +466,7 @@
                     ]
                 }
             },
-            {
-                en: "Looking into the drawing room, she saw a scene of confusion over by her writing desk.",
+            { start: 72.69, en: "Looking into the drawing room, she saw a scene of confusion over by her writing desk.",
                 zh: "她朝客厅里望去，看到写字台那边一片狼藉。",
                 syntax: {
                     main: "she (主) + saw (谓) + a scene of confusion (宾)",
@@ -677,8 +476,7 @@
                     ]
                 }
             },
-            {
-                en: "It was as clear as daylight then that burglars had forced an entry during her absence.",
+            { start: 79.28, en: "It was as clear as daylight then that burglars had forced an entry during her absence.",
                 zh: "那时她完全明白了，在她外出期间，窃贼强行闯入了家中。",
                 syntax: {
                     main: "It (形式主语) + was (系) + as clear as daylight (表) + that主语从句 (真正主语)",
@@ -688,8 +486,7 @@
                     ]
                 }
             },
-            {
-                en: "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement.",
+            { start: 85.89, en: "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement.",
                 zh: "她的第一反应是到各个房间去搜寻窃贼，但随后她觉得以自己的年纪，找个人陪同会更稳妥些，于是她去地下室找来了门房。",
                 syntax: {
                     main: "由 but 和 so 连接的并列复合句",
@@ -700,8 +497,7 @@
                     ]
                 }
             },
-            {
-                en: "By this time her legs were beginning to tremble, so she sat down and accepted a cup of very strong tea, while he telephoned the police.",
+            { start: 101.71, en: "By this time her legs were beginning to tremble, so she sat down and accepted a cup of very strong tea, while he telephoned the police.",
                 zh: "这时她的双腿开始发抖，于是她坐下来喝了一杯浓茶，而门房则打电话报了警。",
                 syntax: {
                     main: "由 so 引导的并列结果句",
@@ -712,8 +508,7 @@
                     ]
                 }
             },
-            {
-                en: "Then, her composure regained, she was ready to set off with the porter's assistance to search for any intruders who might still be lurking in her flat.",
+            { start: 112.27, en: "Then, her composure regained, she was ready to set off with the porter's assistance to search for any intruders who might still be lurking in her flat.",
                 zh: "随后，她恢复了镇定，准备在门房的协助下出发，搜寻可能仍潜伏在她公寓里的入侵者。",
                 syntax: {
                     main: "she (主) + was (系) + ready (表) + to set off (状)",
@@ -724,8 +519,7 @@
                     ]
                 }
             },
-            {
-                en: "They went through the rooms, being careful to touch nothing, as they did not want to hinder the police in their search for fingerprints.",
+            { start: 124.54, en: "They went through the rooms, being careful to touch nothing, as they did not want to hinder the police in their search for fingerprints.",
                 zh: "他们走遍了各个房间，小心翼翼地什么都不碰，因为他们不想妨碍警察寻找指纹。",
                 syntax: {
                     main: "They (主) + went through (谓) + the rooms (宾)",
@@ -736,15 +530,13 @@
                     ]
                 }
             },
-            {
-                en: "The chaos was inconceivable.",
+            { start: 133.88, en: "The chaos was inconceivable.",
                 zh: "屋里乱得难以想象。",
                 syntax: {
                     main: "The chaos (主) + was (系) + inconceivable (表)"
                 }
             },
-            {
-                en: "She had lived in the flat for thirty years and was a veritable magpie at hoarding: and it seemed as though everything she possessed had been tossed out and turned over and over.",
+            { start: 137.27, en: "She had lived in the flat for thirty years and was a veritable magpie at hoarding: and it seemed as though everything she possessed had been tossed out and turned over and over.",
                 zh: "她在这套公寓里住了三十年，是个十足的“积攒狂”：看起来她所有的东西都被翻了出来，翻得底朝天。",
                 syntax: {
                     main: "由并列连接符 : 连接的并列复合句",
@@ -755,8 +547,7 @@
                     ]
                 }
             },
-            {
-                en: "At least sorting out the things she should have discarded years ago was now being made easier for her.",
+            { start: 151.08, en: "At least sorting out the things she should have discarded years ago was now being made easier for her.",
                 zh: "至少，清理那些她多年前就该扔掉的东西现在变得容易了。",
                 syntax: {
                     main: "sorting out... (动名词作主语) + was now being made (谓，进行被动) + easier (表，宾补移位)",
@@ -766,8 +557,7 @@
                     ]
                 }
             },
-            {
-                en: "Then a police inspector arrived with a constable and she told them of her discovery of the ransacked flat.",
+            { start: 158.73, en: "Then a police inspector arrived with a constable and she told them of her discovery of the ransacked flat.",
                 zh: "接着，一位警督带着一名警员赶到了，她向他们讲述了自己发现公寓被洗劫一事。",
                 syntax: {
                     main: "由 and 连接的并列主从句",
@@ -777,8 +567,7 @@
                     ]
                 }
             },
-            {
-                en: "The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby proving that the burglars had either used skeleton keys or entered over the balcony.",
+            { start: 167.15, en: "The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby proving that the burglars had either used skeleton keys or entered over the balcony.",
                 zh: "警督开始寻找指纹，而警员则检查了前门的锁是否被撬过，从而证明窃贼要么是用了万能钥匙，要么是从阳台闯入的。",
                 syntax: {
                     main: "The inspector (主) + began (谓) + to look for... (宾)",
@@ -789,8 +578,7 @@
                     ]
                 }
             },
-            {
-                en: "There was no trace of fingerprints, but the inspector found a dirty red bundle that contained jewellery which the old lady said was not hers.",
+            { start: 182.03, en: "There was no trace of fingerprints, but the inspector found a dirty red bundle that contained jewellery which the old lady said was not hers.",
                 zh: "现场没有留下指纹，但警督发现了一个肮脏的红色包裹，里面装着一些珠宝，老太太说那不是她的。",
                 syntax: {
                     main: "由 but 连接的并列句",
@@ -802,8 +590,7 @@
                     ]
                 }
             },
-            {
-                en: "So their entry into this flat was apparently not the burglars' first job that day and they must have been disturbed.",
+            { start: 193.07, en: "So their entry into this flat was apparently not the burglars' first job that day and they must have been disturbed.",
                 zh: "看来他们闯入这套公寓显然不是当天作的第一起案子，而且他们一定是被人惊动了。",
                 syntax: {
                     main: "由 and 连接的并列句",
@@ -813,8 +600,7 @@
                     ]
                 }
             },
-            {
-                en: "The inspector then asked the old lady to try to check what was missing by the next day, and advised her not to stay alone in the flat for a few nights.",
+            { start: 201.84, en: "The inspector then asked the old lady to try to check what was missing by the next day, and advised her not to stay alone in the flat for a few nights.",
                 zh: "警督随后请老太太尽量在第二天前核对一下丢失了什么东西，并建议她这几天晚上不要独自待在公寓里。",
                 syntax: {
                     main: "The inspector (主) + 并列谓语 (asked, advised)",
@@ -825,8 +611,7 @@
                     ]
                 }
             },
-            {
-                en: "The old lady thought he was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she described as a little spot of bother.",
+            { start: 212.11, en: "The old lady thought he was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she described as a little spot of bother.",
                 zh: "老太太觉得他真是个爱操心的人，但既然门房也同意他的看法，她便给女儿打了电话，请她来帮自己处理她所说的“一点小麻烦”。",
                 syntax: {
                     main: "由 but 连接的并列复合句",
@@ -840,119 +625,125 @@
             }
         ];
 
-        // 估计总单词数
-        const totalWords = articles.reduce((sum, item) => sum + item.en.split(/\s+/).filter(Boolean).length, 0);
-
         const textContainer = document.getElementById('text-container');
-        const voiceSelect = document.getElementById('voice-select');
-        const rateRange = document.getElementById('rate-range');
-        const rateValue = document.getElementById('rate-value');
-        const delayRange = document.getElementById('delay-range');
-        const delayValue = document.getElementById('delay-value');
-        const autoPlayNextCheckbox = document.getElementById('auto-play-next');
-        const shadowModeCheckbox = document.getElementById('shadow-mode');
-        const loopLessonCheckbox = document.getElementById('loop-lesson');
-        const repeatSelect = document.getElementById('repeat-select');
-        const gradualSpeedCheckbox = document.getElementById('gradual-speed');
+        const audioPlayer = document.getElementById('audio-player');
         const playBtn = document.getElementById('play-btn');
-        const pauseBtn = document.getElementById('pause-btn');
-        const stopBtn = document.getElementById('stop-btn');
-        const playerStatus = document.getElementById('player-status');
+        const playIcon = document.getElementById('play-icon');
+        const pauseIcon = document.getElementById('pause-icon');
+        const overallProgressContainer = document.querySelector('.overall-progress-container');
+        const overallProgressBar = document.getElementById('overall-progress-bar');
         const elapsedTimeEl = document.getElementById('elapsed-time');
         const totalTimeEl = document.getElementById('total-time');
-        const overallProgressBar = document.getElementById('overall-progress-bar');
+        const speedSelect = document.getElementById('speed-select');
 
-        let synth = window.speechSynthesis;
-        let voices = [];
-        let currentUtterance = null;
-        let activeIndex = -1;
-        
-        let timerInterval = null;
-        let elapsedSeconds = 0;
-        let currentRepeatIndex = 0;
+        let currentActiveIndex = -1;
 
-        // 格式化时间 mm:ss
+        // format seconds to mm:ss
         function formatTime(secs) {
+            if (isNaN(secs)) return '00:00';
             const m = Math.floor(secs / 60).toString().padStart(2, '0');
-            const s = (secs % 60).toString().padStart(2, '0');
+            const s = Math.floor(secs % 60).toString().padStart(2, '0');
             return `${m}:${s}`;
         }
 
-        // 计算单次重复对应的语速
-        function getRepeatSpeed(r, repeatCount, targetSpeed) {
-            if (!gradualSpeedCheckbox.checked || repeatCount <= 1) {
-                return targetSpeed;
+        // update progress panel
+        audioPlayer.addEventListener('timeupdate', () => {
+            const current = audioPlayer.currentTime;
+            const duration = audioPlayer.duration || 0;
+            
+            // progress bar
+            if (duration > 0) {
+                const pct = (current / duration) * 100;
+                overallProgressBar.style.width = `${pct}%`;
             }
-            const startSpeed = 0.3;
-            const endSpeed = targetSpeed;
-            if (r === 0) return startSpeed;
-            return startSpeed + (r / (repeatCount - 1)) * (endSpeed - startSpeed);
-        }
+            
+            elapsedTimeEl.textContent = formatTime(current);
+            totalTimeEl.textContent = formatTime(duration);
 
-        // 更新估计的总播放时间
-        function updateEstimatedTotalTime() {
-            const rate = parseFloat(rateRange.value);
-            const repeatCount = parseInt(repeatSelect.value);
-            const isGradual = gradualSpeedCheckbox.checked;
-            
-            const startIndex = (activeIndex === -1) ? 0 : activeIndex;
-            let activeArticles = [];
-            
-            if (activeIndex === -1) {
-                // 已停止状态：估算整课的总时间
-                activeArticles = articles;
-            } else {
-                if (autoPlayNextCheckbox.checked) {
-                    // 自动连读开启：估算从当前句到课文结束的时间
-                    activeArticles = articles.slice(startIndex);
+            // update current sentence highlight
+            let activeIdx = -1;
+            for (let i = 0; i < articles.length; i++) {
+                if (current >= articles[i].start) {
+                    activeIdx = i;
                 } else {
-                    // 自动连读关闭：仅估算当前单句的时间
-                    activeArticles = [articles[startIndex]];
+                    break;
                 }
             }
-            
-            const sessionWords = activeArticles.reduce((sum, item) => sum + item.en.split(/\s+/).filter(Boolean).length, 0);
-            
-            // 如果开启语速渐进，则使用平均语速来估计总时长
-            const startSpeed = 0.3;
-            const effectiveRate = (isGradual && repeatCount > 1) ? (startSpeed + rate) / 2 : rate;
-            
-            const speedWpm = 165 * effectiveRate;
-            const totalDelaySeconds = activeArticles.length * repeatCount * (parseInt(delayRange.value) / 1000);
-            const speakingSeconds = (sessionWords / speedWpm) * 60 * repeatCount;
-            const estimatedTotalSeconds = Math.max(1, Math.round(speakingSeconds + totalDelaySeconds));
-            
-            totalTimeEl.textContent = formatTime(estimatedTotalSeconds);
-        }
 
-        // 计时器控制
-        function startTimer() {
-            clearInterval(timerInterval);
-            timerInterval = setInterval(() => {
-                if (synth.speaking && !synth.paused) {
-                    elapsedSeconds++;
-                    elapsedTimeEl.textContent = formatTime(elapsedSeconds);
-                    
-                    // 计算总体时间占比更新进度条
-                    const totalTimeText = totalTimeEl.textContent.split(':');
-                    const totalSecs = parseInt(totalTimeText[0]) * 60 + parseInt(totalTimeText[1]);
-                    const percent = Math.min((elapsedSeconds / totalSecs) * 100, 100);
-                    overallProgressBar.style.width = `${percent}%`;
+            if (activeIdx !== currentActiveIndex) {
+                currentActiveIndex = activeIdx;
+                setActiveBlock(currentActiveIndex);
+            }
+        });
+
+        // seek on progress bar click
+        overallProgressContainer.addEventListener('click', (e) => {
+            const rect = overallProgressContainer.getBoundingClientRect();
+            const clickX = e.clientX - rect.left;
+            const width = rect.width;
+            const pct = clickX / width;
+            if (audioPlayer.duration) {
+                audioPlayer.currentTime = pct * audioPlayer.duration;
+            }
+        });
+
+        // play/pause audio
+        playBtn.addEventListener('click', () => {
+            if (audioPlayer.paused) {
+                audioPlayer.play();
+            } else {
+                audioPlayer.pause();
+            }
+        });
+
+        audioPlayer.addEventListener('play', () => {
+            playIcon.style.display = 'none';
+            pauseIcon.style.display = 'block';
+        });
+
+        audioPlayer.addEventListener('pause', () => {
+            playIcon.style.display = 'block';
+            pauseIcon.style.display = 'none';
+        });
+
+        // speed control
+        speedSelect.addEventListener('change', () => {
+            audioPlayer.playbackRate = parseFloat(speedSelect.value);
+        });
+
+        function setActiveBlock(index) {
+            document.querySelectorAll('.sentence-block').forEach((block, i) => {
+                if (i === index) {
+                    block.classList.add('active');
+                    block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else {
+                    block.classList.remove('active');
                 }
-            }, 1000);
+            });
         }
 
-        function stopTimer() {
-            clearInterval(timerInterval);
+        const synth = window.speechSynthesis;
+        let voices = [];
+
+        function speakWord(wordText) {
+            synth.cancel();
+            const cleanWord = wordText.replace(/[^a-zA-Z0-9'-]/g, '');
+            const utterance = new SpeechSynthesisUtterance(cleanWord);
+            if (voices.length === 0) {
+                voices = synth.getVoices();
+            }
+            const samantha = voices.find(v => v.name.includes('Samantha'));
+            if (samantha) {
+                utterance.voice = samantha;
+            } else {
+                const enVoice = voices.find(v => v.lang.toLowerCase().startsWith('en'));
+                if (enVoice) utterance.voice = enVoice;
+            }
+            utterance.rate = 0.6;
+            synth.speak(utterance);
         }
 
-        function resetTimer() {
-            stopTimer();
-            elapsedSeconds = 0;
-            elapsedTimeEl.textContent = "00:00";
-            overallProgressBar.style.width = "0%";
-        }
-
+        
         // 将英文句子格式化为带有字符偏移定位的单词<span>标签
         function renderSentenceHTML(text) {
             const regex = /([a-zA-Z0-9]+(?:[-'][a-zA-Z0-9]+)*)|([^\s\w]+)|(\s+)/g;
@@ -1000,20 +791,14 @@
                     <p class="en">${renderSentenceHTML(item.en)}</p>
                     <p class="zh">${item.zh}</p>
                     ${syntaxHTML}
-                    <div class="speak-indicator">
-                        <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M11.536 14.01A8.473 8.473 0 0 0 14.026 8a8.473 8.473 0 0 0-2.49-6.01l-.708.707A7.476 7.476 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z"/><path d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.483 5.483 0 0 1 11.025 8a5.483 5.483 0 0 1-1.61 3.89l.706.706z"/><path d="M8.707 11.182A4.486 4.486 0 0 0 10.025 8a4.486 4.486 0 0 0-1.318-3.182L8 5.525A3.489 3.489 0 0 1 9.025 8 3.49 3.49 0 0 1 8 10.475l.707.707zM6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06z"/></svg>
-                    </div>
-                    <div class="progress-bar"></div>
                 `;
-                
+
+                // click block to play audio from sentence start
                 block.addEventListener('click', () => {
-                    resetTimer();
-                    setActiveBlock(index);
-                    updateEstimatedTotalTime();
-                    startTimer();
-                    speak(index, true); // 手动点击触发
+                    audioPlayer.currentTime = item.start;
+                    audioPlayer.play();
                 });
-                
+
                 block.querySelectorAll('.word').forEach(wordSpan => {
                     wordSpan.addEventListener('click', (e) => {
                         e.stopPropagation();
@@ -1040,329 +825,6 @@
             });
         }
 
-        // 朗读单个单词
-        function speakWord(wordText) {
-            synth.cancel();
-            stopTimer();
-            clearAllWordHighlights();
-            
-            const cleanWord = wordText.replace(/[^a-zA-Z0-9'-]/g, '');
-            const utterance = new SpeechSynthesisUtterance(cleanWord);
-            
-            const selectedVoiceName = voiceSelect.value;
-            if (selectedVoiceName) {
-                const voice = voices.find(v => v.name === selectedVoiceName);
-                if (voice) utterance.voice = voice;
-            }
-            
-            utterance.rate = parseFloat(rateRange.value);
-            synth.speak(utterance);
-        }
-
-        function clearAllWordHighlights() {
-            document.querySelectorAll('.word').forEach(w => {
-                w.classList.remove('word-highlight');
-            });
-        }
-
-        // 加载语音库
-        function loadVoices() {
-            voices = synth.getVoices();
-            voiceSelect.innerHTML = '';
-            
-            // 仅筛选 macOS 系统原生支持完美变慢的经典发音人，避开其他干扰项
-            const samantha = voices.find(v => v.name.includes('Samantha'));
-            const daniel = voices.find(v => v.name.includes('Daniel'));
-            
-            if (samantha) {
-                const opt = document.createElement('option');
-                opt.value = samantha.name;
-                opt.textContent = "美式发音 (Samantha)";
-                opt.selected = true;
-                voiceSelect.appendChild(opt);
-            }
-            
-            if (daniel) {
-                const opt = document.createElement('option');
-                opt.value = daniel.name;
-                opt.textContent = "英式发音 (Daniel)";
-                if (!samantha) opt.selected = true;
-                voiceSelect.appendChild(opt);
-            }
-
-            if (!samantha && !daniel) {
-                // 回退逻辑，防止特殊情况下发音人为空
-                const enVoices = voices.filter(v => v.lang.toLowerCase().startsWith('en'));
-                enVoices.forEach(voice => {
-                    const option = document.createElement('option');
-                    option.value = voice.name;
-                    option.textContent = voice.name;
-                    voiceSelect.appendChild(option);
-                });
-            }
-        }
-
-        // 朗读总控函数
-        function speak(index, isManual = false) {
-            if (isManual) {
-                synth.cancel();
-                currentRepeatIndex = 0;
-            }
-
-            if (index < 0 || index >= articles.length) {
-                setActiveBlock(-1);
-                stopTimer();
-                return;
-            }
-
-            const delay = parseInt(delayRange.value);
-            const repeatCount = parseInt(repeatSelect.value);
-            // 如果自动连读开启，停顿为0，且非跟读模式：使用原生浏览器队列，实现完美 0 延迟句间过渡
-            if (autoPlayNextCheckbox.checked && delay === 0 && !shadowModeCheckbox.checked) {
-                if (isManual) {
-                    for (let i = index; i < articles.length; i++) {
-                        for (let r = 0; r < repeatCount; r++) {
-                            queueSentence(i, r === repeatCount - 1, r, repeatCount);
-                        }
-                    }
-                    return;
-                }
-            }
-
-            // 否则使用普通的单句播放模式，并利用 setTimeout 实现停顿控制
-            playSingleSentence(index);
-        }
-
-        // 原生队列入队朗读（用于 0 延迟无缝朗读）
-        function queueSentence(i, isLastRepeat, repeatIndex, repeatCount) {
-            const sentence = articles[i].en;
-            const utterance = new SpeechSynthesisUtterance(sentence);
-            
-            const selectedVoiceName = voiceSelect.value;
-            if (selectedVoiceName) {
-                const voice = voices.find(v => v.name === selectedVoiceName);
-                if (voice) utterance.voice = voice;
-            }
-            const targetSpeed = parseFloat(rateRange.value);
-            utterance.rate = getRepeatSpeed(repeatIndex, repeatCount, targetSpeed);
-
-            utterance.onstart = () => {
-                setActiveBlock(i);
-            };
-
-            utterance.onboundary = function(event) {
-                if (event.name === 'word') {
-                    const charIndex = event.charIndex;
-                    const block = document.querySelector(`.sentence-block[data-index="${i}"]`);
-                    const progressBar = block.querySelector('.progress-bar');
-                    
-                    // 移除了单词级别的闪烁高亮，以防跟读时视觉干扰
-
-                    const percent = (charIndex / sentence.length) * 100;
-                    progressBar.style.width = `${percent}%`;
-                }
-            };
-
-            utterance.onend = function() {
-                const block = document.querySelector(`.sentence-block[data-index="${i}"]`);
-                const progressBar = block.querySelector('.progress-bar');
-                progressBar.style.width = '0%';
-                block.querySelectorAll('.word').forEach(w => w.classList.remove('word-highlight'));
-                
-                if (i === articles.length - 1 && isLastRepeat) {
-                    if (loopLessonCheckbox.checked) {
-                        setTimeout(() => {
-                            resetTimer();
-                            startTimer();
-                            speak(0, true);
-                        }, parseInt(delayRange.value) || 200);
-                    } else {
-                        setActiveBlock(-1);
-                        stopTimer();
-                        playerStatus.textContent = "已停止";
-                    }
-                }
-            };
-
-            utterance.onerror = function() {
-                const block = document.querySelector(`.sentence-block[data-index="${i}"]`);
-                const progressBar = block.querySelector('.progress-bar');
-                progressBar.style.width = '0%';
-                block.querySelectorAll('.word').forEach(w => w.classList.remove('word-highlight'));
-                setActiveBlock(-1);
-                stopTimer();
-            };
-
-            synth.speak(utterance);
-        }
-
-        // 单句朗读模式
-        function playSingleSentence(index) {
-            setActiveBlock(index);
-
-            const sentence = articles[index].en;
-            currentUtterance = new SpeechSynthesisUtterance(sentence);
-            
-            const selectedVoiceName = voiceSelect.value;
-            if (selectedVoiceName) {
-                const voice = voices.find(v => v.name === selectedVoiceName);
-                if (voice) currentUtterance.voice = voice;
-            }
-
-            const targetSpeed = parseFloat(rateRange.value);
-            const repeatCount = parseInt(repeatSelect.value);
-            currentUtterance.rate = getRepeatSpeed(currentRepeatIndex, repeatCount, targetSpeed);
-
-            const block = document.querySelector(`.sentence-block[data-index="${index}"]`);
-            const progressBar = block.querySelector('.progress-bar');
-            
-            currentUtterance.onboundary = function(event) {
-                if (event.name === 'word') {
-                    const charIndex = event.charIndex;
-                    
-                    // 移除了单词级别的闪烁高亮，以防跟读时视觉干扰
-
-                    const percent = (charIndex / sentence.length) * 100;
-                    progressBar.style.width = `${percent}%`;
-                }
-            };
-
-            currentUtterance.onend = function() {
-                progressBar.style.width = '0%';
-                clearAllWordHighlights();
-                
-                if (shadowModeCheckbox.checked) {
-                    stopTimer();
-                    return;
-                }
-
-                const repeatTotal = parseInt(repeatSelect.value);
-                currentRepeatIndex++;
-
-                if (currentRepeatIndex < repeatTotal) {
-                    const delay = parseInt(delayRange.value);
-                    setTimeout(() => {
-                        if (activeIndex === index) {
-                            playSingleSentence(index);
-                        }
-                    }, delay);
-                } else {
-                    currentRepeatIndex = 0;
-                    if (autoPlayNextCheckbox.checked) {
-                        const delay = parseInt(delayRange.value);
-                        setTimeout(() => {
-                            if (activeIndex === index) {
-                                if (index + 1 < articles.length) {
-                                    speak(index + 1, false); // 自动播放下一句时不调用 cancel
-                                } else if (loopLessonCheckbox.checked) {
-                                    resetTimer();
-                                    startTimer();
-                                    speak(0, true); // 循环播放整课
-                                } else {
-                                    setActiveBlock(-1);
-                                    stopTimer();
-                                    playerStatus.textContent = "已停止";
-                                }
-                            }
-                        }, delay);
-                    } else {
-                        setActiveBlock(-1);
-                        stopTimer();
-                        playerStatus.textContent = "已停止";
-                        updateEstimatedTotalTime();
-                    }
-                }
-            };
-
-            currentUtterance.onerror = function() {
-                progressBar.style.width = '0%';
-                clearAllWordHighlights();
-                setActiveBlock(-1);
-                stopTimer();
-            };
-
-            synth.speak(currentUtterance);
-        }
-
-        // 激活状态句块高亮与滚动定位
-        function setActiveBlock(index) {
-            activeIndex = index;
-            document.querySelectorAll('.sentence-block').forEach((block, i) => {
-                const progressBar = block.querySelector('.progress-bar');
-                progressBar.style.width = '0%';
-                if (i === index) {
-                    block.classList.add('active');
-                    block.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                } else {
-                    block.classList.remove('active');
-                    block.querySelectorAll('.word').forEach(w => w.classList.remove('word-highlight'));
-                }
-            });
-        }
-
-        rateRange.addEventListener('input', () => {
-            rateValue.textContent = `${rateRange.value}x`;
-            updateEstimatedTotalTime();
-            if (synth.speaking && activeIndex !== -1) {
-                speak(activeIndex, true); // 调节语速时需要重新生成队列，视作手动触发
-            }
-        });
-
-        delayRange.addEventListener('input', () => {
-            delayValue.textContent = `${delayRange.value}ms`;
-            updateEstimatedTotalTime();
-        });
-
-        repeatSelect.addEventListener('change', () => {
-            updateEstimatedTotalTime();
-            if (synth.speaking && activeIndex !== -1) {
-                speak(activeIndex, true); // 切换重复次数需要重置播放队列，视作手动触发
-            }
-        });
-
-        gradualSpeedCheckbox.addEventListener('change', () => {
-            updateEstimatedTotalTime();
-            if (synth.speaking && activeIndex !== -1) {
-                speak(activeIndex, true); // 切换语速渐进时重置队列
-            }
-        });
-
-        playBtn.addEventListener('click', () => {
-            if (synth.paused) {
-                synth.resume();
-                playerStatus.textContent = "播放中";
-                startTimer();
-            } else if (!synth.speaking) {
-                const startIndex = activeIndex === -1 ? 0 : activeIndex;
-                resetTimer();
-                setActiveBlock(startIndex);
-                updateEstimatedTotalTime();
-                startTimer();
-                speak(startIndex, true);
-                playerStatus.textContent = "播放中";
-            }
-        });
-
-        pauseBtn.addEventListener('click', () => {
-            if (synth.speaking && !synth.paused) {
-                synth.pause();
-                playerStatus.textContent = "已暂停";
-                stopTimer();
-            }
-        });
-
-        stopBtn.addEventListener('click', () => {
-            synth.cancel();
-            clearAllWordHighlights();
-            resetTimer();
-            setActiveBlock(-1);
-            playerStatus.textContent = "已停止";
-            updateEstimatedTotalTime();
-        });
-
-        if (typeof speechSynthesis !== 'undefined' && speechSynthesis.onvoiceschanged !== undefined) {
-            speechSynthesis.onvoiceschanged = loadVoices;
-        }
 
         // 释义浮窗逻辑
         const tooltip = document.createElement('div');
@@ -1471,8 +933,8 @@
         }
 
         renderText();
-        updateEstimatedTotalTime();
-        setTimeout(loadVoices, 200);
+        
+        
     </script>
 </body>
 </html>
