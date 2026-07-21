@@ -7,16 +7,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-color: #0f172a;
-            --card-bg: rgba(30, 41, 59, 0.7);
-            --card-border: rgba(255, 255, 255, 0.08);
-            --text-primary: #f8fafc;
-            --text-secondary: #94a3b8;
-            --text-zh: #cbd5e1;
-            --accent-color: #38bdf8;
-            --accent-hover: #0ea5e9;
-            --highlight-bg: rgba(56, 189, 248, 0.15);
-            --highlight-border: #38bdf8;
+            --bg-color: #eaf2e8;
+            --card-bg: #f3faf2;
+            --card-border: #d4e4d2;
+            --text-primary: #2d3b2d;
+            --text-secondary: #5e735e;
+            --text-zh: #4a5c4a;
+            --accent-color: #3b7e47;
+            --accent-hover: #2d6537;
+            --highlight-bg: #d7ebd5;
+            --highlight-border: #3b7e47;
         }
 
         * {
@@ -30,8 +30,8 @@
         body {
             background-color: var(--bg-color);
             background-image: 
-                radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.08) 0px, transparent 50%),
-                radial-gradient(at 100% 100%, rgba(99, 102, 241, 0.08) 0px, transparent 50%);
+                radial-gradient(at 0% 0%, rgba(59, 126, 71, 0.05) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(93, 154, 105, 0.05) 0px, transparent 50%);
             color: var(--text-primary);
             min-height: 100vh;
             display: flex;
@@ -50,9 +50,7 @@
         h1 {
             font-size: 2.5rem;
             font-weight: 700;
-            background: linear-gradient(to right, #38bdf8, #818cf8);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            color: #26552f;
             margin-bottom: 0.5rem;
         }
 
@@ -84,13 +82,13 @@
             display: flex;
             flex-direction: column;
             gap: 0.6rem;
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 2px 8px rgba(45, 59, 45, 0.04);
         }
 
         .sentence-block.active {
-            background: rgba(56, 189, 248, 0.12);
+            background: #e2f2e0;
             border-color: var(--accent-color);
-            box-shadow: 0 0 20px rgba(56, 189, 248, 0.2), 0 4px 12px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 4px 16px rgba(59, 126, 71, 0.12);
         }
 
         .sentence-block.active::before {
@@ -100,7 +98,7 @@
             top: 0;
             bottom: 0;
             width: 4px;
-            background: linear-gradient(to bottom, #38bdf8, #818cf8);
+            background: linear-gradient(to bottom, #3b7e47, #5ea86c);
             border-radius: 4px 0 0 4px;
         }
 
@@ -124,6 +122,7 @@
             border-radius: 4px;
             padding: 0 2px;
             transition: all 0.15s ease;
+            cursor: pointer;
         }
 
         .word:hover {
@@ -135,13 +134,11 @@
         /* 悬浮单词释义卡片 */
         .dict-tooltip {
             position: absolute;
-            background: rgba(15, 23, 42, 0.98);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 255, 255, 0.15);
+            background: #ffffff;
+            border: 1px solid #c2dac0;
             border-radius: 10px;
             padding: 10px 14px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+            box-shadow: 0 10px 25px rgba(38, 85, 47, 0.12);
             color: var(--text-primary);
             z-index: 2000;
             pointer-events: none;
@@ -165,7 +162,7 @@
             align-items: baseline;
             gap: 8px;
             margin-bottom: 4px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            border-bottom: 1px solid #e0ebe0;
             padding-bottom: 4px;
         }
 
@@ -183,7 +180,7 @@
 
         .dict-tooltip-pos {
             font-size: 0.75rem;
-            color: #818cf8;
+            color: #3b7e47;
             font-style: italic;
             margin-bottom: 6px;
             font-weight: 500;
@@ -200,20 +197,13 @@
             font-weight: 600;
         }
 
-        /* 隐藏单句底部的进度条，跟读时无需显示 */
-        
-
-        
-
-        
-
         /* 句子结构语法分析样式 */
         .syntax-toggle {
             align-self: flex-start;
             font-size: 0.8rem;
             color: var(--accent-color);
-            background: rgba(56, 189, 248, 0.08);
-            border: 1px dashed rgba(56, 189, 248, 0.3);
+            background: #e2f0e0;
+            border: 1px dashed #abcfa8;
             border-radius: 6px;
             padding: 4px 10px;
             
@@ -223,10 +213,11 @@
             display: inline-flex;
             align-items: center;
             gap: 4px;
+            cursor: pointer;
         }
 
         .syntax-toggle:hover {
-            background: rgba(56, 189, 248, 0.15);
+            background: #d1e8ce;
             border-style: solid;
         }
 
@@ -235,7 +226,7 @@
             font-size: 0.9rem;
             line-height: 1.5;
             color: var(--text-zh);
-            background: rgba(15, 23, 42, 0.3);
+            background: #eaf4e8;
             border-left: 3px solid var(--accent-color);
             padding: 10px 12px;
             border-radius: 4px;
@@ -269,13 +260,13 @@
             transform: translateX(-50%);
             width: calc(100% - 2rem);
             max-width: 700px;
-            background: rgba(15, 23, 42, 0.75);
+            background: rgba(243, 250, 242, 0.92);
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.08);
+            border: 1px solid #c2dac0;
             border-radius: 20px;
             padding: 1rem 1.5rem;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 12px 32px rgba(45, 59, 45, 0.08);
             z-index: 1000;
             display: flex;
             flex-direction: column;
@@ -291,7 +282,7 @@
         .overall-progress-container {
             width: 100%;
             height: 6px;
-            background: rgba(255, 255, 255, 0.1);
+            background: #d4e4d2;
             border-radius: 3px;
             overflow: hidden;
         }
@@ -299,7 +290,7 @@
         .overall-progress-bar {
             height: 100%;
             width: 0%;
-            background: linear-gradient(90deg, var(--accent-color), #818cf8);
+            background: linear-gradient(90deg, var(--accent-color), #5ea86c);
             transition: width 0.1s linear;
         }
 
@@ -337,6 +328,7 @@
             align-items: center;
             justify-content: center;
             transition: all 0.2s ease;
+            cursor: pointer;
         }
 
         .media-btn:hover {
@@ -346,8 +338,8 @@
 
         .media-btn#play-btn {
             background: var(--accent-color);
-            color: var(--bg-color);
-            box-shadow: 0 0 12px rgba(56, 189, 248, 0.3);
+            color: #ffffff;
+            box-shadow: 0 4px 12px rgba(59, 126, 71, 0.3);
         }
 
         .media-btn#play-btn:hover {
@@ -397,7 +389,7 @@
                 <span id="elapsed-time">00:00</span> / <span id="total-time">00:00</span>
             </div>
             <div class="media-controls" style="display: flex; gap: 8px;">
-                <button id="restart-btn" class="media-btn" title="从头重播" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.1); color: var(--text-primary);">
+                <button id="restart-btn" class="media-btn" title="从头重播" style="background: #e2f0e0; border: 1px solid #c2dac0; color: var(--text-primary);">
                     <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"/><path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"/></svg>
                 </button>
                 <button id="play-btn" class="media-btn" title="播放/暂停">
@@ -415,7 +407,7 @@
             </div>
             <div class="speed-control" style="display: flex; align-items: center; gap: 8px;">
                 <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600;">倍速:</label>
-                <select id="speed-select" style="height: 30px; padding: 2px 6px; border-radius: 6px; background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(255,255,255,0.1); color: var(--text-primary); cursor: pointer;">
+                <select id="speed-select" style="height: 30px; padding: 2px 6px; border-radius: 6px; background: #e2f0e0; border: 1px solid #c2dac0; color: var(--text-primary); cursor: pointer;">
                     <option value="0.5">0.5x</option>
                     <option value="0.6">0.6x</option>
                     <option value="0.7">0.7x</option>
