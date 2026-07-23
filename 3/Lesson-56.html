@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 56: Our Neighbour, the River - 智能跟读课本</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #eaf2e8;
+            --card-bg: #f3faf2;
+            --card-border: #d4e4d2;
+            --text-primary: #2d3b2d;
+            --text-secondary: #5e735e;
+            --text-zh: #4a5c4a;
+            --accent-color: #3b7e47;
+            --accent-hover: #2d6537;
+            --highlight-bg: #d7ebd5;
+            --highlight-border: #3b7e47;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(59, 126, 71, 0.05) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(93, 154, 105, 0.05) 0px, transparent 50%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem 1rem 6.5rem 1rem;
+        }
+
+        header {
+            width: 100%;
+            max-width: 900px;
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #26552f;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        /* 课文主体 */
+        .text-container {
+            width: 100%;
+            max-width: 900px;
+            display: flex;
+            flex-direction: column;
+            gap: 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        .sentence-block {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 14px;
+            padding: 1.2rem 1.5rem;
+            
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            box-shadow: 0 2px 8px rgba(45, 59, 45, 0.04);
+        }
+
+        .sentence-block.active {
+            background: #e2f2e0;
+            border-color: var(--accent-color);
+            box-shadow: 0 4px 16px rgba(59, 126, 71, 0.12);
+        }
+
+        .sentence-block.active::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(to bottom, #3b7e47, #5ea86c);
+            border-radius: 4px 0 0 4px;
+        }
+
+        .en {
+            font-size: 1.25rem;
+            line-height: 1.7;
+            font-weight: 400;
+            color: var(--text-primary);
+        }
+
+        .zh {
+            font-size: 1.05rem;
+            line-height: 1.6;
+            color: var(--text-zh);
+            font-weight: 300;
+        }
+
+        .word {
+            display: inline-block;
+            
+            border-radius: 4px;
+            padding: 0 2px;
+            transition: all 0.15s ease;
+            cursor: pointer;
+        }
+
+        .word:hover {
+            background-color: var(--highlight-bg);
+            color: var(--accent-color);
+            transform: translateY(-1px);
+        }
+
+        /* 悬浮单词释义卡片 */
+        .dict-tooltip {
+            position: absolute;
+            background: #ffffff;
+            border: 1px solid #c2dac0;
+            border-radius: 10px;
+            padding: 10px 14px;
+            box-shadow: 0 10px 25px rgba(38, 85, 47, 0.12);
+            color: var(--text-primary);
+            z-index: 2000;
+            pointer-events: none;
+            display: none;
+            opacity: 0;
+            transform: translateY(5px);
+            transition: opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1), transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            min-width: 180px;
+            max-width: 260px;
+            line-height: 1.4;
+        }
+        
+        .dict-tooltip.visible {
+            display: block;
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .dict-word-row {
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+            margin-bottom: 4px;
+            border-bottom: 1px solid #e0ebe0;
+            padding-bottom: 4px;
+        }
+
+        .dict-tooltip-word {
+            font-weight: 700;
+            color: var(--accent-color);
+            font-size: 1.05rem;
+        }
+
+        .dict-tooltip-ipa {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .dict-tooltip-pos {
+            font-size: 0.75rem;
+            color: #3b7e47;
+            font-style: italic;
+            margin-bottom: 6px;
+            font-weight: 500;
+        }
+
+        .dict-tooltip-trans {
+            color: var(--text-zh);
+            font-size: 0.9rem;
+            font-weight: 400;
+        }
+
+        /* 句子结构语法分析样式 */
+        .syntax-toggle {
+            align-self: flex-start;
+            font-size: 0.8rem;
+            color: var(--accent-color);
+            background: #e2f0e0;
+            border: 1px dashed #abcfa8;
+            border-radius: 6px;
+            padding: 4px 10px;
+            
+            margin-top: 4px;
+            user-select: none;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            cursor: pointer;
+        }
+
+        .syntax-toggle:hover {
+            background: #d1e8ce;
+            border-style: solid;
+        }
+
+        .syntax-content {
+            display: none;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            color: var(--text-zh);
+            background: #eaf4e8;
+            border-left: 3px solid var(--accent-color);
+            padding: 10px 12px;
+            border-radius: 4px;
+            margin-top: 6px;
+            width: 100%;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .syntax-content p {
+            margin-bottom: 6px;
+        }
+
+        .syntax-content ul {
+            padding-left: 18px;
+        }
+
+        .syntax-content li {
+            margin-bottom: 4px;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* 底部悬浮媒体控制中心 */
+        .progress-panel {
+            position: fixed;
+            bottom: 1.2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            width: calc(100% - 2rem);
+            max-width: 700px;
+            background: rgba(243, 250, 242, 0.92);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid #c2dac0;
+            border-radius: 20px;
+            padding: 1rem 1.5rem;
+            box-shadow: 0 12px 32px rgba(45, 59, 45, 0.08);
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+            animation: slideUp 0.5s ease;
+        }
+
+        @keyframes slideUp {
+            from { transform: translate(-50%, 100px); opacity: 0; }
+            to { transform: translate(-50%, 0); opacity: 1; }
+        }
+
+        .overall-progress-container {
+            width: 100%;
+            height: 6px;
+            background: #d4e4d2;
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .overall-progress-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, var(--accent-color), #5ea86c);
+            transition: width 0.1s linear;
+        }
+
+        .progress-controls-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .time-display {
+            font-size: 0.95rem;
+            font-variant-numeric: tabular-nums;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .time-display span {
+            color: var(--text-primary);
+        }
+
+        .media-controls {
+            display: flex;
+            gap: 1.2rem;
+        }
+
+        .media-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+
+        .media-btn:hover {
+            color: var(--accent-color);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .media-btn#play-btn {
+            background: var(--accent-color);
+            color: #ffffff;
+            box-shadow: 0 4px 12px rgba(59, 126, 71, 0.3);
+        }
+
+        .media-btn#play-btn:hover {
+            background: var(--accent-hover);
+            transform: scale(1.05);
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .sentence-block { padding: 1rem; }
+            .en { font-size: 1.1rem; }
+            .zh { font-size: 0.95rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lesson 56: Our Neighbour, the River</h1>
+        <p class="subtitle">第 56 课：我们的邻居——一条河</p>
+    </header>
+
+    <main class="text-container" id="text-container">
+        <!-- 句子将被 JS 渲染在此处 -->
+    </main>
+
+    <audio id="audio-player" src="Lesson-56.mp3"></audio>
+
+    <section class="progress-panel">
+        <div class="overall-progress-container" style="cursor: pointer;">
+            <div class="overall-progress-bar" id="overall-progress-bar"></div>
+        </div>
+        <div class="progress-controls-row">
+            <div class="time-display">
+                <span id="elapsed-time">00:00</span> / <span id="total-time">00:00</span>
+            </div>
+            <div class="media-controls" style="display: flex; gap: 8px;">
+                <button id="restart-btn" class="media-btn" title="从头重播" style="background: #e2f0e0; border: 1px solid #c2dac0; color: var(--text-primary);">
+                    <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"/><path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"/></svg>
+                </button>
+                <button id="play-btn" class="media-btn" title="播放/暂停">
+                    <svg id="play-icon" width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/></svg>
+                    <svg id="pause-icon" style="display:none;" width="20" height="20" fill="currentColor" viewBox="0 0 16 16"><path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z"/></svg>
+                </button>
+            </div>
+            <div class="skip-control" style="display: flex; align-items: center; gap: 12px;">
+                <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 4px;">
+                    <input type="checkbox" id="skip-question" checked style="cursor: pointer;"> 跳过课前指示与提问
+                </label>
+                <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 4px;">
+                    <input type="checkbox" id="loop-playback" checked style="cursor: pointer;"> 循环播放
+                </label>
+            </div>
+            <div class="speed-control" style="display: flex; align-items: center; gap: 8px;">
+                <label style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 600;">倍速:</label>
+                <select id="speed-select" style="height: 30px; padding: 2px 6px; border-radius: 6px; background: #e2f0e0; border: 1px solid #c2dac0; color: var(--text-primary); cursor: pointer;">
+                    <option value="0.5">0.5x</option>
+                    <option value="0.6">0.6x</option>
+                    <option value="0.7">0.7x</option>
+                    <option value="0.8">0.8x</option>
+                    <option value="0.9">0.9x</option>
+                    <option value="1.0" selected>1.0x</option>
+                </select>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        const articles = [
+            { start: 0.00, en: "Lesson 56: Our Neighbour, the River",
+                zh: "第 56 课：我们的邻居——一条河"
+            },
+            { start: 13.82, en: "The river which forms the eastern boundary of our farm has always played an important part in our lives.",
+                zh: "那条构成了我们农场东部边界的河流，在我们生活中一直扮演着重要的角色。",
+                syntax: {
+                    main: "The river (主语) + has always played (谓语) + an important part (宾语) + in our lives (状语)",
+                    components: [
+                        { part: "which forms the eastern boundary of our farm", role: "which 引导限制性定语从句，修饰主语 The river。" },
+                        { part: "has always played an important part in...", role: "play a part in 习惯搭配，表示在……中发挥/扮演……作用。" }
+                    ]
+                }
+            },
+            { start: 20.75, en: "Without it we could not make a living.",
+                zh: "没有它，我们就无法维持生计。",
+                syntax: {
+                    main: "we (主语) + could not make (谓语) + a living (宾语)",
+                    components: [
+                        { part: "Without it", role: "介词短语作隐性条件状语，相当于 If we did not have it。" },
+                        { part: "could not make a living", role: "含情态动词的虚拟语气表达（make a living 谋生）。" }
+                    ]
+                }
+            },
+            { start: 23.85, en: "There is only enough spring water to supply the needs of the house so we have to pump from the river for farm use.",
+                zh: "泉水仅够供应家庭日常所需，所以我们不得不从河里抽水供农场使用。",
+                syntax: {
+                    main: "由 so 连接的因果并列句",
+                    components: [
+                        { part: "分句1：There is only enough spring water...", role: "There be 存在句；to supply... 为不定式作后置定语修饰 water。" },
+                        { part: "分句2：so we have to pump from the river...", role: "so 引导结果从句；have to pump 为谓语；for farm use 作目的状语。" }
+                    ]
+                }
+            },
+            { start: 32.35, en: "We tell the river all our secrets.",
+                zh: "我们向这条河倾诉我们所有的秘密。",
+                syntax: {
+                    main: "We (主语) + tell (谓语) + the river (间接宾语) + all our secrets (直接宾语)",
+                    components: [
+                        { part: "the river", role: "拟人化手法，作双宾语结构中的间接宾语。" }
+                    ]
+                }
+            },
+            { start: 35.25, en: "We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it.",
+                zh: "我们凭直觉知道，就像养蜂人对待他们的蜜蜂一样，如果我们生活中重大的事件不与它联系在一起，不幸就可能会降临到我们头上。",
+                syntax: {
+                    main: "We (主语) + know (谓语) + that从句 (宾语从句)",
+                    components: [
+                        { part: "instinctively", role: "副词作状语，修饰 know。" },
+                        { part: "just as beekeepers with their bees", role: "方式状语从句/插入语，进行类比。" },
+                        { part: "that misfortune might overtake us if...", role: "that 引导宾语从句，从句中嵌套 if 引导的虚拟条件句（were not related to）。" }
+                    ]
+                }
+            },
+            { start: 48.57, en: "We have special river birthday parties in the summer.",
+                zh: "夏天，我们会在河边举行特别的生日派对。",
+                syntax: {
+                    main: "We (主语) + have (谓语) + special river birthday parties (宾语) + in the summer (时间状语)"
+                }
+            },
+            { start: 52.75, en: "Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse, which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving.",
+                zh: "有时我们向上游去往一处钟爱的回水湾，有时我们在船屋举行派对，那船屋是我们农场的前任主人建在草地上的，紧挨着最深的水潭，适合游泳和跳水。",
+                syntax: {
+                    main: "Sometimes..., sometimes... 引导的并列句",
+                    components: [
+                        { part: "which a predecessor of ours... built...", role: "which 引导非限制性定语从句，修饰 boathouse。" },
+                        { part: "hard by the deepest pool...", role: "hard by 介词短语表示“紧挨着”，作地点状语修饰 built。" },
+                        { part: "for swimming and diving", role: "介词短语作目的状语修饰 pool。" }
+                    ]
+                }
+            },
+            { start: 67.33, en: "In a heat wave we choose a midnight birthday party and that is the most exciting of all.",
+                zh: "在热浪袭来时，我们会选择在午夜举行生日派对，那是最令人兴奋的。",
+                syntax: {
+                    main: "由 and 连接的并列句",
+                    components: [
+                        { part: "In a heat wave", role: "介词短语作时间/条件状语。" },
+                        { part: "that is the most exciting of all", role: "that (主) + is (系) + the most exciting of all (表，最高级表达)。" }
+                    ]
+                }
+            },
+            { start: 74.13, en: "We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring, holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn, and throwing a holly wreath into the current in the winter.",
+                zh: "我们在河畔迎接四季的更迭：春天，为家里最小的女孩戴上花冠；仲夏夜，举办夏季庆典；秋天，为丰收感恩；冬天，将冬青花环投入湍急的河水中。",
+                syntax: {
+                    main: "We (主语) + welcome (谓语) + the seasons (宾语) + by the riverside (地点状语)",
+                    components: [
+                        { part: "crowning... holding... giving... and throwing...", role: "四个并列的现在分词短语作伴随/方式状语，分别对应春夏秋冬四季活动。" }
+                    ]
+                }
+            },
+            { start: 92.03, en: "After a long period of rain the river may overflow its banks.",
+                zh: "经过长期的降雨后，河水可能会漫过河岸。",
+                syntax: {
+                    main: "the river (主语) + may overflow (谓语) + its banks (宾语)",
+                    components: [
+                        { part: "After a long period of rain", role: "介词短语作时间状语。" }
+                    ]
+                }
+            },
+            { start: 97.63, en: "This is a rare occurrence as our climate seldom goes to extremes.",
+                zh: "这种情况很少见，因为我们的气候很少出现极端状况。",
+                syntax: {
+                    main: "This (主语) + is (系动词) + a rare occurrence (表语)",
+                    components: [
+                        { part: "as our climate seldom goes to extremes", role: "as 引导原因状语从句；go to extremes 表示“走极端/出现极端状况”。" }
+                    ]
+                }
+            },
+            { start: 102.57, en: "We are lucky in that only the lower fields, which make up a very small proportion of our farm, are affected by flooding, but other farms are less favourably sited, and flooding can sometimes spell disaster for their owners.",
+                zh: "我们很幸运，只有地势较低的田地会受到洪水影响，而这些田地在我们农场中所占比例很小，但其他农场的位置没那么好，洪水有时会给他们的主人带来灾难。",
+                syntax: {
+                    main: "由 in that、but 和 and 连接的复杂复合句",
+                    components: [
+                        { part: "We are lucky in that...", role: "in that 表示“在于/因为”，引导原因状语从句。" },
+                        { part: "which make up a very small proportion of our farm", role: "which 引导非限制性定语从句，修饰 lower fields。" },
+                        { part: "are affected by flooding", role: "被动语态。" },
+                        { part: "flooding can sometimes spell disaster...", role: "spell 在此表示“意味着，招致（灾难）”。" }
+                    ]
+                }
+            },
+            { start: 119.95, en: "One bad winter we watched the river creep up the lower meadows.",
+                zh: "有一个糟糕的冬天，我们眼看着河水漫上了低处的草地。",
+                syntax: {
+                    main: "we (主语) + watched (谓语) + the river (宾语) + creep up the lower meadows (不带 to 的不定式作宾语补足语)",
+                    components: [
+                        { part: "One bad winter", role: "名词短语作时间状语。" },
+                        { part: "watched the river creep up...", role: "watch + sb/sth + do (感官动词+裸不定式，表示观察动作全过程)。" }
+                    ]
+                }
+            },
+            { start: 125.61, en: "All the cattle had been moved into stalls and we stood to lose little.",
+                zh: "所有的牲畜都已转移到了棚圈里，我们几乎没有什么损失。",
+                syntax: {
+                    main: "由 and 连接的并列句",
+                    components: [
+                        { part: "All the cattle had been moved into stalls", role: "过去完成时被动语态（had been moved）。" },
+                        { part: "we stood to lose little", role: "stand to do sth 习惯用法，表示“处于……状况/势必”；lose little 表示“几乎没有损失”。" }
+                    ]
+                }
+            },
+            { start: 130.69, en: "We were, however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district.",
+                zh: "然而，我们很担心最近的邻居，他们的农场地势低洼，而且是刚搬到这个地区的新人。",
+                syntax: {
+                    main: "We (主) + were worried about (谓) + our nearest neighbours (宾)",
+                    components: [
+                        { part: "however", role: "副词作插入语，表转折。" },
+                        { part: "whose farm was low lying and who were newcomers...", role: "whose 和 who 引导的两个并列非限制性定语从句，共同修饰 neighbours。" }
+                    ]
+                }
+            },
+            { start: 139.35, en: "As the floods had put the telephone out of order, we could not find out how they were managing.",
+                zh: "由于洪水导致电话中断，我们无法得知他们的情况如何。",
+                syntax: {
+                    main: "we (主语) + could not find out (谓语) + how从句 (宾语从句)",
+                    components: [
+                        { part: "As the floods had put the telephone out of order", role: "As 引导原因状语从句；put... out of order 表示“使……故障/瘫痪”。" },
+                        { part: "how they were managing", role: "how 引导宾语从句，作 find out 的宾语。" }
+                    ]
+                }
+            },
+            { start: 145.97, en: "From an attic window we could get a sweeping view of the river where their land joined ours, and at the most critical juncture we took turns in watching that point.",
+                zh: "从阁楼的窗户，我们可以一览无余地看到他们土地与我们土地交界处的河流，在最关键的时刻，我们轮流在那儿监视着那个地点。",
+                syntax: {
+                    main: "由 and 连接的并列复合句",
+                    components: [
+                        { part: "From an attic window", role: "介词短语作地点/视角状语。" },
+                        { part: "get a sweeping view of...", role: "习惯表达，“一览无余地观察……”。" },
+                        { part: "where their land joined ours", role: "where 引导定语从句，修饰 river。" },
+                        { part: "at the most critical juncture", role: "介词短语作时间状语，“在最关键的关头/时刻”。" },
+                        { part: "took turns in watching...", role: "take turns in doing sth 表示“轮流做某事”。" }
+                    ]
+                }
+            },
+            { start: 157.53, en: "The first sign of disaster was a dead sheep floating down.",
+                zh: "灾难的第一个迹象是一只死羊漂了下来。",
+                syntax: {
+                    main: "The first sign of disaster (主语) + was (系动词) + a dead sheep (表语)",
+                    components: [
+                        { part: "floating down", role: "现在分词短语作后置定语修饰 sheep。" }
+                    ]
+                }
+            },
+            { start: 162.71, en: "Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted.",
+                zh: "接着是一匹马，它勇敢地游着，但我们担心在它精疲力竭之前，湍急的水流会使它无法在任何地方上岸。",
+                syntax: {
+                    main: "由 Next 引导的完全倒装句，以及后半句由 company 由 but 连接的并列复合句",
+                    components: [
+                        { part: "Next came a horse", role: "完全倒装句（副词 Next 置于句首，谓语 came 提到主语 a horse 前）。" },
+                        { part: "swimming bravely", role: "现在分词短语作伴随状语/后置定语。" },
+                        { part: "that the strength of the current would prevent...", role: "that 引导宾语从句作 afraid 的内容；prevent sb/sth doing 结构。" },
+                        { part: "before it became exhausted", role: "before 引导时间状语从句。" }
+                    ]
+                }
+            },
+            { start: 173.47, en: "Suddenly a raft appeared, looking rather like Noah's ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage.",
+                zh: "突然，一只木筏出现了，看起来很像诺亚方舟，载着全家人、几只母鸡、狗、一只猫和一只笼子里的鸟。",
+                syntax: {
+                    main: "a raft (主语) + appeared (谓语)",
+                    components: [
+                        { part: "looking rather like Noah's ark", role: "现在分词短语作状语/后置修饰。" },
+                        { part: "carrying the whole family, a few hens...", role: "现在分词短语作伴随状语，后接排比宾语。" }
+                    ]
+                }
+            },
+            { start: 185.61, en: "We realized that they must have become unduly frightened by the rising flood, for their house, which had sound foundations, would have stood stoutly even if it had been almost submerged.",
+                zh: "我们意识到他们一定是被上涨的洪水吓坏了，因为他们的房子地基稳固，即使几乎被淹没，也依然会屹立不倒。",
+                syntax: {
+                    main: "We (主) + realized (谓) + that从句 (宾)",
+                    components: [
+                        { part: "must have become unduly frightened...", role: "must have + p.p. 表示对过去推测；unduly 为副词表示“过度地”。" },
+                        { part: "for their house... would have stood stoutly...", role: "for 引导原因状语从句；would have stood 为虚拟语气主句。" },
+                        { part: "which had sound foundations", role: "which 引导非限制性定语从句修饰 house。" },
+                        { part: "even if it had been almost submerged", role: "even if 引导让步虚拟条件从句（had been submerged 为过去完成时被动）。" }
+                    ]
+                }
+            },
+            { start: 199.65, en: "The men of our family waded down through our flooded meadows with boat hooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towards our bank.",
+                zh: "我们家里的男人们带着船钩，涉水穿过被淹没的草地，希望能钩住木筏的一角，把它从水流中拉向我们的岸边。",
+                syntax: {
+                    main: "The men of our family (主语) + waded down (谓语) + through our flooded meadows (状语)",
+                    components: [
+                        { part: "with boat hooks", role: "介词短语作伴随状语。" },
+                        { part: "in the hope of being able to...", role: "in the hope of... 短语作目的状语；being able to grapple... and pull... 为并列动名词短语。" }
+                    ]
+                }
+            },
+            { start: 213.17, en: "We still think it a miracle that they were able to do so.",
+                zh: "我们至今仍认为他们能做到这一点简直是个奇迹。",
+                syntax: {
+                    main: "We (主语) + still think (谓语) + it (形式宾语) + a miracle (宾语补足语) + that从句 (真正宾语)",
+                    components: [
+                        { part: "it", role: "形式宾语代指后文的 that 从句。" },
+                        { part: "a miracle", role: "名词作宾语补足语。" },
+                        { part: "that they were able to do so", role: "that 引导主语/宾语从句作实际宾语内容。" }
+                    ]
+                }
+            }
+        ];
+
+        const textContainer = document.getElementById('text-container');
+        const audioPlayer = document.getElementById('audio-player');
+        const playBtn = document.getElementById('play-btn');
+        const playIcon = document.getElementById('play-icon');
+        const pauseIcon = document.getElementById('pause-icon');
+        const overallProgressContainer = document.querySelector('.overall-progress-container');
+        const overallProgressBar = document.getElementById('overall-progress-bar');
+        const elapsedTimeEl = document.getElementById('elapsed-time');
+        const totalTimeEl = document.getElementById('total-time');
+        const speedSelect = document.getElementById('speed-select');
+        const skipQuestionCheckbox = document.getElementById('skip-question');
+        const loopPlaybackCheckbox = document.getElementById('loop-playback');
+        let isSeekingSkip = false;
+
+        let currentActiveIndex = -1;
+        let singleSentenceEnd = null;
+
+        function formatTime(secs) {
+            if (isNaN(secs)) return '00:00';
+            const m = Math.floor(secs / 60).toString().padStart(2, '0');
+            const s = Math.floor(secs % 60).toString().padStart(2, '0');
+            return `${m}:${s}`;
+        }
+
+        function getEffectiveTimes() {
+            const rawCurrent = audioPlayer.currentTime || 0;
+            const rawDuration = audioPlayer.duration || 0;
+            const rate = audioPlayer.playbackRate || 1.0;
+            const isSkipping = skipQuestionCheckbox && skipQuestionCheckbox.checked;
+            
+            const headSkipDuration = 9.47; // 13.82 - 4.35
+            const textEndTime = 217.5;     // 课文最后一句朗读结束时间
+            const tailSkipDuration = rawDuration > textEndTime ? (rawDuration - textEndTime) : 4.93;
+            const totalSkipDuration = headSkipDuration + tailSkipDuration;
+
+            let effectiveCurrent = rawCurrent;
+            let effectiveDuration = isSkipping ? Math.max(0, rawDuration - totalSkipDuration) : rawDuration;
+
+            if (isSkipping) {
+                if (rawCurrent >= textEndTime) {
+                    effectiveCurrent = Math.max(0, rawDuration - totalSkipDuration);
+                } else if (rawCurrent >= 13.82) {
+                    effectiveCurrent = rawCurrent - headSkipDuration;
+                } else if (rawCurrent > 4.35) {
+                    effectiveCurrent = 4.35;
+                }
+            }
+
+            return {
+                current: effectiveCurrent / rate,
+                duration: effectiveDuration / rate,
+                pct: effectiveDuration > 0 ? Math.min(100, (effectiveCurrent / effectiveDuration) * 100) : 0
+            };
+        }
+
+        function updateTimeDisplays() {
+            const times = getEffectiveTimes();
+            overallProgressBar.style.width = `${times.pct}%`;
+            elapsedTimeEl.textContent = formatTime(times.current);
+            totalTimeEl.textContent = formatTime(times.duration);
+        }
+
+        function handlePlaybackEnd() {
+            singleSentenceEnd = null;
+            if (loopPlaybackCheckbox && loopPlaybackCheckbox.checked) {
+                audioPlayer.currentTime = 0;
+                audioPlayer.play();
+            } else {
+                audioPlayer.pause();
+                audioPlayer.currentTime = 0;
+                setActiveBlock(-1);
+                updateTimeDisplays();
+            }
+        }
+
+        audioPlayer.addEventListener('loadedmetadata', updateTimeDisplays);
+        audioPlayer.addEventListener('durationchange', updateTimeDisplays);
+
+        audioPlayer.addEventListener('ended', () => {
+            handlePlaybackEnd();
+        });
+
+        audioPlayer.addEventListener('timeupdate', () => {
+            const current = audioPlayer.currentTime;
+
+            if (singleSentenceEnd !== null && current >= singleSentenceEnd) {
+                audioPlayer.pause();
+                singleSentenceEnd = null;
+                return;
+            }
+
+            const isSkipping = skipQuestionCheckbox && skipQuestionCheckbox.checked;
+            
+            // 1. 自动跳过 4.35s 到 13.82s 之间的 Listen to the tape 指令及课前提问部分
+            if (isSkipping && current >= 4.35 && current < 13.82 && !isSeekingSkip) {
+                isSeekingSkip = true;
+                audioPlayer.currentTime = 13.82;
+                setTimeout(() => { isSeekingSkip = false; }, 300);
+                return;
+            }
+
+            // 2. 结尾最后一句朗读完 (217.5s) 后：若开启跳过则直接跳过片尾提示音，触发播放结束/循环
+            if (isSkipping && current >= 217.5 && !audioPlayer.paused && !isSeekingSkip) {
+                isSeekingSkip = true;
+                handlePlaybackEnd();
+                setTimeout(() => { isSeekingSkip = false; }, 500);
+                return;
+            }
+
+            updateTimeDisplays();
+
+            let activeIdx = -1;
+            for (let i = 0; i < articles.length; i++) {
+                if (articles[i].start !== undefined && current >= articles[i].start) {
+                    activeIdx = i;
+                } else if (articles[i].start !== undefined && current < articles[i].start) {
+                    break;
+                }
+            }
+
+            if (activeIdx !== currentActiveIndex) {
+                currentActiveIndex = activeIdx;
+                setActiveBlock(currentActiveIndex);
+            }
+        });
+
+        skipQuestionCheckbox.addEventListener('change', () => {
+            updateTimeDisplays();
+        });
+
+        // seek on progress bar click
+        overallProgressContainer.addEventListener('click', (e) => {
+            singleSentenceEnd = null;
+            const rect = overallProgressContainer.getBoundingClientRect();
+            const clickX = e.clientX - rect.left;
+            const width = rect.width;
+            const pct = clickX / width;
+            const isSkipping = skipQuestionCheckbox && skipQuestionCheckbox.checked;
+            const headSkipDuration = 9.47;
+            const textEndTime = 217.5;
+            const rawDuration = audioPlayer.duration || 0;
+            const tailSkipDuration = rawDuration > textEndTime ? (rawDuration - textEndTime) : 4.93;
+            const totalSkipDuration = headSkipDuration + tailSkipDuration;
+
+            if (rawDuration > 0) {
+                let targetEffective = pct * (isSkipping ? Math.max(0, rawDuration - totalSkipDuration) : rawDuration);
+                let targetRaw = targetEffective;
+                if (isSkipping && targetEffective >= 4.35) {
+                    targetRaw = targetEffective + headSkipDuration;
+                }
+                audioPlayer.currentTime = targetRaw;
+            }
+        });
+
+        const restartBtn = document.getElementById('restart-btn');
+        restartBtn.addEventListener('click', () => {
+            singleSentenceEnd = null;
+            audioPlayer.currentTime = 0;
+            audioPlayer.play();
+        });
+
+        playBtn.addEventListener('click', () => {
+            singleSentenceEnd = null;
+            if (audioPlayer.paused) {
+                audioPlayer.play();
+            } else {
+                audioPlayer.pause();
+            }
+        });
+
+        audioPlayer.addEventListener('play', () => {
+            playIcon.style.display = 'none';
+            pauseIcon.style.display = 'block';
+        });
+
+        audioPlayer.addEventListener('pause', () => {
+            playIcon.style.display = 'block';
+            pauseIcon.style.display = 'none';
+        });
+
+        speedSelect.addEventListener('change', () => {
+            const rate = parseFloat(speedSelect.value);
+            audioPlayer.playbackRate = rate;
+            updateTimeDisplays();
+        });
+
+        function setActiveBlock(index) {
+            document.querySelectorAll('.sentence-block').forEach((block, i) => {
+                if (i === index) {
+                    block.classList.add('active');
+                    block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else {
+                    block.classList.remove('active');
+                }
+            });
+        }
+
+        const synth = window.speechSynthesis;
+        let voices = [];
+        if (synth && synth.onvoiceschanged !== undefined) {
+            synth.onvoiceschanged = () => { voices = synth.getVoices(); };
+        }
+
+        function speakWord(wordText) {
+            synth.cancel();
+            const cleanWord = wordText.replace(/[^a-zA-Z0-9'-]/g, '');
+            const utterance = new SpeechSynthesisUtterance(cleanWord);
+            if (voices.length === 0) {
+                voices = synth.getVoices();
+            }
+            const samantha = voices.find(v => v.name.includes('Samantha'));
+            if (samantha) {
+                utterance.voice = samantha;
+            } else {
+                const enVoice = voices.find(v => v.lang.toLowerCase().startsWith('en'));
+                if (enVoice) utterance.voice = enVoice;
+            }
+            utterance.rate = 0.6;
+            synth.speak(utterance);
+        }
+
+        function renderSentenceHTML(text) {
+            const regex = /([a-zA-Z0-9]+(?:[-'][a-zA-Z0-9]+)*)|([^\s\w]+)|(\s+)/g;
+            let match;
+            let html = '';
+            
+            regex.lastIndex = 0;
+            while ((match = regex.exec(text)) !== null) {
+                const token = match[0];
+                const word = match[1];
+                const start = match.index;
+                const end = regex.lastIndex;
+                
+                if (word) {
+                    html += `<span class="word" data-start="${start}" data-end="${end}">${token}</span>`;
+                } else {
+                    html += `<span>${token}</span>`;
+                }
+            }
+            return html;
+        }
+
+        function renderText() {
+            textContainer.innerHTML = '';
+            articles.forEach((item, index) => {
+                const block = document.createElement('div');
+                block.className = 'sentence-block';
+                block.dataset.index = index;
+                
+                let syntaxHTML = '';
+                if (item.syntax) {
+                    syntaxHTML = `
+                        <div class="syntax-toggle">📌 语法分析 / Grammar Breakdown</div>
+                        <div class="syntax-content">
+                            <p><strong>句子主干：</strong>${item.syntax.main}</p>
+                            <ul>
+                                ${item.syntax.components ? item.syntax.components.map(c => `<li><strong>${c.part}</strong>: ${c.role}</li>`).join('') : ''}
+                            </ul>
+                        </div>
+                    `;
+                }
+
+                block.innerHTML = `
+                    <p class="en">${renderSentenceHTML(item.en)}</p>
+                    <p class="zh">${item.zh}</p>
+                    ${syntaxHTML}
+                `;
+
+                block.addEventListener('click', () => {
+                    if (item.start === undefined) return;
+                    const wasPlaying = !audioPlayer.paused;
+                    if (wasPlaying) {
+                        singleSentenceEnd = null;
+                        audioPlayer.currentTime = item.start;
+                        audioPlayer.play();
+                    } else {
+                        const nextItem = articles.slice(index + 1).find(it => it.start !== undefined);
+                        singleSentenceEnd = nextItem ? nextItem.start : (audioPlayer.duration || (item.start + 30));
+                        audioPlayer.currentTime = item.start;
+                        audioPlayer.play();
+                    }
+                });
+
+                block.querySelectorAll('.word').forEach(wordSpan => {
+                    wordSpan.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        speakWord(e.target.textContent);
+                    });
+                });
+
+                const toggleBtn = block.querySelector('.syntax-toggle');
+                if (toggleBtn) {
+                    toggleBtn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        const content = toggleBtn.nextElementSibling;
+                        if (content.style.display === 'block') {
+                            content.style.display = 'none';
+                            toggleBtn.innerHTML = '📌 语法分析 / Grammar Breakdown';
+                        } else {
+                            content.style.display = 'block';
+                            toggleBtn.innerHTML = '⚡️ 收起分析 / Close Breakdown';
+                        }
+                    });
+                }
+                
+                textContainer.appendChild(block);
+            });
+        }
+
+        /* 释义浮窗逻辑 */
+        const tooltip = document.createElement('div');
+        tooltip.className = 'dict-tooltip';
+        tooltip.innerHTML = `
+            <div class="dict-word-row">
+                <span class="dict-tooltip-word"></span>
+                <span class="dict-tooltip-ipa"></span>
+            </div>
+            <div class="dict-tooltip-pos"></div>
+            <div class="dict-tooltip-trans"></div>
+        `;
+        document.body.appendChild(tooltip);
+
+        let hoverTimeout = null;
+        let dictCache = {};
+
+        textContainer.addEventListener('mouseover', (e) => {
+            const wordSpan = e.target.closest('.word');
+            if (!wordSpan) return;
+
+            const word = wordSpan.textContent.replace(/[^a-zA-Z0-9'-]/g, '').toLowerCase();
+            if (!word) return;
+
+            clearTimeout(hoverTimeout);
+            hoverTimeout = setTimeout(() => {
+                showTooltip(wordSpan, word);
+            }, 300);
+        });
+
+        textContainer.addEventListener('mouseout', (e) => {
+            const wordSpan = e.target.closest('.word');
+            if (!wordSpan) return;
+            clearTimeout(hoverTimeout);
+            hideTooltip();
+        });
+
+        function showTooltip(target, word) {
+            const tooltipWord = tooltip.querySelector('.dict-tooltip-word');
+            const tooltipIpa = tooltip.querySelector('.dict-tooltip-ipa');
+            const tooltipPos = tooltip.querySelector('.dict-tooltip-pos');
+            const tooltipTrans = tooltip.querySelector('.dict-tooltip-trans');
+
+            tooltipWord.textContent = word;
+            tooltipIpa.textContent = "";
+            tooltipPos.textContent = "";
+            tooltipTrans.textContent = "正在查询...";
+            
+            tooltip.classList.add('visible');
+            adjustTooltipPosition(target);
+
+            if (dictCache[word]) {
+                const cached = dictCache[word];
+                tooltipIpa.textContent = cached.ipa;
+                tooltipPos.textContent = cached.pos;
+                tooltipTrans.textContent = cached.trans;
+                adjustTooltipPosition(target);
+            } else {
+                Promise.all([
+                    fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=${encodeURIComponent(word)}`).then(res => res.json()),
+                    fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`).then(res => res.json()).catch(() => null)
+                ])
+                .then(([transData, dictData]) => {
+                    const trans = transData[0][0][0];
+                    let ipa = "";
+                    let pos = "";
+                    
+                    if (dictData && dictData[0]) {
+                        ipa = dictData[0].phonetic || (dictData[0].phonetics && dictData[0].phonetics.find(p => p.text)?.text) || "";
+                        if (dictData[0].meanings) {
+                            const parts = dictData[0].meanings.map(m => m.partOfSpeech);
+                            pos = [...new Set(parts)].join(', ');
+                        }
+                    }
+                    
+                    const result = { ipa, pos, trans };
+                    dictCache[word] = result;
+                    
+                    if (tooltipWord.textContent === word) {
+                        tooltipIpa.textContent = ipa;
+                        tooltipPos.textContent = pos;
+                        tooltipTrans.textContent = trans;
+                        adjustTooltipPosition(target);
+                    }
+                })
+                .catch(() => {
+                    if (tooltipWord.textContent === word) {
+                        tooltipTrans.textContent = "查询失败";
+                    }
+                });
+            }
+        }
+
+        function adjustTooltipPosition(target) {
+            const rect = target.getBoundingClientRect();
+            const tooltipRect = tooltip.getBoundingClientRect();
+            let left = rect.left + (rect.width - tooltipRect.width) / 2 + window.scrollX;
+            const maxLeft = window.innerWidth - tooltipRect.width - 10;
+            left = Math.min(maxLeft, Math.max(10, left));
+            const top = rect.top - tooltipRect.height - 8 + window.scrollY;
+            tooltip.style.left = `${left}px`;
+            tooltip.style.top = `${top}px`;
+        }
+
+        function hideTooltip() {
+            tooltip.classList.remove('visible');
+        }
+
+        renderText();
+    </script>
+</body>
+</html>
